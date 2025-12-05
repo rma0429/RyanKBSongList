@@ -1,0 +1,36 @@
+
+Singer/KEY: Steph [Bb] , 丰[C] , 竹 [D] , Carlos [E] , 湘 [D] 
+Style: [Piano] 
+Reggae[0228 128]
+Singer: Carlos, Steph, 丰, 湘, 竹
+
+---
+
+> [Lyrics]
+> 
+> 
+> 
+> Wise men say
+> Only fools rush in
+> But I can't help falling in love with you
+> Shall I stay?
+> Would it be a sin
+> If I can't help falling in love with you?
+> 
+> Like a river flows
+> Surely to the sea
+> Darling, so it goes
+> Some things are meant to be
+> Take my hand,
+> Take my whole life, too
+> For I can't help falling in love with you
+> 
+> Like a river flows
+> Surely to the sea
+> Darling, so it goes
+> Some things are meant to be
+> Take my hand,
+> Take my whole life, too
+> For I can't help falling in love with you
+> For I can't help falling in love with you
+>

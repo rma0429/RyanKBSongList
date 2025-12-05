@@ -1,0 +1,42 @@
+
+Singer/KEY: 丰 [F] 
+Style: [0174 90]
+Singer: 丰
+
+---
+
+> [Lyrics]
+> 
+> 
+> It's your thing, do what you wanna do
+> I can't tell you, who to sock it to
+> It's your thing, do what you wanna do
+> I can't tell you, who to sock it to
+> 
+> If you want me to love you, maybe I will
+> Believe me woman, it ain't no big deal
+> You need love now, just as bad as I do
+> Make's me no difference now, who you give your thing to
+> 
+> It's your thing, do what you wanna do
+> I can't tell you, who to sock it to
+> It's your thing, do what you wanna do
+> I can't tell you, who to sock it to
+> 
+> It's your thing, do what you wanna do
+> I can't tell you, who to sock it to
+> It's your thing, do what you wanna do
+> I can't tell you, who to sock it to
+> 
+> I'm not trying to run your life, I know you wanna do what's right
+> Give your love now, to whoever you choose
+> How can you lose, with the stuff you use now
+> 
+> It's your thing, do what you wanna do
+> I can't tell you, who to sock it to
+> It's your thing, do what you wanna do
+> Don't let me tell you, who to sock it to
+> 
+> It's your thing, I do what I wanna do
+> I can't tell you, who to sock it to
+>

@@ -1,0 +1,61 @@
+
+Singer/KEY: Steph [B] , 竹 [B] 
+Style: [Piano]
+Singer: Steph, 竹
+
+B→C
+
+---
+
+> [Lyrics]
+> 
+> 
+> Start spreadin' the news
+> I'm leavin' today
+> I want to be a part of it
+> New York, New York
+> 
+> These vagabond shoes
+> Are longing to stray
+> Right through the very heart of it
+> New York, New York
+> 
+> I want to wake up
+> In a city that doesn't sleep
+> And find I'm king of the hill
+> Top of the heap
+> 
+> These little-town blues
+> Are melting away
+> I'll make a brand new start of it
+> In old New York
+> 
+> If I can make it there
+> I'll make it
+> Anywhere
+> It's up to you
+> New York, New York
+> 
+> [Musical interlude]
+> 
+> New York, New York
+> I want to wake up in a city
+> That never sleeps
+> 
+> And find I'm A number one
+> Top of the list
+> King of the hill
+> A number one
+> 
+> These little town blues
+> Are melting away
+> I'm gonna make a brand new start of it
+> In old New York
+> 
+> And if I can make it there
+> I'm gonna make it anywhere
+> It's up to you
+> New York, New York
+> 
+> New York
+>

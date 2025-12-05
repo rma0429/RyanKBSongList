@@ -1,0 +1,71 @@
+
+Singer/KEY: Steph [D] , 丰 [F#] , Carlos [A] 
+Style: [0053 80]
+Singer: Carlos, Steph, 丰
+
+---
+
+> [Lyrics]
+> 
+> 
+> [in 1-1]
+> 
+> [2]
+> When your legs don't work like they used to before
+> And I can't sweep you off of your feet
+> Will your mouth still remember the taste of my love
+> Will your eyes still smile from your cheeks
+> And darling I will be loving you 'til we're 70
+> And baby my heart could still fall as hard at 23
+> And I'm thinking 'bout how
+> 
+> [3]
+> people fall in love in mysterious ways
+> Maybe just the touch of a hand
+> Oh me I fall in love with you every single day
+> And I just wanna tell you I am
+> 
+> [4]
+> So honey now
+> Take me into your loving arms
+> Kiss me under the light of a thousand stars
+> Place your head on my beating heart
+> I'm thinking out loud
+> Maybe we found love right where we are
+> 
+> [2]
+> When my hair's all but gone and my memory fades
+> And the crowds don't remember my name
+> When my hands don't play the strings the same way, mm
+> I know you will still love me the same
+> 'Cause honey your soul can never grow old, it's evergreen
+> Baby your smile's forever in my mind and memory
+> I'm thinking 'bout how
+> 
+> [3]
+> people fall in love in mysterious ways
+> Maybe it's all part of a plan
+> I'll just keep on making the same mistakes
+> Hoping that you'll understand
+> 
+> [4]
+> But baby now
+> Take me into your loving arms
+> Kiss me under the light of a thousand stars
+> Place your head on my beating heart
+> I'm thinking out loud
+> That maybe we found love right where we are, oh
+> 
+> [3]
+> Solo
+> 
+> [4]
+> So baby now
+> Take me into your loving arms
+> Kiss me under the light of a thousand stars
+> Oh darling, place your head on my beating heart
+> I'm thinking out loud
+> That maybe we found love right where we are
+> Oh baby, we found love right where we are (maybe)
+> And we found love right where we are
+>
