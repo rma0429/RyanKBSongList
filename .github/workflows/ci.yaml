@@ -26,9 +26,9 @@ jobs:
         with:
           node-version: 22
       - name: Install Dependencies
-        run: npm install  # <--- 這裡改成了 install，保證能安裝成功
+        run: npm install
       - name: Build Quartz
-        run: npx quartz build
+        run: node quartz/bootstrap-cli.mjs build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
