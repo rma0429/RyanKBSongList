@@ -1,5 +1,5 @@
 ---
-title:"🎹 Welcome to Ryan's Song List / 歡迎來到 Ryan 的歌單"
+title: "🎹 Welcome to Ryan's Song List / 歡迎來到 Ryan 的歌單"
 ---
 
 🚀 How to Navigate / 如何使用本站
