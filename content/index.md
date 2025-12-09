@@ -1,5 +1,5 @@
 ---
-title: "🎹 Welcome to Ryan's Song List / 歡迎來到 Ryan 的歌單"
+title: 🎹 Ryan's Song List
 ---
 
 🚀 How to Navigate / 如何使用本站
@@ -21,3 +21,10 @@ Use the Explorer on the left sidebar to navigate through folders (e.g., Language
 Check the graph on the right to see how songs and artists are connected.
 
 查看右側的關聯圖，探索歌曲與歌手之間的連結網絡。
+
+## 🎤 Artists (演唱歌手 ) >
+- [[歌手/演唱/Ryan]] 
+- [[歌手/演唱/歌手B]] 
+- [[歌手/演唱/歌手C]] 
+
+
