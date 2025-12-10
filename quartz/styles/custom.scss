@@ -1,3 +1,39 @@
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+@media (max-width: 750px) {
+  .two-columns {
+    grid-template-columns: 1fr;
+  }
+}
 @use "./base.scss";
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+@media (max-width: 750px) {
+  .two-columns {
+    grid-template-columns: 1fr;
+  }
+}
 
 // put your custom CSS here!
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+@media (max-width: 750px) {
+  .two-columns {
+    grid-template-columns: 1fr;
+  }
+}
