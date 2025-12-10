@@ -1,5 +1,5 @@
 ---
-title: TEST
+title: Template V.2
 tags:
   - 歌單
   - 丰
@@ -19,14 +19,13 @@ Style: "Ballad (Speed: 70)"
 <div class="two-columns">
 
   <div>
-  ### 📄 歌詞
-  ![[assets/歌詞截圖.png]]
+  ### 📄
+
   </div>
 
   <div>
-  ### 🎵 樂譜筆記
-  - 前奏：
-  - 間奏：
+  ### 🎵 
+
   </div>
 
 </div>
