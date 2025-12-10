@@ -24,7 +24,7 @@ Check the graph on the right to see how songs and artists are connected.
 
 ## 🎤 Artists (演唱歌手 ) >
 - [[歌手/演唱/Ryan]] 
-- [[歌手/演唱/歌手B]] 
+- [[歌手/演唱/singer A]] 
 - [[歌手/演唱/歌手C]] 
 
 

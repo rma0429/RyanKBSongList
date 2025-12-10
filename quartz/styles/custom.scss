@@ -1,30 +1,16 @@
-.two-columns {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  align-items: start;
-}
-
-@media (max-width: 750px) {
-  .two-columns {
-    grid-template-columns: 1fr;
-  }
-}
+// ------------------------------------
+// 這是 Quartz 預設的引入規則，必須放在最前面！
+// ------------------------------------
 @use "./base.scss";
-.two-columns {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  align-items: start;
-}
+@import styles from "../styles/custom.scss";
+// ------------------------------------
 
-@media (max-width: 750px) {
-  .two-columns {
-    grid-template-columns: 1fr;
-  }
-}
 
-// put your custom CSS here!
+// ------------------------------------
+// 你的自定義 CSS 必須放在這裡之後
+// ------------------------------------
+
+// 雙欄排版
 .two-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
