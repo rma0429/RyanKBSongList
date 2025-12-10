@@ -416,7 +416,7 @@ E_A7_Styles:
   "396": { name: "South Indian", category: "India" }  
   "397": { name: "South Masti", category: "India" }
 
-  # World - Thailand  
+  # World - Thailand  
   "398": { name: "Thai Cha Cha", category: "Thailand" }  
   "399": { name: "I'SanChaCha1", category: "Thailand" }  
   "400": { name: "I'SanChaCha2", category: "Thailand" }  
@@ -429,7 +429,7 @@ E_A7_Styles:
   "407": { name: "TaLoong", category: "Thailand" }  
   "408": { name: "SongMai", category: "Thailand" }
 
-  # World - China  
+  # World - China  
   "409": { name: "Chinese Blue", category: "China" }  
   "410": { name: "ChineseBossa", category: "China" }  
   "411": { name: "CHN Jazz Pop", category: "China" }  
@@ -437,7 +437,7 @@ E_A7_Styles:
   "413": { name: "CHN TeenFunk", category: "China" }  
   "414": { name: "2RTechno", category: "China" }
 
-  # World - Khaligi  
+  # World - Khaligi  
   "415": { name: "Romba 1", category: "Khaligi" }  
   "416": { name: "Shakshaka", category: "Khaligi" }  
   "417": { name: "Khubety 2", category: "Khaligi" }  
@@ -494,7 +494,7 @@ E_A7_Styles:
   "468": { name: "Sout 2", category: "Khaligi" }  
   "469": { name: "Zaffakhaligi", category: "Khaligi" }
 
-  # World - Oriental  
+  # World - Oriental  
   "470": { name: "Ayoub Live", category: "Oriental" }  
   "471": { name: "Baladi Live", category: "Oriental" }  
   "472": { name: "BaladiSharki", category: "Oriental" }  
@@ -579,7 +579,7 @@ E_A7_Styles:
   "551": { name: "Zar", category: "Oriental" }  
   "552": { name: "Zekr", category: "Oriental" }
 
-  # World - Maghrebi  
+  # World - Maghrebi  
   "553": { name: "Alleji", category: "Maghrebi" }  
   "554": { name: "AjmiHadra", category: "Maghrebi" }  
   "555": { name: "BarawelTunsi", category: "Maghrebi" }  
@@ -617,7 +617,7 @@ E_A7_Styles:
   "587": { name: "Zaabi", category: "Maghrebi" }  
   "588": { name: "Zayani 6-8", category: "Maghrebi" }
 
-  # World - Turkish  
+  # World - Turkish  
   "589": { name: "2-4-Dugun", category: "Turkish" }  
   "590": { name: "4-4-OR-1", category: "Turkish" }  
   "591": { name: "6-8 Azeri", category: "Turkish" }  
@@ -644,7 +644,7 @@ E_A7_Styles:
   "612": { name: "Vahde-R&B", category: "Turkish" }  
   "613": { name: "Zeybek", category: "Turkish" }
 
-  # World - East Europe  
+  # World - East Europe  
   "614": { name: "HU Loca-Loca", category: "East Europe" }  
   "615": { name: "HU MulatosCs", category: "East Europe" }  
   "616": { name: "HU Palinka", category: "East Europe" }  
@@ -682,7 +682,7 @@ E_A7_Styles:
   "648": { name: "SRB Rumba", category: "East Europe" }  
   "649": { name: "SRB Tambrasi", category: "East Europe" }
 
-  # World - Latin America  
+  # World - Latin America  
   "650": { name: "LAS Bachata", category: "Latin America" }  
   "651": { name: "Chunchaca", category: "Latin America" }  
   "652": { name: "NortenoPolka", category: "Latin America" }  
@@ -698,7 +698,7 @@ E_A7_Styles:
   "662": { name: "ValintMereng", category: "Latin America" }  
   "663": { name: "ValintRomntc", category: "Latin America" }
 
-  # World - Brazil  
+ # World - Brazil  
   "664": { name: "PopReggae Br", category: "Brazil" }  
   "665": { name: "Funk Carioca", category: "Brazil" }  
   "666": { name: "MPB Funk", category: "Brazil" }  
@@ -720,3 +720,4 @@ E_A7_Styles:
   "682": { name: "Vanerao", category: "Brazil" }  
   "683": { name: "Chamame", category: "Brazil" }  
 ---
+ 

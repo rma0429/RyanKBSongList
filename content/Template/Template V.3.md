@@ -49,7 +49,7 @@ const coverInfo = parseNestedTag("#Singer/");
 // --- 5. 讀取節奏資料 ---
 const styleNum = page.style_number;
 const bpm = page.bpm;
-const db = dv.page("content/E-A7_Styles.md"); 
+const db = dv.page("content/Metadata/E-A7_Styles.md"); 
 let styleName = "未選擇";
 
 if (styleNum && db && db.E_A7_Styles && db.E_A7_Styles[styleNum]) {
