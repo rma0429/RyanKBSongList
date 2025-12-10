@@ -1,69 +1,65 @@
 ---
-title: Test song title
+title: Template test
 tags:
   - 原唱/周杰倫
-  - 原Key/C
-  - Singer/小丰/D
+  - 原Key/E
+  - Singer/小丰/G
 style_number: "110"
 bpm: "100"
 ---
 
+<%*
+// --- 1. 讀取目前的 Tags (Templater 版本) ---
+// 注意：如果是新建檔案，有時候 tags 還沒寫入 cache，建議填完 tag 後再手動執行模板
+const currentFile = tp.file.find_tfile(tp.file.path(true));
+const cache = app.metadataCache.getFileCache(currentFile);
+const tags = cache?.tags?.map(t => t.tag) || [];
 
-`$= 
-// --- 1. 初始設定 ---
-const page = dv.current();
-const tags = page.file.tags || [];
-
-// --- 2. 工具函式：抓取單層標籤 (給原唱用) ---
+// --- 2. 工具函式：從 Tag 抓資料 ---
 function getTagVal(prefix) {
-    // 找到以 prefix 開頭的 tag (例如 "#原唱/")
     const found = tags.find(t => t.startsWith(prefix));
     return found ? found.substring(prefix.length) : "未設定";
 }
 
-// --- 3. 工具函式：抓取巢狀標籤 (給演唱者用：#Singer/名字/Key) ---
 function parseNestedTag(prefix) {
-    // 找到以 prefix 開頭的 tag (例如 "#Singer/")
     const found = tags.find(t => t.startsWith(prefix));
-    
     if (!found) return { name: "未設定", key: "無" };
-
-    // 移除前綴，剩下的字串 (例如 "小丰/Ab")
     const content = found.substring(prefix.length);
-    const parts = content.split("/"); // 用斜線切開
-
-    return {
-        name: parts[0] || "未設定", // 第一段是名字
-        key: parts[1] || "無"      // 第二段是 Key
-    };
+    const parts = content.split("/"); 
+    return { name: parts[0] || "未設定", key: parts[1] || "無" };
 }
 
-// --- 4. 執行抓取 ---
-// 原唱部分：分開抓
+// 執行抓取
 const orgArtist = getTagVal("#原唱/");
 const orgKey    = getTagVal("#原Key/");
+const coverInfo = parseNestedTag("#Singer/"); // 抓取 #Singer/名字/Key
 
-// 演唱部分：一起抓 (使用 #Singer/ 前綴)
-const coverInfo = parseNestedTag("#Singer/"); 
-
-// --- 5. 讀取節奏資料 ---
-const styleNum = page.style_number;
-const bpm = page.bpm;
-const db = dv.page("content/Metadata/E-A7_Styles.md"); 
+// --- 3. 讀取節奏資料庫 ---
+const styleNum = tp.frontmatter.style_number;
+const bpm = tp.frontmatter.bpm;
+const dbPath = "content/E-A7_Styles.md"; 
 let styleName = "未選擇";
 
-if (styleNum && db && db.E_A7_Styles && db.E_A7_Styles[styleNum]) {
-    styleName = db.E_A7_Styles[styleNum].name;
+const styleFile = app.vault.getAbstractFileByPath(dbPath);
+if (styleFile) {
+    const fileCache = app.metadataCache.getFileCache(styleFile);
+    if (fileCache?.frontmatter?.E_A7_Styles) {
+        const data = fileCache.frontmatter.E_A7_Styles;
+        if (data && data[styleNum]) {
+            styleName = data[styleNum].name;
+            // 順便把自動抓到的名稱寫回屬性
+            await tp.file.updateFrontmatter({ style_name: styleName });
+        }
+    }
 }
+%>
 
-// --- 6. 輸出顯示 (HTML) ---
-dv.paragraph(`
+# <%= tp.file.title %>
+
 > [!info] 歌曲資訊
-> - **🎹 原唱：** [[歌手/原唱/${orgArtist}|${orgArtist}]] (原 Key: ${orgKey})
-> - **🎤 演唱：** [[歌手/演唱/${coverInfo.name}|${coverInfo.name}]] (#${coverInfo.key})
-> - **🥁 節奏設定：** ${styleName} - ${styleNum || "?"} (BPM: ${bpm || "?"})
-`);
-`
+> - **🎹 原唱：** [[歌手/原唱/<% orgArtist %>|<% orgArtist %>]] (原 Key: <% orgKey %>)
+> - **🎤 演唱：** [[歌手/演唱/<% coverInfo.name %>|<% coverInfo.name %>]] (#<% coverInfo.key %>)
+> - **🥁 節奏設定：** <% styleName %> - <% styleNum %> (BPM: <% bpm %>)
 
 <div style="display: flex; gap: 2em; align-items: start;">
 
