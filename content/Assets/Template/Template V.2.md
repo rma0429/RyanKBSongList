@@ -4,12 +4,12 @@ tags:
   - 歌單
   - 丰
   - Steph
-original_key: D
-Singer_key: F
+original_key:
+Singer_key:
 Style: "Ballad (Speed: 70)"
 ---
 
-# {{TEST}}
+# {Song Title}}
 
 > [!info] 歌曲資訊
 > - **🎹 原唱：** [[歌手/原唱/{{original_artist}}]]
