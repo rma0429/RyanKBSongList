@@ -1,20 +1,23 @@
-#-６
-#-５
-#-４
-#-３ 
-#-２
-#-１
-#００
-#１
-#２ 
-#３
-#４
-#５
+KEY
+- #Gb
+- #G
+- #Ab
+- #A
+- #Bb
+- #B
+- #C
+- #Db
+- #D
+- #Eb
+- #E
+- #F
 
 Singer
-#Steph 
-#竹
-#丰
-#湘
-#Carlos
+- #Steph 
+- #竹
+- #丰
+- #湘
+- #Carlos
+
+Original Singer
 
