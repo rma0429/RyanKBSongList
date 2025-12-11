@@ -92,19 +92,20 @@ if (Array.isArray(tags)) {
 // ==========================================
 
 tR += "> [!info] 歌曲資訊\n";
-// 第一區：原唱
 tR += "> - **🎹 原唱：** [[歌手/原唱/" + orgArtist + "|" + orgArtist + "]] (原 Key: " + orgKey + ")\n";
 
-// 分隔線 1
+// 分隔線區塊 1 (上下加 > \n)
+tR += "> \n"; 
 tR += "> <hr style=\"margin: 0.5em 0; border-color: rgba(255,255,255,0.2);\">\n";
+tR += "> \n";
 
-// 第二區：演唱者
 tR += singerListMarkdown;
 
-// 分隔線 2
+// 分隔線區塊 2 (上下加 > \n)
+tR += "> \n";
 tR += "> <hr style=\"margin: 0.5em 0; border-color: rgba(255,255,255,0.2);\">\n";
+tR += "> \n";
 
-// 第三區：節奏
 tR += styleListMarkdown; 
 tR += "\n";
 %>
@@ -128,6 +129,3 @@ tR += "\n";
 </div>
 
 </div>
-
-
-

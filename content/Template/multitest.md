@@ -12,13 +12,17 @@ tags:
 style_number:
 bpm:
 ---
-> [!info]
+> [!info] 歌曲資訊
 > - **🎹 原唱：** [[歌手/原唱/BrunoMars|BrunoMars]] (原 Key: F)
+> 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
 > - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (B)
 > - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (E)
 > - **🎤 演唱：** [[歌手/演唱/Ryan|Ryan]] (Ab)
+> 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
 > - 🎹 Piano
 > - 🥁 Club Bossa - 110 (BPM: 60)
 > - 🥁 VN DanceRmix - 333 (BPM: 100)
@@ -44,6 +48,3 @@ bpm:
 </div>
 
 </div>
-
-
-
