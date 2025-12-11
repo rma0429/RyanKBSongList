@@ -4,15 +4,15 @@ tags:
   - 原唱/周杰倫
   - 原Key/C
   - Singer/小丰/Ab
-style_number: "112"
+  - "#Style/110"
 bpm: "60"
-style_name: Steady Rock
+style_name: Club Bossa
 ---
 
 > [!info] 歌曲資訊
 > - **🎹 原唱：** [[歌手/原唱/周杰倫|周杰倫]] (原 Key: C)
 > - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (#Ab)
-> - **🥁 節奏設定：** Steady Rock - 112 (BPM: 60)
+> - **🥁 節奏設定：** Club Bossa - 110 (BPM: 60)
 
 <div style="display: flex; gap: 2em; align-items: start;">
 
