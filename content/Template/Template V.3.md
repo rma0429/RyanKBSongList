@@ -113,7 +113,7 @@ tR += "\n";
 
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0;">
 
-### 📄 Lyric
+📄 Lyric
 
 
 </div>
