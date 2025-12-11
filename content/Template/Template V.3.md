@@ -1,121 +1,133 @@
 <%*
 // ==========================================
-//  Templater V.5: 直接讀取屬性版 (最速)
+//  Templater V.9: 視覺分隔優化版 (加入分隔線)
 // ==========================================
 
-// 1. 初始化變數
-var styleName = "未選擇";
-var displayRhythm = "";
+// --- 1. 變數初始化 ---
 var orgArtist = "未設定";
 var orgKey = "未設定";
-var coverName = "未設定";
-var coverKey = "無";
+var singerListMarkdown = ""; 
+var styleListMarkdown = ""; 
 
-// 2. 直接抓取當前檔案的屬性 (這是您剛剛填完 V2 後留下的)
+// --- 2. 讀取 Frontmatter ---
 var fm = tp.frontmatter || {};
 var tags = fm.tags || [];
-var styleNum = fm.style_number;
-var bpm = fm.bpm;
+var globalBpm = fm.bpm; 
 
-// 防呆：如果只有一個 tag，把它轉成陣列
+// 防呆
 if (typeof tags === 'string') { tags = [tags]; }
 
-// --- A. 解析歌手與 Key (直接分析文字) ---
 if (Array.isArray(tags)) {
-    // 找原唱
+    
+    // A. 解析原唱
     var tOrg = tags.find(function(t) { return t.indexOf("原唱/") >= 0; });
     if (tOrg) orgArtist = tOrg.replace("#", "").replace("原唱/", "");
 
-    // 找原Key
     var tKey = tags.find(function(t) { return t.indexOf("原Key/") >= 0; });
     if (tKey) orgKey = tKey.replace("#", "").replace("原Key/", "");
 
-    // 找演唱者 (Singer/名字/Key)
-    var tSinger = tags.find(function(t) { return t.indexOf("Singer/") >= 0; });
-    if (tSinger) {
-        var clean = tSinger.replace("#", "").replace("Singer/", "");
-        var parts = clean.split("/");
-        coverName = parts[0] || "未設定";
-        coverKey = parts[1] || "無";
+    // B. 解析演唱者
+    var singerTags = tags.filter(function(t) { return t.indexOf("Singer/") >= 0; });
+    
+    if (singerTags.length > 0) {
+        singerTags.forEach(function(t) {
+            var clean = t.replace("#", "").replace("Singer/", "");
+            var parts = clean.split("/");
+            var name = parts[0] || "未設定";
+            var key = parts[1] || "無";
+            singerListMarkdown += "> - **🎤 演唱：** [[" + "歌手/演唱/" + name + "|" + name + "]] (" + key + ")\n";
+        });
+    } else {
+        singerListMarkdown = "> - **🎤 演唱：** 未設定\n";
     }
-}
 
-// --- B. 處理節奏 (優先看 style_number 欄位) ---
-var targetID = null;
-
-if (styleNum) {
-    targetID = styleNum;
-} 
-// 如果屬性沒填，嘗試從 Tag 找 #Style/110
-else if (Array.isArray(tags)) {
-    var tStyle = tags.find(function(t) { return t.indexOf("Style/") >= 0; });
-    if (tStyle) {
-        targetID = tStyle.replace("#", "").replace("Style/", "");
-        styleNum = targetID; // 同步一下
+    // C. 解析節奏
+    var styleTags = tags.filter(function(t) { return t.indexOf("Style/") >= 0; });
+    if (fm.style_number) {
+        styleTags.push("Style/" + fm.style_number);
     }
-}
 
-// --- C. 查資料庫 (維持您成功的路徑) ---
-if (targetID) {
-    // 狀況 1: 純文字 (Piano)
-    if (isNaN(parseInt(targetID))) {
-        styleName = "🎹 " + targetID;
-        displayRhythm = styleName;
-    } 
-    // 狀況 2: 數字編號 (110)
-    else {
+    if (styleTags.length > 0) {
+        // 讀取資料庫
         var dbPath = "content/Metadata/E-A7_Styles.md"; 
         var styleFile = app.vault.getAbstractFileByPath(dbPath);
-        
+        var dbData = null;
         if (styleFile) {
             var meta = app.metadataCache.getFileCache(styleFile);
             if (meta && meta.frontmatter && meta.frontmatter.E_A7_Styles) {
-                var db = meta.frontmatter.E_A7_Styles;
-                var key = "" + targetID;
-                if (db[key]) {
-                    styleName = db[key].name;
-                    // 順手更新屬性
-                    var currentFile = tp.file.find_tfile(tp.file.path(true));
-                    if (currentFile) {
-                        await app.fileManager.processFrontMatter(currentFile, (fm) => {
-                            fm['style_name'] = styleName;
-                        });
-                    }
-                }
+                dbData = meta.frontmatter.E_A7_Styles;
             }
         }
-        displayRhythm = styleName + " - " + targetID;
+
+        styleTags.forEach(function(t) {
+            var raw = t.replace("#", "").replace("Style/", "");
+            var parts = raw.split("/");
+            var sID = parts[0]; 
+            var sBpm = parts[1] || globalBpm || ""; 
+            var displayText = "";
+
+            if (isNaN(parseInt(sID))) {
+                displayText = "🎹 " + sID; 
+            } else {
+                var sName = "未知節奏";
+                if (dbData && dbData[sID]) {
+                    sName = dbData[sID].name;
+                }
+                displayText = "🥁 " + sName + " - " + sID;
+            }
+
+            if (sBpm) {
+                displayText += " (BPM: " + sBpm + ")";
+            }
+            styleListMarkdown += "> - " + displayText + "\n";
+        });
+
+    } else {
+        styleListMarkdown = "> - 🥁 節奏設定：未選擇\n";
     }
-} else {
-    displayRhythm = "未設定";
-}
-
-// 加上 BPM
-if (bpm) {
-    displayRhythm += " (BPM: " + bpm + ")";
 }
 
 // ==========================================
-//  4. 輸出 HTML 內容
+//  4. 輸出 HTML (加入分隔線 <hr>)
 // ==========================================
+
+tR += "> [!info] 歌曲資訊\n";
+// 第一區：原唱
+tR += "> - **🎹 原唱：** [[歌手/原唱/" + orgArtist + "|" + orgArtist + "]] (原 Key: " + orgKey + ")\n";
+
+// 分隔線 1
+tR += "> <hr style=\"margin: 0.5em 0; border-color: rgba(255,255,255,0.2);\">\n";
+
+// 第二區：演唱者
+tR += singerListMarkdown;
+
+// 分隔線 2
+tR += "> <hr style=\"margin: 0.5em 0; border-color: rgba(255,255,255,0.2);\">\n";
+
+// 第三區：節奏
+tR += styleListMarkdown; 
+tR += "\n";
 %>
-> [!info] 歌曲資訊
-> - **🎹 原唱：** [[歌手/原唱/<% orgArtist %>|<% orgArtist %>]] (原 Key: <% orgKey %>)
-> - **🎤 演唱：** [[歌手/演唱/<% coverName %>|<% coverName %>]] (#<% coverKey %>)
-> - **🥁 節奏設定：** <% displayRhythm %>
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-<div style="display: flex; gap: 2em; align-items: start;">
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0;">
 
-  <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d;">
-    ### 📄 歌詞
-    ![[assets/歌詞截圖.png]]
-  </div>
+### 📄 歌詞
 
-  <div style="flex: 1; padding-left: 1em;">
-    ### 🎵 樂譜筆記
-    - 前奏：
-    - 間奏：
-    - 尾奏：
-  </div>
 
 </div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">###🎵 Note 
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>
+
+
+
