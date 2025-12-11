@@ -92,7 +92,7 @@ if (Array.isArray(tags)) {
 // ==========================================
 
 tR += "> [!info] 歌曲資訊\n";
-tR += "> - **🎹 原唱：** [[歌手/原唱/" + orgArtist + "|" + orgArtist + "]] (原 Key: " + orgKey + ")\n";
+tR += "> - ** 原唱：** [[歌手/原唱/" + orgArtist + "|" + orgArtist + "]] (原 Key: " + orgKey + ")\n";
 
 // 分隔線區塊 1 (上下加 > \n)
 tR += "> \n"; 
@@ -113,12 +113,13 @@ tR += "\n";
 
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0;">
 
-### 📄 歌詞
+### 📄 Lyric
 
 
 </div>
 
-<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">###🎵 Note 
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
 ＩＮＴ：
 Ｖ．： 
 ＰＣ： 
