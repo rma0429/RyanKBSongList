@@ -1,65 +1,108 @@
----
-title: Template test
-tags:
-  - 原唱/周杰倫
-  - 原Key/E
-  - Singer/小丰/G
-style_number: "110"
-bpm: "100"
----
-
 <%*
-// --- 1. 讀取目前的 Tags (Templater 版本) ---
-// 注意：如果是新建檔案，有時候 tags 還沒寫入 cache，建議填完 tag 後再手動執行模板
-const currentFile = tp.file.find_tfile(tp.file.path(true));
-const cache = app.metadataCache.getFileCache(currentFile);
-const tags = cache?.tags?.map(t => t.tag) || [];
+// ==========================================
+//  Templater V.5: 直接讀取屬性版 (最速)
+// ==========================================
 
-// --- 2. 工具函式：從 Tag 抓資料 ---
-function getTagVal(prefix) {
-    const found = tags.find(t => t.startsWith(prefix));
-    return found ? found.substring(prefix.length) : "未設定";
-}
+// 1. 初始化變數
+var styleName = "未選擇";
+var displayRhythm = "";
+var orgArtist = "未設定";
+var orgKey = "未設定";
+var coverName = "未設定";
+var coverKey = "無";
 
-function parseNestedTag(prefix) {
-    const found = tags.find(t => t.startsWith(prefix));
-    if (!found) return { name: "未設定", key: "無" };
-    const content = found.substring(prefix.length);
-    const parts = content.split("/"); 
-    return { name: parts[0] || "未設定", key: parts[1] || "無" };
-}
+// 2. 直接抓取當前檔案的屬性 (這是您剛剛填完 V2 後留下的)
+var fm = tp.frontmatter || {};
+var tags = fm.tags || [];
+var styleNum = fm.style_number;
+var bpm = fm.bpm;
 
-// 執行抓取
-const orgArtist = getTagVal("#原唱/");
-const orgKey    = getTagVal("#原Key/");
-const coverInfo = parseNestedTag("#Singer/"); // 抓取 #Singer/名字/Key
+// 防呆：如果只有一個 tag，把它轉成陣列
+if (typeof tags === 'string') { tags = [tags]; }
 
-// --- 3. 讀取節奏資料庫 ---
-const styleNum = tp.frontmatter.style_number;
-const bpm = tp.frontmatter.bpm;
-const dbPath = "content/E-A7_Styles.md"; 
-let styleName = "未選擇";
+// --- A. 解析歌手與 Key (直接分析文字) ---
+if (Array.isArray(tags)) {
+    // 找原唱
+    var tOrg = tags.find(function(t) { return t.indexOf("原唱/") >= 0; });
+    if (tOrg) orgArtist = tOrg.replace("#", "").replace("原唱/", "");
 
-const styleFile = app.vault.getAbstractFileByPath(dbPath);
-if (styleFile) {
-    const fileCache = app.metadataCache.getFileCache(styleFile);
-    if (fileCache?.frontmatter?.E_A7_Styles) {
-        const data = fileCache.frontmatter.E_A7_Styles;
-        if (data && data[styleNum]) {
-            styleName = data[styleNum].name;
-            // 順便把自動抓到的名稱寫回屬性
-            await tp.file.updateFrontmatter({ style_name: styleName });
-        }
+    // 找原Key
+    var tKey = tags.find(function(t) { return t.indexOf("原Key/") >= 0; });
+    if (tKey) orgKey = tKey.replace("#", "").replace("原Key/", "");
+
+    // 找演唱者 (Singer/名字/Key)
+    var tSinger = tags.find(function(t) { return t.indexOf("Singer/") >= 0; });
+    if (tSinger) {
+        var clean = tSinger.replace("#", "").replace("Singer/", "");
+        var parts = clean.split("/");
+        coverName = parts[0] || "未設定";
+        coverKey = parts[1] || "無";
     }
 }
+
+// --- B. 處理節奏 (優先看 style_number 欄位) ---
+var targetID = null;
+
+if (styleNum) {
+    targetID = styleNum;
+} 
+// 如果屬性沒填，嘗試從 Tag 找 #Style/110
+else if (Array.isArray(tags)) {
+    var tStyle = tags.find(function(t) { return t.indexOf("Style/") >= 0; });
+    if (tStyle) {
+        targetID = tStyle.replace("#", "").replace("Style/", "");
+        styleNum = targetID; // 同步一下
+    }
+}
+
+// --- C. 查資料庫 (維持您成功的路徑) ---
+if (targetID) {
+    // 狀況 1: 純文字 (Piano)
+    if (isNaN(parseInt(targetID))) {
+        styleName = "🎹 " + targetID;
+        displayRhythm = styleName;
+    } 
+    // 狀況 2: 數字編號 (110)
+    else {
+        var dbPath = "content/Metadata/E-A7_Styles.md"; 
+        var styleFile = app.vault.getAbstractFileByPath(dbPath);
+        
+        if (styleFile) {
+            var meta = app.metadataCache.getFileCache(styleFile);
+            if (meta && meta.frontmatter && meta.frontmatter.E_A7_Styles) {
+                var db = meta.frontmatter.E_A7_Styles;
+                var key = "" + targetID;
+                if (db[key]) {
+                    styleName = db[key].name;
+                    // 順手更新屬性
+                    var currentFile = tp.file.find_tfile(tp.file.path(true));
+                    if (currentFile) {
+                        await app.fileManager.processFrontMatter(currentFile, (fm) => {
+                            fm['style_name'] = styleName;
+                        });
+                    }
+                }
+            }
+        }
+        displayRhythm = styleName + " - " + targetID;
+    }
+} else {
+    displayRhythm = "未設定";
+}
+
+// 加上 BPM
+if (bpm) {
+    displayRhythm += " (BPM: " + bpm + ")";
+}
+
+// ==========================================
+//  4. 輸出 HTML 內容
+// ==========================================
 %>
-
-# <%= tp.file.title %>
-
 > [!info] 歌曲資訊
 > - **🎹 原唱：** [[歌手/原唱/<% orgArtist %>|<% orgArtist %>]] (原 Key: <% orgKey %>)
-> - **🎤 演唱：** [[歌手/演唱/<% coverInfo.name %>|<% coverInfo.name %>]] (#<% coverInfo.key %>)
-> - **🥁 節奏設定：** <% styleName %> - <% styleNum %> (BPM: <% bpm %>)
+> - **🎤 演唱：** [[歌手/演唱/<% coverName %>|<% coverName %>]] (#<% coverKey %>)
+> - **🥁 節奏設定：** <% displayRhythm %>
 
 <div style="display: flex; gap: 2em; align-items: start;">
 
