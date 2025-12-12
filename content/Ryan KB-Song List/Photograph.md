@@ -1,3 +1,10 @@
+---
+title: Photograph -
+tags:
+  - Singer/StephanieH/E
+  - Singer/虹竹/E
+  - Style/Piano
+---
 
 Singer/KEY: Steph [E] , Carlos [E] , 竹 [E] 
 Style: [Piano]

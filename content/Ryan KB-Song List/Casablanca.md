@@ -1,3 +1,11 @@
+---
+title: Casablanca
+tags:
+  - Singer/StephanieH/E
+  - Singer/虹竹/Gb
+  - Singer/小丰/F
+  - Style/302/126
+---
 
 Singer/KEY: Steph [E] , 竹 [F#] , 丰 [F] 
 Style: [0302 126]

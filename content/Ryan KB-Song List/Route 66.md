@@ -1,3 +1,9 @@
+---
+title: Route 66 -
+tags:
+  - Singer/小丰/E
+  - Style/70/150
+---
 
 Singer/KEY: 丰 [E] 
 Style: [0070 150]

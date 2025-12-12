@@ -1,3 +1,10 @@
+---
+title: Thinking out loud -
+tags:
+  - Singer/StephanieH/D
+  - Singer/小丰/Gb
+  - Style/53/80
+---
 
 Singer/KEY: Steph [D] , 丰 [F#] , Carlos [A] 
 Style: [0053 80]

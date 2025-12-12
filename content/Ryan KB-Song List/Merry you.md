@@ -1,3 +1,11 @@
+---
+title: Merry you -
+tags:
+  - Singer/StephanieH/F
+  - Singer/小丰/F
+  - Singer/虹竹/Gb
+  - Style/43/130
+---
 
 Singer/KEY: Steph [F] , 丰 [F] , 竹 [F#] 
 Style: [0043 130]

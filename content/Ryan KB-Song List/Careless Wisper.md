@@ -1,3 +1,8 @@
+---
+title: Careless Wisper -
+tags:
+  - Style/47/77
+---
 
 Singer/KEY: Carlos [Eb] , 湘 [Ab] 
 Style: [0047 77]

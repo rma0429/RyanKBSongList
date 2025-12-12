@@ -1,3 +1,10 @@
+---
+title: I just called to say I love you -
+tags:
+  - Singer/StephanieH/D
+  - Singer/虹竹/G
+  - Style/32/115
+---
 
 Singer/KEY: Steph [D] , Carlos [C] , 竹 [G] 
 Style: [0032 115]

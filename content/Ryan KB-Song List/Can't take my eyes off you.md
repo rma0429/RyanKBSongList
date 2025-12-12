@@ -1,3 +1,11 @@
+---
+title: Can't take my eyes off you-
+tags:
+  - Singer/StephanieH/G
+  - Singer/虹竹/G
+  - Singer/小丰/Ab
+  - Style/31/120
+---
 
 Singer/KEY: Steph [G] , 竹 [G] , 丰 [Ab] , Carlos [B] , 湘 [A] 
 Style: [0031 120]

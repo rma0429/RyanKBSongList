@@ -1,3 +1,8 @@
+---
+title: Waka Waka -
+tags:
+  - Style/151/120
+---
 
 Singer/KEY: 湘 [D] 
 Style: [0151 120]

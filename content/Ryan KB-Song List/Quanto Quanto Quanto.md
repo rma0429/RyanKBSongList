@@ -1,3 +1,10 @@
+---
+title: Quanto Quanto Quanto -
+tags:
+  - Singer/StephanieH/F
+  - Singer/虹竹/F
+  - Style/151/100
+---
 
 Singer/KEY: Steph [F] , 湘 [F] , Carlos [Bb] , 竹 [F] 
 Style: [0151 100]

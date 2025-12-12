@@ -1,3 +1,11 @@
+---
+title: Kiss me -
+tags:
+  - Singer/StephanieH/Eb
+  - Singer/小丰/Eb
+  - Singer/虹竹/E
+  - Style/130/100
+---
 
 Singer/KEY: Steph [Eb] , 丰 [Eb] , 竹 [E] 
 Style: [0130 100]

@@ -1,3 +1,11 @@
+---
+title: Fly me to the moon -
+tags:
+  - Singer/StephanieH/F
+  - Singer/小丰
+  - Singer/虹竹/A
+  - Style/74/125
+---
 
 Singer/KEY: 丰 [G] , 竹 [A] , Carlos [C] , Steph [F] 
 Style: [0074 125]

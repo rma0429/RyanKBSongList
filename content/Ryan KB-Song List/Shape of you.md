@@ -1,3 +1,11 @@
+---
+title: Shape of you -
+tags:
+  - Singer/StephanieH/Eb
+  - Singer/小丰/E
+  - Singer/虹竹/E
+  - Style/201/88
+---
 
 Singer/KEY: Steph [Eb] , 丰 [E] , Carlos [F] , 竹 [E] 
 Style: [0201 88]

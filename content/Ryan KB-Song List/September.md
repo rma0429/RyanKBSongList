@@ -1,3 +1,9 @@
+---
+title: September -
+tags:
+  - Singer/虹竹/E
+  - Style/89/128
+---
 
 Singer/KEY: Carlos [G] , 竹 [E] 
 Style: [0089 128]

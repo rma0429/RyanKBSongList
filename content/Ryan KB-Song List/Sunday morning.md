@@ -1,3 +1,10 @@
+---
+title: Sunday morning -
+tags:
+  - Singer/小丰/Db
+  - Singer/虹竹/D
+  - Style/50/88
+---
 
 Singer/KEY: 丰 [C#] , 湘 [C#] , 竹 [D] 
 Style: [0050 88]

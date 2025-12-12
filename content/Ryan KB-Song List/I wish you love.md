@@ -1,3 +1,11 @@
+---
+title: I wish you love -
+tags:
+  - Singer/StephanieH/Db
+  - Singer/小丰/Db
+  - Singer/虹竹/Eb
+  - Style/110/100
+---
 
 Singer/KEY: 丰 [C#] , 湘 [C#] , 竹 [Eb] 
 Style: [0110 100]

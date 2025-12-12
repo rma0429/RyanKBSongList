@@ -1,3 +1,9 @@
+---
+title: Englishman In New York -
+tags:
+  - Singer/虹竹/Eb
+  - Style/81/200
+---
 
 Singer/KEY: 竹 [Eb] , Carlos [C] 
 Style: [0081 200]

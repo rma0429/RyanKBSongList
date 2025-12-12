@@ -1,3 +1,11 @@
+---
+title: Perfect -
+tags:
+  - Singer/StephanieH/A
+  - Singer/小丰/C
+  - Singer/虹竹/C
+  - Style/Piano
+---
 
 Singer/KEY: Steph [A] , 丰[C] , Carlos [G] , 竹 [C] 
 Style: [Piano]

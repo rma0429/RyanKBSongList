@@ -1,3 +1,12 @@
+---
+title: Stand by me
+tags:
+  - Singer/StephanieH/Bb
+  - Singer/小丰/C
+  - Singer/虹竹/C
+  - Style/48/120
+  - Style/302/120
+---
 
 Singer/KEY: Steph [Bb] , 丰[C] , Carlos [F] , 湘 [Bb] , 竹 [C] 
 Style: Stand[0048 120]

@@ -1,10 +1,16 @@
+---
+title: I’m yours -
+tags:
+  - Singer/StephanieH/C
+  - Singer/小丰/D
+  - Singer/虹竹/E
+  - Style/227/75
+  - Style/201/75
+---
 
 Singer/KEY: Steph [C] , Carlos [G] , 丰 [D] , 湘 [D] , 竹 [E] 
 Style: Reggae[0227 75]
 Samba[0201 75]
-Singer: Carlos, Steph, 丰, 湘, 竹
-
----
 
 > [Lyrics]
 > 

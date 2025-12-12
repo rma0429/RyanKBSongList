@@ -1,3 +1,11 @@
+---
+title: Sway
+tags:
+  - Singer/StephanieH/C
+  - Singer/小丰/Eb
+  - Singer/虹竹/D
+  - Style/200/120
+---
 
 Singer/KEY: Steph [C] , 丰 [Eb] , 湘 [C] , Carlos [G] , 竹 [D] 
 Style: [0200 120]

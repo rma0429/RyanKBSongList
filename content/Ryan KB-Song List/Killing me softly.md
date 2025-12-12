@@ -1,3 +1,9 @@
+---
+title: Killing me softly -
+tags:
+  - Singer/小丰/Ab
+  - Style/178/95
+---
 
 Singer/KEY: 丰 [Ab] 
 Style: [0178 95]

@@ -1,3 +1,9 @@
+---
+title: She will be loved -
+tags:
+  - Singer/StephanieH/Eb
+  - Style/2/100
+---
 
 Singer/KEY: Steph [Eb] 
 Style: [0002 100]

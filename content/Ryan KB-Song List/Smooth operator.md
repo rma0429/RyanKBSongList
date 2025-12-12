@@ -1,3 +1,9 @@
+---
+title: Smooth operator -
+tags:
+  - Singer/虹竹/F
+  - Style/108/120
+---
 Z
 Singer/KEY: 竹 [F] 
 Style: [108  120]

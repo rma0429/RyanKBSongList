@@ -1,3 +1,9 @@
+---
+title: So sick -
+tags:
+  - Singer/小丰/C
+  - Style/Piano
+---
 
 Singer/KEY: 丰[C] 
 Style: [Piano]

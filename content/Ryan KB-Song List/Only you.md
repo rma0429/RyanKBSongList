@@ -1,3 +1,8 @@
+---
+title: Only you -
+tags:
+  - Style/231/80
+---
 
 Singer/KEY: 湘 [Eb] 
 Style: [0231 80]

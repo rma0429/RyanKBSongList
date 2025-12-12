@@ -1,3 +1,9 @@
+---
+title: It had to be you -
+tags:
+  - Singer/StephanieH/Eb
+  - Style/71/67
+---
 
 Singer/KEY: Steph [Eb] 
 Style: [0071 67]

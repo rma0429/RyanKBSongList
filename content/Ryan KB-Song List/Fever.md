@@ -1,3 +1,9 @@
+---
+title: Fever -
+tags:
+  - Singer/小丰/D
+  - Style/81/115
+---
 
 Singer/KEY: 丰 [D] 
 Style: [0081 115]

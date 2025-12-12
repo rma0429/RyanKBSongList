@@ -1,3 +1,10 @@
+---
+title: Señorita
+tags:
+  - Singer/StephanieH/A
+  - Singer/虹竹/C
+  - Style/220/60
+---
 
 Singer/KEY: Steph [A] , 竹 [C] 
 Style: [0220 60]

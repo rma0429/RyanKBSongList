@@ -1,3 +1,9 @@
+---
+title: Our love is here to stay -
+tags:
+  - Singer/StephanieH/C
+  - Style/81/75
+---
 
 Singer/KEY: Steph [C] , Carlos [D] 
 Style: [0081 75]

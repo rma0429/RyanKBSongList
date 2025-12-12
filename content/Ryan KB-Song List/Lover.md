@@ -1,3 +1,9 @@
+---
+title: Lover -
+tags:
+  - Singer/StephanieH/G
+  - Style/51/103
+---
 
 Singer/KEY: G 
 Style: [0051 103]

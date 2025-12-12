@@ -1,3 +1,11 @@
+---
+title: Just the two of us -
+tags:
+  - Singer/StephanieH/Ab
+  - Singer/小丰/C
+  - Singer/虹竹/C
+  - Style/56/96
+---
 
 Singer/KEY: Steph [Ab] , 丰[C] , Carlos [F] , 竹 [C] 
 Style: [0056 96]

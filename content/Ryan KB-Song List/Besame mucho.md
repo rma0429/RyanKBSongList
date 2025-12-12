@@ -1,3 +1,10 @@
+---
+title: Besame mucho
+tags:
+  - Singer/StephanieH/C
+  - Singer/小丰/C
+  - Style/104/95
+---
 
 Singer/KEY: Steph [C] , 丰[C] , 湘 [C] , Carlos [F] 
 Style: [0104 95]

@@ -1,3 +1,9 @@
+---
+title: Sky Full Of Stars -
+tags:
+  - Singer/StephanieH/Gb
+  - Style/141/128
+---
 ㄈ
 Singer/KEY: Steph [F#] 
 Style: [0141 128]

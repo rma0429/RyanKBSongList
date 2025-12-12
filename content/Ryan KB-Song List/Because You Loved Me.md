@@ -1,3 +1,9 @@
+---
+title: Because You Loved Me -
+tags:
+  - Singer/StephanieH/C
+  - Style/56/60
+---
 
 Singer/KEY: Steph [C] 
 Style: [0056 060]

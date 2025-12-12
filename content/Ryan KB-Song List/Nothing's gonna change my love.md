@@ -1,3 +1,12 @@
+---
+title: Nothing's gonna change my love -
+tags:
+  - Singer/StephanieH/F
+  - Singer/小丰/Gb
+  - Singer/虹竹/Gb
+  - Style/22/66
+  - Style/15/66
+---
 
 Singer/KEY: Steph [F] , 丰 [F#] , 湘 [F] , Carlos [C] , 竹 [F#] 
 Style: [0022 66]? 

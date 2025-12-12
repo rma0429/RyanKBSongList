@@ -1,3 +1,10 @@
+---
+title: Dancing Queen -
+tags:
+  - Singer/StephanieH/G
+  - Singer/小丰/A
+  - Style/158/100
+---
 
 Singer/KEY: Steph [G] , 湘 [Ab] , 丰 [A] 
 Style: [0158 100]

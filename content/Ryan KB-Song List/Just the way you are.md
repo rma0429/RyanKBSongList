@@ -1,3 +1,12 @@
+---
+title: Just the way you are -
+tags:
+  - Singer/StephanieH/F
+  - Singer/小丰/Gb
+  - Singer/虹竹/G
+  - Style/157/110
+  - Style/109/110
+---
 
 Singer/KEY: Steph [F] , 丰 [F#] , 湘 [F] , 竹 [G] 
 Style: Stand[0157 110]

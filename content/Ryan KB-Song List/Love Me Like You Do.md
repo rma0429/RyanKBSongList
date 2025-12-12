@@ -1,3 +1,11 @@
+---
+title: Love Me Like You Do -
+tags:
+  - Singer/StephanieH/Ab
+  - Singer/小丰/Ab
+  - Singer/虹竹/Ab
+  - Style/142/95
+---
 
 Singer/KEY: Steph [Ab] , 丰 [Ab] , 竹 [Ab] 
 Style: [0142 95]

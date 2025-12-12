@@ -1,8 +1,7 @@
 ---
-
-Singer/KEY: 湘 [Eb] 
-Style: [0290 115]
-Singer: 湘
+title: Amapola -
+tags:
+  - Style/290/115
 ---
 
 

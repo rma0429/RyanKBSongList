@@ -1,9 +1,8 @@
 ---
+title: Hotel California -
 tags:
-  - Steph
-  - ２
-style: "[0047]"
-bpm: "75"
+  - Singer/StephanieH/D
+  - Style/47/75
 ---
 > [Lyrics]<br>
 > <br>

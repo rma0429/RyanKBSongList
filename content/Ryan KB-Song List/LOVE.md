@@ -1,3 +1,11 @@
+---
+title: LOVE
+tags:
+  - Singer/StephanieH/F
+  - Singer/小丰/F
+  - Singer/虹竹/G
+  - Style/80/115
+---
 
 Singer/KEY: Steph [F] , 丰 [F] , Carlos [G] , 湘 [F] , 竹 [G] 
 Style: [0080 115]

@@ -1,3 +1,10 @@
+---
+title: Yesterday once more -
+tags:
+  - Singer/小丰/G
+  - Singer/虹竹/G
+  - Style/50/85
+---
 
 Singer/KEY: 湘 [F#] , 丰 [G] , 竹 [G] 
 Style: [0050 85]

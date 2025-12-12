@@ -1,3 +1,12 @@
+---
+title: Loving you -
+tags:
+  - Singer/StephanieH/G
+  - Singer/小丰/G
+  - Singer/虹竹/G
+  - Style/Piano
+  - Style/109/100
+---
 
 Singer/KEY: Steph [G] , 丰 [G] , 湘 [F] , 竹 [A] , 竹 [G] 
 Style: [Piano]

@@ -1,3 +1,12 @@
+---
+title: How deep is your love -
+tags:
+  - Singer/StephanieH/Bb
+  - Singer/虹竹/C
+  - Singer/小丰/B
+  - Style/32/105
+  - Style/30/93
+---
 
 Singer/KEY: Steph [Bb] , 竹 [C] , 湘 [C] , Carlos [E] , 丰 [B] 
 Style: [0032 105]

@@ -1,3 +1,9 @@
+---
+title: Country Roads -
+tags:
+  - Singer/虹竹/E
+  - Style/237/80
+---
 
 Singer/KEY: Carlos [A] , 竹 [E] 
 Style: [0237 80]

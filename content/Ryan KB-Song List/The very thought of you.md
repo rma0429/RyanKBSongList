@@ -1,3 +1,9 @@
+---
+title: The very thought of you -
+tags:
+  - Singer/StephanieH/C
+  - Style/68/60
+---
 
 Singer/KEY: Steph [C] 
 Style: [0068 60]

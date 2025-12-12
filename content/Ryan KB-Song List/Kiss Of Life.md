@@ -1,3 +1,9 @@
+---
+title: Kiss Of Life -
+tags:
+  - Singer/StephanieH/B
+  - Style/21/98
+---
 
 Singer/KEY: Steph [B] 
 Style: [0021 98] [In2]

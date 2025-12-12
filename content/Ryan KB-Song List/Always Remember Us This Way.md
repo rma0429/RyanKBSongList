@@ -1,3 +1,10 @@
+---
+title: Always Remember Us This Way -
+tags:
+  - Singer/StephanieH/B
+  - Singer/虹竹/C
+  - Style/50/65
+---
 
 Singer/KEY: Steph [B] , 竹 [C] 
 Style: [0050 65]

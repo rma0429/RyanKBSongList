@@ -1,3 +1,9 @@
+---
+title: I Don't Want To Talk About It -
+tags:
+  - Singer/StephanieH/B
+  - Style/56/64
+---
 
 Singer/KEY: A , Steph [Eb] 
 Style: [0056 064]

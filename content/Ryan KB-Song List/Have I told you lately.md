@@ -1,3 +1,10 @@
+---
+title: Have I told you lately -
+tags:
+  - Singer/StephanieH/Bb
+  - Singer/小丰/Bb
+  - Style/31/70
+---
 
 Singer/KEY: Steph [Bb] , 丰 [Bb] , Carlos [F] 
 Style: [0031 70]

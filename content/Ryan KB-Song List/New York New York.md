@@ -1,3 +1,10 @@
+---
+title: New York New York -
+tags:
+  - Singer/StephanieH/B
+  - Singer/虹竹/B
+  - Style/Piano
+---
 
 Singer/KEY: Steph [B] , 竹 [B] 
 Style: [Piano]

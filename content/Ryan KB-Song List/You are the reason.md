@@ -1,3 +1,10 @@
+---
+title: You are the reason -
+tags:
+  - Singer/StephanieH/Db
+  - Singer/虹竹/D
+  - Style/Piano
+---
 
 Singer/KEY: Steph [C#] , 竹 [D] 
 Style: [Piano]

@@ -23,8 +23,9 @@ Check the graph on the right to see how songs and artists are connected.
 查看右側的關聯圖，探索歌曲與歌手之間的連結網絡。
 
 ## 🎤 Artists (演唱歌手 ) >
-- [[歌手/演唱/Ryan]] 
-- [[歌手/演唱/singer A]] 
-- [[歌手/演唱/歌手C]] 
+- [[Ryan]]
+- [[StephanieH]]
+- [[小丰]]
+- [[虹竹]]
 
 

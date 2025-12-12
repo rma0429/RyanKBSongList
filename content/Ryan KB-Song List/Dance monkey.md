@@ -1,3 +1,11 @@
+---
+title: Dance monkey -
+tags:
+  - Singer/StephanieH/A
+  - Singer/小丰/A
+  - Singer/虹竹/A
+  - Style/48/100
+---
 
 Singer/KEY: Steph [A] , 丰 [A] , 竹 [A] 
 Style: [0048 100]

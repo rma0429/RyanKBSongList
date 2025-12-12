@@ -1,3 +1,8 @@
+---
+title: Yesterday -
+tags:
+  - Style/Piano
+---
 
 Singer/KEY: 湘 [A] 
 Style: [Piano]

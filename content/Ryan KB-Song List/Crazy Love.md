@@ -1,3 +1,8 @@
+---
+title: Crazy Love -
+tags:
+  - Style/2/70
+---
 
 Singer/KEY: Carlos [G] 
 Style: [0002 70]

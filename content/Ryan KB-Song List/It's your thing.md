@@ -1,3 +1,9 @@
+---
+title: It's your thing -
+tags:
+  - Singer/小丰/F
+  - Style/174/90
+---
 
 Singer/KEY: 丰 [F] 
 Style: [0174 90]

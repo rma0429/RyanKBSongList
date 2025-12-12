@@ -1,3 +1,11 @@
+---
+title: Close to you -
+tags:
+  - Singer/StephanieH/A
+  - Singer/小丰/A
+  - Singer/虹竹/B
+  - Style/58/90
+---
 
 Singer/KEY: Steph [A] , 丰 [A] , 湘 [A] , 竹 [B] 
 Style: [0058 90]

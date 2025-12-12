@@ -1,3 +1,10 @@
+---
+title: The girl from Ipanema -
+tags:
+  - Singer/StephanieH/F
+  - Singer/虹竹/F
+  - Style/111/120
+---
 
 Singer/KEY: Steph [F] , 湘 [F] , 竹 [F] 
 Style: [0111 120]

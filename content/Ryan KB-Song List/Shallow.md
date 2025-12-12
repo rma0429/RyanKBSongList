@@ -1,3 +1,10 @@
+---
+title: Shallow -
+tags:
+  - Singer/StephanieH/G
+  - Singer/虹竹/G
+  - Style/Piano
+---
 
 Singer/KEY: Steph [G] , 竹 [G] 
 Style: [Piano]

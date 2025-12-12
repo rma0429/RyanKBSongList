@@ -1,3 +1,10 @@
+---
+title: Put your records on -
+tags:
+  - Singer/StephanieH/A
+  - Singer/虹竹/B
+  - Style/48/98
+---
 
 Singer/KEY: Steph [A] , 竹 [B] 
 Style: [0048 98]

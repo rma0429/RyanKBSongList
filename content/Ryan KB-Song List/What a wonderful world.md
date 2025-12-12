@@ -1,3 +1,12 @@
+---
+title: What a wonderful world -
+tags:
+  - Singer/StephanieH/C
+  - Singer/小丰/C
+  - Style/Piano
+  - Style/22/60
+  - Style/109/110
+---
 
 Singer/KEY: Steph [C] , Carlos [F] , 湘 [C] , 丰[C] 
 Style: [Piano]
