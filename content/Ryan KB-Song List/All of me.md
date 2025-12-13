@@ -5,6 +5,7 @@ tags:
   - Singer/虹竹/G
   - Singer/小丰/G
   - Style/74/120
+ori:
 ---
 
 Singer/KEY: Steph [F] , Carlos [C] , 竹 [G] , 丰 [G] 
