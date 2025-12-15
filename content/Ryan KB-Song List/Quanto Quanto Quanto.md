@@ -1,9 +1,12 @@
 ---
-title: Quanto Quanto Quanto -
+title: Quando Quando Quando - Engelbert Humperdinck
 tags:
   - Singer/StephanieH/F
   - Singer/虹竹/F
   - Style/151/100
+  - 原Key/C
+org_artist: Engelbert Humperdinck
+yt_link: https://music.youtube.com/watch?v=jQWp1azgPXs&si=KTmHgijad5-VK-i4
 ---
 
 Singer/KEY: Steph [F] , 湘 [F] , Carlos [Bb] , 竹 [F] 

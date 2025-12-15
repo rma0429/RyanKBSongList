@@ -1,9 +1,13 @@
 ---
-title: Because You Loved Me -
+title: Because You Loved Me - Celine Dion
 tags:
   - Singer/StephanieH/C
   - Style/56/60
+  - 原Key/Db
+org_artist: Celine Dion
+yt_link: https://music.youtube.com/watch?v=dxQrwl1rC9A&si=DAIXDMZn002P3idr
 ---
+
 
 Singer/KEY: Steph [C] 
 Style: [0056 060]

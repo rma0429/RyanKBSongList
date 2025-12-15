@@ -1,8 +1,11 @@
 ---
-title: I got you under my skin -
+title: I've Got You Under My Skin - Frank Sinatra
 tags:
   - Singer/StephanieH/Bb
   - Style/58/130
+  - 原Key/Db
+org_artist: Frank Sinatra
+yt_link: https://music.youtube.com/watch?v=xz5W5bKLj_4&si=0hpzJRc2KCHy2Oqo
 ---
 
 Singer/KEY: Steph [Bb] , 湘 [Bb] , Carlos [C] 

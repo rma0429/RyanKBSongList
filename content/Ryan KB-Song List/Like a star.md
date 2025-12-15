@@ -1,3 +1,12 @@
+---
+title: Like A Star - Corinne Bailey Rae
+tags:
+  - Singer/StephanieH/C
+  - Style/22/65
+  - 原Key/C
+org_artist: Corinne Bailey Rae
+yt_link: https://music.youtube.com/watch?v=yc8PVUEQ3QE&si=JCGWBL_neJr0KI84
+---
 
 Singer/KEY: Steph [C] 
 Style: [0022 65]

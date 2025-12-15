@@ -1,11 +1,14 @@
 ---
-title: Nothing's gonna change my love -
+title: Nothing's Gonna Change My Love for You - George Benson
 tags:
   - Singer/StephanieH/F
   - Singer/小丰/Gb
   - Singer/虹竹/Gb
   - Style/22/66
   - Style/15/66
+  - 原Key/Db
+org_artist: George Benson
+yt_link: https://music.youtube.com/watch?v=f1De87ETXwo&si=YjW4rBH1L6Dp4oEk
 ---
 
 Singer/KEY: Steph [F] , 丰 [F#] , 湘 [F] , Carlos [C] , 竹 [F#] 

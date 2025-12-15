@@ -1,11 +1,14 @@
 ---
-title: Feel like making love -
+title: Feel Like Makin' Love - Roberta Flack
 tags:
   - Singer/StephanieH/Eb
   - Singer/小丰/Eb
   - Singer/虹竹/F
   - Style/62/85
   - Style/67/85
+  - 原Key/Eb
+org_artist: Roberta Flack
+yt_link: https://music.youtube.com/watch?v=S_JeuGdXl5o&si=zoNhfU51ZM5PI-1N
 ---
 
 Singer/KEY: Steph [Eb] , 丰 [Eb] , 竹 [F] 

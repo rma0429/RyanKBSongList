@@ -1,8 +1,11 @@
 ---
-title: Kiss Of Life -
+title: Kiss of Life - Sade
 tags:
   - Singer/StephanieH/B
   - Style/21/98
+  - 原Key/A
+org_artist: Sade
+yt_link: https://music.youtube.com/watch?v=4MOzk7-6j-I&si=TSF9L3Vc1dDpqtNv
 ---
 
 Singer/KEY: Steph [B] 

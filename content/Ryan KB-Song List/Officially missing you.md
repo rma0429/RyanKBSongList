@@ -1,8 +1,11 @@
 ---
-title: Officially missing you -
+title: Officially Missing You - Tamia
 tags:
   - Singer/小丰/Ab
   - Style/53/95
+  - 原Key/G
+org_artist: Tamia
+yt_link: https://music.youtube.com/watch?v=CriSEcU_3fo&si=T7TpfuvyZxYPFnrQ
 ---
 
 Singer/KEY: 丰 [Ab] 

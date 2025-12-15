@@ -1,8 +1,11 @@
 ---
-title: The very thought of you -
+title: The Very Thought Of You - Nat King Cole
 tags:
   - Singer/StephanieH/C
   - Style/68/60
+  - 原Key/F
+org_artist: Nat King Cole
+yt_link: https://music.youtube.com/watch?v=HcRQiNHrsoQ&si=o1BGeAgnAab_Vaxd
 ---
 
 Singer/KEY: Steph [C] 

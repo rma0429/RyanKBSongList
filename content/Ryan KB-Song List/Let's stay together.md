@@ -1,3 +1,12 @@
+---
+title: Let's Stay Together - Al Green
+tags:
+  - Singer/StephanieH/G
+  - Style/56/100
+  - 原Key/F
+org_artist: Al Green
+yt_link: https://music.youtube.com/watch?v=EKOcfZtKvYQ&si=3iMjtruJgK5Jf7oT
+---
 
 Singer/KEY: Steph [G] , Carlos [D] 
 Style: [0056 100]

@@ -1,8 +1,11 @@
 ---
-title: Imagine -
+title: Imagine - John Lennon
 tags:
   - Singer/虹竹/E
   - Style/Piano
+  - 原Key/C
+org_artist: John Lennon
+yt_link: https://music.youtube.com/watch?v=rAn-AWXtHv0&si=3lB55P4Q_qgyiGuN
 ---
 
 Singer/KEY: Carlos [Bb] , 竹 [E] 

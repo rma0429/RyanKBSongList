@@ -1,3 +1,12 @@
+---
+title: Let's Fall In Love - Ella Fitzgerald
+tags:
+  - Style/58/100
+  - Singer/StephanieH/F
+  - 原Key/Ab
+org_artist: Ella Fitzgerald
+yt_link: https://music.youtube.com/watch?v=fF6x1ta9j1w&si=uyjMWyiwnge-WEkq
+---
 
 Singer/KEY: Steph [F] , Carlos [A] 
 Style: [0058 100]

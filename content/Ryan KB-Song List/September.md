@@ -1,8 +1,11 @@
 ---
-title: September -
+title: September - Earth, Wind & Fire
 tags:
   - Singer/虹竹/E
   - Style/89/128
+  - 原Key/A
+org_artist: Earth, Wind & Fire
+yt_link: https://music.youtube.com/watch?v=B2mmDEv0OEk&si=2fMd8rKzbzzDwpwy
 ---
 
 Singer/KEY: Carlos [G] , 竹 [E] 

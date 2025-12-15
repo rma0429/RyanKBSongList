@@ -1,7 +1,10 @@
 ---
-title: Brown Eyed Girl -
+title: Brown Eyed Girl - Van Morrison
 tags:
   - Style/2/150
+  - 原Key/G
+org_artist: Van Morrison
+yt_link: https://music.youtube.com/watch?v=nEQmbFWnQeE&si=n4uBVKxLMxknUEG-
 ---
 
 Singer/KEY: Carlos [F] 

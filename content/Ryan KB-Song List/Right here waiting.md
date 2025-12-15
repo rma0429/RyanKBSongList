@@ -1,8 +1,11 @@
 ---
-title: Right here waiting -
+title: Right Here Waiting - Richard Marx
 tags:
   - Singer/小丰/C
   - Style/Piano
+  - 原Key/C
+org_artist: Richard Marx
+yt_link: https://music.youtube.com/watch?v=lyGQD1cH4xI&si=e4HJ__jlG6CVFSED
 ---
 
 Singer/KEY: 丰[C] 

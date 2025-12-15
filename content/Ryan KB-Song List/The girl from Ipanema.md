@@ -1,9 +1,12 @@
 ---
-title: The girl from Ipanema -
+title: The girl from Ipanema - Lisa Ono
 tags:
   - Singer/StephanieH/F
   - Singer/虹竹/F
   - Style/111/120
+  - 原Key/Eb
+org_artist: Lisa Ono
+yt_link: https://music.youtube.com/watch?v=yaAfcdbDhvQ&si=pJsH_PAOyBTb4s-x
 ---
 
 Singer/KEY: Steph [F] , 湘 [F] , 竹 [F] 

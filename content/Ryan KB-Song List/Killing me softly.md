@@ -1,8 +1,11 @@
 ---
-title: Killing me softly -
+title: Killing Me Softly with His Song - Fugees
 tags:
   - Singer/小丰/Ab
   - Style/178/95
+  - 原Key/G
+org_artist: Fugees
+yt_link: https://music.youtube.com/watch?v=IXl0nMLIUsU&si=qgEOZWhazv_QHRJy
 ---
 
 Singer/KEY: 丰 [Ab] 

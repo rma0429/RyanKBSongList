@@ -1,10 +1,13 @@
 ---
-title: Love Me Like You Do -
+title: Love Me Like You Do - Ellie Goulding
 tags:
   - Singer/StephanieH/Ab
   - Singer/小丰/Ab
   - Singer/虹竹/Ab
   - Style/142/95
+  - 原Key/Ab
+org_artist: Ellie Goulding
+yt_link: https://music.youtube.com/watch?v=k3smYB3Nfqc&si=ghHywz6bedk2wXR-
 ---
 
 Singer/KEY: Steph [Ab] , 丰 [Ab] , 竹 [Ab] 

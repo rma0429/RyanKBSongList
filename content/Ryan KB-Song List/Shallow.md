@@ -1,9 +1,12 @@
 ---
-title: Shallow -
+title: Shallow - Lady Gaga
 tags:
   - Singer/StephanieH/G
   - Singer/虹竹/G
   - Style/Piano
+  - 原Key/G
+org_artist: Lady Gaga
+yt_link: https://music.youtube.com/watch?v=DPXHMBKY39M&si=zxfxxCrOkl50fa2N
 ---
 
 Singer/KEY: Steph [G] , 竹 [G] 

@@ -1,9 +1,12 @@
 ---
-title: Make you feel my love -
+title: Make You Feel My Love - Adele
 tags:
   - Singer/StephanieH/Bb
   - Singer/虹竹/C
   - Style/Piano
+  - 原Key/Bb
+org_artist: Adele
+yt_link: https://music.youtube.com/watch?v=9IzKueQ2ZxY&si=kNmOeIdgqQKLdgds
 ---
 
 Singer/KEY: Steph [Bb] , 竹 [C] 

@@ -1,7 +1,10 @@
 ---
-title: Amapola -
+title: Amapola - Flor Martinez
 tags:
   - Style/290/115
+  - 原Key/D
+org_artist:
+yt_link: https://music.youtube.com/watch?v=HVj_T-XZams&si=1l-ghW458_Wse0fL
 ---
 
 

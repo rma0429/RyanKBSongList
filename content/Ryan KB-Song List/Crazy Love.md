@@ -1,7 +1,10 @@
 ---
-title: Crazy Love -
+title: Crazy Love - Van Morrison
 tags:
   - Style/2/70
+  - 原Key/A
+org_artist: Van Morrison
+yt_link: https://music.youtube.com/watch?v=OIaKy1vM9hs&si=heSmLBoKwZWpoWvQ
 ---
 
 Singer/KEY: Carlos [G] 

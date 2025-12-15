@@ -1,7 +1,10 @@
 ---
-title: Quizas quizás
+title: Quizás, Quizás, Quizás (Bolero) - Nat King Cole
 tags:
   - Style/202/100
+  - 原Key/F
+org_artist: Nat King Cole
+yt_link: https://music.youtube.com/watch?v=bZOnNIVZLY0&si=6alookY_u5zjPNdu
 ---
 
 Singer/KEY: 湘 [Eb] , Carlos [Eb] 

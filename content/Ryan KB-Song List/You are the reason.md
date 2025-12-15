@@ -1,9 +1,12 @@
 ---
-title: You are the reason -
+title: You Are The Reason - Calum Scott
 tags:
   - Singer/StephanieH/Db
   - Singer/虹竹/D
   - Style/Piano
+  - 原Key/Bb
+org_artist: Calum Scott
+yt_link: https://music.youtube.com/watch?v=2Kiob5f9A1g&si=4WPNPcbCXEx9Yu4Z
 ---
 
 Singer/KEY: Steph [C#] , 竹 [D] 

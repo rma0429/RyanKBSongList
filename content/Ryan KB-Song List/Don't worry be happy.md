@@ -1,8 +1,11 @@
 ---
-title: Don't worry be happy -
+title: Don't Worry Be Happy - Bobby McFerrin
 tags:
   - Singer/StephanieH/C
   - Style/244/130
+  - 原Key/B
+org_artist: Bobby McFerrin
+yt_link: https://music.youtube.com/watch?v=qTuntvl6oLQ&si=U0hsis3TEwfGs00K
 ---
 
 Singer/KEY: Steph [C] , Carlos [B] 

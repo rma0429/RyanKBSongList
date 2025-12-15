@@ -1,8 +1,11 @@
 ---
-title: Hello
+title: Hello - Adele
 tags:
   - Singer/StephanieH/F
   - Style/Piano
+  - 原Key/Ab
+org_artist: Adele
+yt_link: https://music.youtube.com/watch?v=Ei8UnOPJX7w&si=tC0SdVcELZaj2Q5m
 ---
 
 Singer/KEY: Steph [F] 

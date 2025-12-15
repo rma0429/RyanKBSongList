@@ -1,9 +1,12 @@
 ---
-title: Sugar -
+title: Sugar - Maroon 5
 tags:
   - Singer/StephanieH/C
   - Style/130/120
   - Style/152/110
+  - 原Key/Db
+org_artist: Maroon 5
+yt_link: https://music.youtube.com/watch?v=wSOc5jmvF-k&si=9lo6p3eF8mwzcwFb
 ---
 
 Singer/KEY: Steph [C] 

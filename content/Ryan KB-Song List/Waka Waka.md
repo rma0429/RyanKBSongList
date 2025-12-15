@@ -1,7 +1,10 @@
 ---
-title: Waka Waka -
+title: Waka Waka - Shakira
 tags:
   - Style/151/120
+  - 原Key/D
+org_artist: Shakira
+yt_link: https://music.youtube.com/watch?v=Z_slTWayFK0&si=U9E77xG6-ZDMb0Yk
 ---
 
 Singer/KEY: 湘 [D] 

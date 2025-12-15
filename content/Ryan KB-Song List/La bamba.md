@@ -1,3 +1,11 @@
+---
+title: La Bamba - Los Lobos
+tags:
+  - Style/203/80
+  - 原Key/C
+org_artist: Los Lobos
+yt_link: https://music.youtube.com/watch?v=P8PYQvl5HP4&si=lqtmYY5a0B8wnDpN
+---
 
 Singer/KEY: 湘 [C] 
 Style: [0203 80]

@@ -1,10 +1,13 @@
 ---
-title: Fly me to the moon -
+title: Fly Me To The Moon - Frank Sinatra
 tags:
   - Singer/StephanieH/F
   - Singer/小丰
   - Singer/虹竹/A
   - Style/74/125
+  - 原Key/C
+org_artist: Frank Sinatra
+yt_link: https://music.youtube.com/watch?v=ZEcqHA7dbwM&si=gJIAmdKP-AX_uNGO
 ---
 
 Singer/KEY: 丰 [G] , 竹 [A] , Carlos [C] , Steph [F] 

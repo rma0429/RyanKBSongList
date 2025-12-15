@@ -1,10 +1,13 @@
 ---
-title: Perfect -
+title: Perfect - Ed Sheeran
 tags:
   - Singer/StephanieH/A
   - Singer/小丰/C
   - Singer/虹竹/C
   - Style/Piano
+  - 原Key/Ab
+org_artist: Ed Sheeran
+yt_link: https://music.youtube.com/watch?v=ORrFJ63nlcA&si=GRvnRyR_jRdlBfYu
 ---
 
 Singer/KEY: Steph [A] , 丰[C] , Carlos [G] , 竹 [C] 

@@ -1,10 +1,13 @@
 ---
-title: Cheek to cheek
+title: Cheek To Cheek - Ella Fitzgerald
 tags:
   - Singer/StephanieH/G
   - Singer/虹竹/G
   - Singer/小丰/G
   - Style/76/170
+  - 原Key/Ab
+org_artist: Ella Fitzgerald
+yt_link: https://music.youtube.com/watch?v=lGfeCe0DHtI&si=u4HhuuRD18vCkaR_
 ---
 
 Singer/KEY: 竹 [G] , 湘 [F] , 丰 [G] , Steph [G] 

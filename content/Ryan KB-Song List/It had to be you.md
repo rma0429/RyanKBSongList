@@ -1,8 +1,11 @@
 ---
-title: It had to be you -
+title: It Had to Be You - Ray Charles
 tags:
   - Singer/StephanieH/Eb
   - Style/71/67
+  - 原Key/Ab
+org_artist: Ray Charles
+yt_link: https://music.youtube.com/watch?v=TOLbRYs39Us&si=guvsQM8S2gh3_BLV
 ---
 
 Singer/KEY: Steph [Eb] 

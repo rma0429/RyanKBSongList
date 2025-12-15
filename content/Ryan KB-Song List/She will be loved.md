@@ -1,8 +1,11 @@
 ---
-title: She will be loved -
+title: She Will Be Loved - Maroon 5
 tags:
   - Singer/StephanieH/Eb
   - Style/2/100
+  - 原Key/Eb
+org_artist: Maroon 5
+yt_link: https://music.youtube.com/watch?v=LHBbWBX_azA&si=r_di2SGdKAgG1b0u
 ---
 
 Singer/KEY: Steph [Eb] 

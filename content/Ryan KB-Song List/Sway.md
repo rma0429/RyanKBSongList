@@ -1,10 +1,13 @@
 ---
-title: Sway
+title: Sway - Michael Bublé
 tags:
   - Singer/StephanieH/C
   - Singer/小丰/Eb
   - Singer/虹竹/D
   - Style/200/120
+  - 原Key/F
+org_artist: Michael Bublé
+yt_link: https://music.youtube.com/watch?v=emW6SVV_hPE&si=WE8BZSU1ydPaSprF
 ---
 
 Singer/KEY: Steph [C] , 丰 [Eb] , 湘 [C] , Carlos [G] , 竹 [D] 

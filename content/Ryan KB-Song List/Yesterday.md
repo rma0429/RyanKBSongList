@@ -1,7 +1,10 @@
 ---
-title: Yesterday -
+title: Yesterday - The Beatles
 tags:
   - Style/Piano
+  - 原Key/F
+org_artist: The Beatles
+yt_link: https://music.youtube.com/watch?v=fCV9oqtwyVA&si=-TcMld6CBhbP6c9l
 ---
 
 Singer/KEY: 湘 [A] 

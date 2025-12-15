@@ -1,8 +1,11 @@
 ---
-title: Is this love - Bob Marley
+title: Is This Love - Bob Marley
 tags:
   - Singer/StephanieH/C
   - Style/228/120
+  - 原Key/A
+org_artist: Bob Marley
+yt_link: https://music.youtube.com/watch?v=co2FK0WbXX0&si=JL3qY-1PUgdbCMNr
 ---
 
 Singer/KEY: Steph [C] 

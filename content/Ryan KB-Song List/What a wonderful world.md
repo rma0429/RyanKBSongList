@@ -1,11 +1,14 @@
 ---
-title: What a wonderful world -
+title: What A Wonderful World - Louis Armstrong
 tags:
   - Singer/StephanieH/C
   - Singer/小丰/C
   - Style/Piano
   - Style/22/60
   - Style/109/110
+  - 原Key/F
+org_artist: Louis Armstrong
+yt_link: https://music.youtube.com/watch?v=fnyMzZiKfkY&si=QXuUFituhliSC9_f
 ---
 
 Singer/KEY: Steph [C] , Carlos [F] , 湘 [C] , 丰[C] 

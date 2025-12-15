@@ -1,7 +1,10 @@
 ---
-title: Memories -
+title: Memories - Maroon 5
 tags:
   - Style/Piano
+  - 原Key/B
+org_artist: Maroon 5
+yt_link: https://music.youtube.com/watch?v=lNilb-EaTOU&si=DFd31oh1wQUFTegI
 ---
 
 Singer/KEY: Carlos [C] 

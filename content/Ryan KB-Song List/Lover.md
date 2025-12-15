@@ -1,8 +1,10 @@
 ---
-title: Lover -
+title: Lover - Taylor Swift
 tags:
   - Singer/StephanieH/G
   - Style/51/103
+org_artist: Taylor Swift
+yt_link: https://music.youtube.com/watch?v=uLL2xTK35Qc&si=L2tM1B33a9aWQ3jC
 ---
 
 Singer/KEY: G 

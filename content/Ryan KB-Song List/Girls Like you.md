@@ -1,9 +1,12 @@
 ---
-title: Girls Like you -
+title: Girls Like You (Cardi B Version) - Maroon 5
 tags:
   - Singer/StephanieH/C
   - Style/Piano
   - Style/42/118
+  - 原Key/C
+org_artist: Maroon 5
+yt_link: https://music.youtube.com/watch?v=XDbW5bXrm7I&si=QA3NvMol7HGLy4OA
 ---
 
 Singer/KEY: Steph [C] 

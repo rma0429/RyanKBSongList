@@ -1,10 +1,13 @@
 ---
-title: Just the two of us -
+title: Just the Two of Us - Grover Washington, Jr.
 tags:
   - Singer/StephanieH/Ab
   - Singer/小丰/C
   - Singer/虹竹/C
   - Style/56/96
+  - 原Key/Ab
+org_artist: Grover Washington, Jr.
+yt_link: https://music.youtube.com/watch?v=KYwA5k00p2I&si=BYyOOpHKtUXAECrT
 ---
 
 Singer/KEY: Steph [Ab] , 丰[C] , Carlos [F] , 竹 [C] 

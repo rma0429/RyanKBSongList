@@ -1,9 +1,12 @@
 ---
-title: Dancing Queen -
+title: Dancing Queen - ABBA
 tags:
   - Singer/StephanieH/G
   - Singer/小丰/A
   - Style/158/100
+  - 原Key/A
+org_artist: ABBA
+yt_link: https://music.youtube.com/watch?v=YkLLcIKhJ64&si=qTySHmkxwfmr6xwF
 ---
 
 Singer/KEY: Steph [G] , 湘 [Ab] , 丰 [A] 

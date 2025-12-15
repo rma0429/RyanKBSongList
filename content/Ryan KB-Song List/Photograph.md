@@ -1,9 +1,12 @@
 ---
-title: Photograph -
+title: Photograph - Ed Sheeran
 tags:
   - Singer/StephanieH/E
   - Singer/虹竹/E
   - Style/Piano
+  - 原Key/E
+org_artist: Ed Sheeran
+yt_link: https://music.youtube.com/watch?v=SlbfAYvA_gI&si=JLrTD0iNWhIEsCL4
 ---
 
 Singer/KEY: Steph [E] , Carlos [E] , 竹 [E] 

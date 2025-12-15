@@ -1,8 +1,11 @@
 ---
-title: Englishman In New York -
+title: Englishman In New York - Sting
 tags:
   - Singer/虹竹/Eb
   - Style/81/200
+  - 原Key/D
+org_artist: Sting
+yt_link: https://music.youtube.com/watch?v=hgGlDovNMog&si=KNotIRT71mBlH7gN
 ---
 
 Singer/KEY: 竹 [Eb] , Carlos [C] 

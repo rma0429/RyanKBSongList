@@ -1,10 +1,13 @@
 ---
-title: Don't know why -
+title: Don't Know Why - Norah Jones
 tags:
   - Singer/StephanieH/Bb
   - Singer/小丰/Bb
   - Singer/虹竹/C
   - Style/55/90
+  - 原Key/Bb
+org_artist: Norah Jones
+yt_link: https://music.youtube.com/watch?v=GtOcxj3NDBI&si=TfZ9AEhwM42IMYKY
 ---
 
 Singer/KEY: Steph [Bb] , 丰 [Bb] , 竹 [C] 

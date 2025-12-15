@@ -1,9 +1,12 @@
 ---
-title: Que sera
+title: Whatever Will Be, Will Be (Que Sera, Sera) - Doris Day
 tags:
   - Singer/StephanieH/Ab
   - Singer/小丰/A
   - Style/274/160
+  - 原Key/A
+org_artist: Doris Day
+yt_link: https://music.youtube.com/watch?v=r1C69fzfGBM&si=XNYTfoKmUqDxAF-Q
 ---
 
 Singer/KEY: Steph [Ab] , 丰 [A] 

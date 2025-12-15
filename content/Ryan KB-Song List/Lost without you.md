@@ -1,3 +1,12 @@
+---
+title: Lost Without U - Robin Thicke
+tags:
+  - Singer/StephanieH/C
+  - Style/205/80
+  - 原Key/C
+org_artist: Robin Thicke
+yt_link: https://music.youtube.com/watch?v=JvZiZEcsOJY&si=qji4v41kXZYIMI9H
+---
 
 Singer/KEY: Steph [C] 
 Style: Slow Salsa [0205 80]

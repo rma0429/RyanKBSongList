@@ -1,7 +1,10 @@
 ---
-title: Careless Wisper -
+title: Careless Whisper - George Michael
 tags:
   - Style/47/77
+  - 原Key/F
+org_artist: George Michael
+yt_link: https://music.youtube.com/watch?v=gTwn_LoH7ig&si=3lGo3hLi_UWQjH7m
 ---
 
 Singer/KEY: Carlos [Eb] , 湘 [Ab] 

@@ -1,8 +1,11 @@
 ---
-title: I Don't Want To Talk About It -
+title: I Don't Want to Talk About It - Rod Stewart
 tags:
   - Singer/StephanieH/B
   - Style/56/64
+  - 原Key/Bb
+org_artist: Rod Stewart
+yt_link: https://music.youtube.com/watch?v=zcP8xLmTKmw&si=ADV1kFNZp4w7sgA8
 ---
 
 Singer/KEY: A , Steph [Eb] 

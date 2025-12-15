@@ -1,9 +1,12 @@
 ---
-title: Can You Feel the Love Tonight
+title: Can You Feel The Love Tonight - Elton John
 tags:
   - Singer/StephanieH/D
   - Singer/小丰/Eb
   - Style/Piano
+  - 原Key/Bb
+org_artist: Elton John
+yt_link: https://music.youtube.com/watch?v=whM1ce_NnUg&si=niMw_POIaBzhxqR1
 ---
 
 Singer/KEY: Steph [D] , 丰 [Eb] , Carlos [G] 

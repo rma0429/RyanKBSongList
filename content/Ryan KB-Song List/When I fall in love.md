@@ -1,8 +1,11 @@
 ---
-title: When I fall in love -
+title: When I Fall in Love - Nat King Cole
 tags:
   - Singer/小丰/C
   - Style/Piano
+  - 原Key/Db
+org_artist: Nat King Cole
+yt_link: https://music.youtube.com/watch?v=QhRaMwEmlCw&si=qIfSNnpHt8WnyLBl
 ---
 
 Singer/KEY: 丰[C] 

@@ -1,10 +1,13 @@
 ---
-title: Kiss me -
+title: Kiss Me - Sixpence None the Richer
 tags:
   - Singer/StephanieH/Eb
   - Singer/小丰/Eb
   - Singer/虹竹/E
   - Style/130/100
+  - 原Key/Eb
+org_artist: Sixpence None the Richer
+yt_link: https://music.youtube.com/watch?v=K2tbQ_g2VbQ&si=16Tx4OkBbj21xTgj
 ---
 
 Singer/KEY: Steph [Eb] , 丰 [Eb] , 竹 [E] 

@@ -1,8 +1,11 @@
 ---
-title: Hotel California -
+title: Hotel California - Eagles
 tags:
   - Singer/StephanieH/D
   - Style/47/75
+  - 原Key/D
+org_artist: Eagles
+yt_link: https://music.youtube.com/watch?v=BciS5krYL80&si=ximEt_de1QN5z1AG
 ---
 > [Lyrics]<br>
 > <br>

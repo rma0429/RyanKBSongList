@@ -1,8 +1,11 @@
 ---
-title: Our love is here to stay -
+title: Love Is Here to Stay - Frank Sinatra
 tags:
   - Singer/StephanieH/C
   - Style/81/75
+  - 原Key/D
+org_artist: Frank Sinatra
+yt_link: https://music.youtube.com/watch?v=APAhPg_CHRA&si=5VoiT-1uDGSFReM0
 ---
 
 Singer/KEY: Steph [C] , Carlos [D] 

@@ -1,10 +1,13 @@
 ---
-title: Shape of you -
+title: Shape of You - Ed Sheeran
 tags:
   - Singer/StephanieH/Eb
   - Singer/小丰/E
   - Singer/虹竹/E
   - Style/201/88
+  - 原Key/E
+org_artist: Ed Sheeran
+yt_link: https://music.youtube.com/watch?v=xTvyyoF_LZY&si=Ei-L8IObYzUp9Nxu
 ---
 
 Singer/KEY: Steph [Eb] , 丰 [E] , Carlos [F] , 竹 [E] 

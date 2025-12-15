@@ -1,8 +1,11 @@
 ---
-title: Shake it off -
+title: Shake it Off - Jamie Cullum
 tags:
   - Singer/StephanieH/Eb
   - Style/74/111
+  - 原Key/Ab
+org_artist: Jamie Cullum
+yt_link: https://music.youtube.com/watch?v=MpVSRObcadg&si=uuyxr_qo6fZumDdP
 ---
 
 Singer/KEY: Steph [Eb] 

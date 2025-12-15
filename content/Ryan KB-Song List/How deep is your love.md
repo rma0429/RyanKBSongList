@@ -1,11 +1,14 @@
 ---
-title: How deep is your love -
+title: How Deep Is Your Love - Bee Gees
 tags:
   - Singer/StephanieH/Bb
   - Singer/虹竹/C
   - Singer/小丰/B
   - Style/32/105
   - Style/30/93
+  - 原Key/Eb
+org_artist: Bee Gees
+yt_link: https://music.youtube.com/watch?v=o51p5IRJ5Tc&si=1_U7SuJwXF94Jntg
 ---
 
 Singer/KEY: Steph [Bb] , 竹 [C] , 湘 [C] , Carlos [E] , 丰 [B] 

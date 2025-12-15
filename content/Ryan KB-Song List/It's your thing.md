@@ -1,8 +1,11 @@
 ---
-title: It's your thing -
+title: It's Your Thing - The Isley Brothers
 tags:
   - Singer/小丰/F
   - Style/174/90
+  - 原Key/F
+org_artist: The Isley Brothers
+yt_link: https://music.youtube.com/watch?v=Tqc_EhmL8-E&si=0FTo0_UjebTuJP9M
 ---
 
 Singer/KEY: 丰 [F] 

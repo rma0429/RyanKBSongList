@@ -1,8 +1,11 @@
 ---
-title: I'm Like A Bird -
+title: I'm Like A Bird - Nelly Furtado
 tags:
   - Singer/StephanieH/Bb
   - Style/56/90
+  - 原Key/Bb
+org_artist: Nelly Furtado
+yt_link: https://music.youtube.com/watch?v=ZBQkuO-0yO8&si=Oi5UdYjQPC3CHkHM
 ---
 
 Singer/KEY: Steph [Bb] 

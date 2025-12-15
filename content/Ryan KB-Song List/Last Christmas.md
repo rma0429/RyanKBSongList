@@ -1,3 +1,12 @@
+---
+title: Last Christmas - Wham!
+tags:
+  - Style/93/108
+  - Singer/小丰/Eb
+  - 原Key/D
+org_artist: Wham!
+yt_link: https://music.youtube.com/watch?v=GJvGf_ifiKw&si=5fSmXxxOQR7TvRGm
+---
 
 Singer/KEY: 丰 [Eb] 
 Style: [0093 108]

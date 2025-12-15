@@ -1,11 +1,14 @@
 ---
-title: I’m yours -
+title: I'm Yours - Jason Mraz
 tags:
   - Singer/StephanieH/C
   - Singer/小丰/D
   - Singer/虹竹/E
   - Style/227/75
   - Style/201/75
+  - 原Key/B
+org_artist: Jason Mraz
+yt_link: https://music.youtube.com/watch?v=A93OQy81TYs&si=sp6KD-IBfNk1-V5M
 ---
 
 Singer/KEY: Steph [C] , Carlos [G] , 丰 [D] , 湘 [D] , 竹 [E] 

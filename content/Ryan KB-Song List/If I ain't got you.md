@@ -1,10 +1,13 @@
 ---
-title: If I ain't got you -
+title: If I Ain't Got You - Alicia Keys
 tags:
   - Singer/StephanieH/F
   - Singer/小丰/G
   - Singer/虹竹/G
   - Style/Piano
+  - 原Key/G
+org_artist: Alicia Keys
+yt_link: https://music.youtube.com/watch?v=-mAGQUsV6Nw&si=PTuk3uRyRKAiH8Hr
 ---
 
 Singer/KEY: Steph [F] , 丰 [G] , 竹 [G] 

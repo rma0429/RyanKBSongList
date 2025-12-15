@@ -1,9 +1,12 @@
 ---
-title: Yesterday once more -
+title: Yesterday Once More - The Carpenters
 tags:
   - Singer/小丰/G
   - Singer/虹竹/G
   - Style/50/85
+  - 原Key/E
+org_artist: The Carpenters
+yt_link: https://music.youtube.com/watch?v=wawbhXQX2TQ&si=f1-KgrplYYEsM0Jm
 ---
 
 Singer/KEY: 湘 [F#] , 丰 [G] , 竹 [G] 

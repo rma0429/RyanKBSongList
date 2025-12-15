@@ -1,8 +1,11 @@
 ---
-title: Three Little Birds -
+title: Three Little Birds - Bob Marley
 tags:
   - Singer/StephanieH/A
   - Style/229/69
+  - 原Key/A
+org_artist: Bob Marley
+yt_link: https://music.youtube.com/watch?v=MUNNRAdizz0&si=ey1p69xfa5t2ezuq
 ---
 
 Singer/KEY: Carlos [B] , Steph [A] 

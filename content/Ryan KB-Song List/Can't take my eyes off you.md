@@ -1,10 +1,13 @@
 ---
-title: Can't take my eyes off you-
+title: Can't Take My Eyes off You - Morten Harket
 tags:
   - Singer/StephanieH/G
   - Singer/虹竹/G
   - Singer/小丰/Ab
   - Style/31/120
+  - 原Key/E
+org_artist: Morten Harket
+yt_link: https://music.youtube.com/watch?v=3pYqVj-FyBk&si=OzWwh0zb6mkiSh8V
 ---
 
 Singer/KEY: Steph [G] , 竹 [G] , 丰 [Ab] , Carlos [B] , 湘 [A] 

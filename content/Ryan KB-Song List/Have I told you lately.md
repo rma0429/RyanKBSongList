@@ -1,9 +1,12 @@
 ---
-title: Have I told you lately -
+title: Have I Told You Lately - Rod Stewart
 tags:
   - Singer/StephanieH/Bb
   - Singer/小丰/Bb
   - Style/31/70
+  - 原Key/Bb
+org_artist: Rod Stewart
+yt_link: https://music.youtube.com/watch?v=tN2XpeMnE5w&si=0sLKsBv875X3gzxv
 ---
 
 Singer/KEY: Steph [Bb] , 丰 [Bb] , Carlos [F] 

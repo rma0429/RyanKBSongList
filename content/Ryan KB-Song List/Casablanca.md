@@ -1,10 +1,13 @@
 ---
-title: Casablanca
+title: Casablanca - Bertie Higgins
 tags:
   - Singer/StephanieH/E
   - Singer/虹竹/Gb
   - Singer/小丰/F
   - Style/302/126
+  - 原Key/Db
+org_artist: Bertie Higgins
+yt_link: https://music.youtube.com/watch?v=zPl2IJVf_tY&si=iKC0KKCI19Fj3-lH
 ---
 
 Singer/KEY: Steph [E] , 竹 [F#] , 丰 [F] 

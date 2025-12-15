@@ -1,65 +1,20 @@
 ---
-title: Angel -
+title: Angel - Sarah Mclachlan
 tags:
   - Singer/StephanieH/Db
   - Style/Piano
+  - 原Key/Db
+org_artist: Sarah Mclachlan
+yt_link: https://music.youtube.com/watch?v=gGkwSro5Ti8&si=yQ87dUmaX6rzv69d
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Sarah Mclachlan|Sarah Mclachlan]] (原 Key: 未設定) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=gGkwSro5Ti8&si=yQ87dUmaX6rzv69d)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Db)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: Steph [C#] 
-Style: [Piano]
-Singer: Steph
-
----
-
-> [Lyrics]
-> 
-> 
-> 
-> Spend all your time waiting
-> For that second chance
-> For a break that would make it okay
-> There's always some reason
-> To feel not good enough
-> And it's hard at the end of the day
-> I need some distraction
-> Oh a beautiful release
-> Memories seep from my veins
-> Let me be empty
-> Oh and weightless and maybe
-> I'll find some peace tonight
-> 
-> In the arms of the angel
-> Fly away from here
-> From this dark cold hotel room
-> And the endlessness that you fear
-> You are pulled from the wreckage
-> Of your silent reverie
-> You're in the arms of the angel
-> 
-> May you find some comfort here
-> 
-> So tired of the straight line
-> And everywhere you turn
-> There's vultures and thieves at your back
-> And the storm keeps on twisting
-> You keep on building the lies
-> That you make up for all that you lack
-> It don't make no difference
-> Escaping one last time
-> 
-> It's easier to believe
-> In this sweet madness
-> 
-> Oh this glorious sadness
-> That brings me to my knees
-> In the arms of the angel
-> Fly away from here
-> From this dark cold hotel room
-> And the endlessness that you fear
-> You are pulled from the wreckage
-> Of your silent reverie
-> You're in the arms of the angel
-> May you find some comfort here
-> You're in the arms of the angel
-> May you find some comfort here
->

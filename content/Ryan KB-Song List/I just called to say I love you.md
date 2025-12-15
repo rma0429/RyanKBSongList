@@ -1,9 +1,12 @@
 ---
-title: I just called to say I love you -
+title: I Just Called To Say I Love You - Stevie Wonder
 tags:
   - Singer/StephanieH/D
   - Singer/虹竹/G
   - Style/32/115
+  - 原Key/Db
+org_artist: Stevie Wonder
+yt_link: https://music.youtube.com/watch?v=58RgLQ_0Ars&si=NvFXlzEJzAuG7a3D
 ---
 
 Singer/KEY: Steph [D] , Carlos [C] , 竹 [G] 

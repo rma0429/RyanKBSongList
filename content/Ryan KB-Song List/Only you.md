@@ -1,7 +1,10 @@
 ---
-title: Only you -
+title: Only You - The Platters
 tags:
   - Style/231/80
+  - 原Key/Eb
+org_artist: The Platters
+yt_link: https://music.youtube.com/watch?v=tqw4yHAK5J4&si=gib6DZx3D_theFq2
 ---
 
 Singer/KEY: 湘 [Eb] 

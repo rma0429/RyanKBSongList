@@ -1,10 +1,13 @@
 ---
-title: I wish you love -
+title: I Wish You Love - Lisa Ono
 tags:
   - Singer/StephanieH/Db
   - Singer/小丰/Db
   - Singer/虹竹/Eb
   - Style/110/100
+  - 原Key/C
+org_artist: Lisa Ono
+yt_link: https://music.youtube.com/watch?v=T_8o2oEt2hg&si=YphIdyxRd2c2YA3h
 ---
 
 Singer/KEY: 丰 [C#] , 湘 [C#] , 竹 [Eb] 

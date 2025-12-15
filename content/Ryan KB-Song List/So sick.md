@@ -1,8 +1,11 @@
 ---
-title: So sick -
+title: So Sick - NE-YO
 tags:
   - Singer/小丰/C
   - Style/Piano
+  - 原Key/Gb
+org_artist: NE-YO
+yt_link: https://music.youtube.com/watch?v=CR4VBJWtVck&si=qCQoLQnP4g23j2nr
 ---
 
 Singer/KEY: 丰[C] 

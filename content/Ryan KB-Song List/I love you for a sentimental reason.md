@@ -1,8 +1,11 @@
 ---
-title: I love you for a sentimental reason -
+title: I Love You for Sentimental Reasons - Nat King Cole
 tags:
   - Singer/StephanieH/Bb
   - Style/79/72
+  - 原Key/Db
+org_artist: Nat King Cole
+yt_link: https://music.youtube.com/watch?v=NM7FjLzaKbE&si=MagtJETOB5-e8wnv
 ---
 
 Singer/KEY: Steph [Bb] 

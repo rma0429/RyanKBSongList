@@ -1,8 +1,11 @@
 ---
-title: Don’t Sail Away -
+title: Don't Sail Away - 張惠妹
 tags:
   - Singer/小丰/C
   - Style/105/128
+  - 原Key/C
+org_artist: 張惠妹
+yt_link: https://music.youtube.com/watch?v=ewkB-qZKIZs&si=2DzlSeeCZr6H2j9F
 ---
 
 Singer/KEY: 丰[C] 

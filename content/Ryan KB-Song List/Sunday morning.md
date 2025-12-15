@@ -1,9 +1,12 @@
 ---
-title: Sunday morning -
+title: Sunday Morning - Maroon 5
 tags:
   - Singer/小丰/Db
   - Singer/虹竹/D
   - Style/50/88
+  - 原Key/C
+org_artist: Maroon 5
+yt_link: https://music.youtube.com/watch?v=U9-f4Mosb_A&si=hF2sIViFxPiBniiZ
 ---
 
 Singer/KEY: 丰 [C#] , 湘 [C#] , 竹 [D] 

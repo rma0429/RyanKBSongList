@@ -1,7 +1,10 @@
 ---
-title: Love Me Tender
+title: Love Me Tender - Elvis Presley
 tags:
   - Style/Piano
+  - 原Key/D
+org_artist: Elvis Presley
+yt_link: https://music.youtube.com/watch?v=i0aSp7C_EyU&si=Kx279ty0vUfso5gs
 ---
 
 Singer/KEY: Carlos [G] 

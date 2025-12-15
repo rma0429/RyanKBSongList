@@ -1,8 +1,11 @@
 ---
-title: Country Roads -
+title: Take Me Home, Country Roads - John Denver
 tags:
   - Singer/虹竹/E
   - Style/237/80
+  - 原Key/A
+org_artist: John Denver
+yt_link: https://music.youtube.com/watch?v=o97gto7kaaQ&si=QDv17lOPi3jD6Sbu
 ---
 
 Singer/KEY: Carlos [A] , 竹 [E] 

@@ -1,10 +1,13 @@
 ---
-title: Havana -
+title: Havana - Camila Cabello
 tags:
   - Singer/StephanieH/D
   - Singer/虹竹/B
   - Style/202/100
   - Style/204/100
+  - 原Key/Bb
+org_artist: Camila Cabello
+yt_link: https://music.youtube.com/watch?v=mJLDjIWuPXU&si=DdtJgVGHQq-1bc9Z
 ---
 
 Singer/KEY: Steph [D] , 竹 [B] 

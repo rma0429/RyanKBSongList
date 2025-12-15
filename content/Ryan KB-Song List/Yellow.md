@@ -1,11 +1,14 @@
 ---
-title: Yellow -
+title: Yellow - Coldplay
 tags:
   - Singer/StephanieH/D
   - Singer/小丰/C
   - Singer/虹竹/E
   - Style/Piano
   - Style/118/85
+  - 原Key/B
+org_artist: Coldplay
+yt_link: https://music.youtube.com/watch?v=9qnqYL0eNNI&si=qBhkgcWJFumImBTX
 ---
 
 Singer/KEY: Steph [D] , 丰[C] , Carlos [G] , 竹 [E] 

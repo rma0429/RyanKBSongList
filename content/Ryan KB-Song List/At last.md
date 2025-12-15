@@ -1,44 +1,9 @@
 ---
-title: At last
+title: At last - Etta James
 tags:
   - Singer/StephanieH/F
   - Style/87/58
+  - 原Key/F
+org_artist: Etta James
+yt_link: https://music.youtube.com/watch?v=J0F1lj4OKig&si=BkZPLHQCD6aO4zKO
 ---
-
-Singer/KEY: Steph [F] 
-Style: [0087 58]
-Singer: Steph
-
----
-
-> [Lyrics]
-> 
-> 
-> [In Piano]
-> 
-> [V1]
-> At last
-> My love has come along
-> My lonely days are over
-> And life is like a song
-> 
-> Oh yeah yeah
-> At last
-> 
-> The skies above are blue
-> My heart was wrapped up in clover
-> The night I looked at you
-> 
-> I found a dream, that I could speak to
-> A dream that I can call my own
-> I found a thrill to press my cheek to
-> A thrill that I have never known
-> 
-> Oh yeah yeah
-> You smiled, you smiled
-> Oh and then the spell was cast
-> And here we are in heaven
-> For you are mine...
-> 
-> At Last
->

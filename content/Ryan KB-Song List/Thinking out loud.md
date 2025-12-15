@@ -1,9 +1,12 @@
 ---
-title: Thinking out loud -
+title: Thinking out Loud - Ed Sheeran
 tags:
   - Singer/StephanieH/D
   - Singer/小丰/Gb
   - Style/53/80
+  - 原Key/D
+org_artist: Ed Sheeran
+yt_link: https://music.youtube.com/watch?v=fdz_cabS9BU&si=JDkwjPH3jatbmy4B
 ---
 
 Singer/KEY: Steph [D] , 丰 [F#] , Carlos [A] 

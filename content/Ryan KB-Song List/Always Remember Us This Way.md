@@ -1,9 +1,12 @@
 ---
-title: Always Remember Us This Way -
+title: Always Remember Us This Way -Lady Gaga
 tags:
   - Singer/StephanieH/B
   - Singer/虹竹/C
   - Style/50/65
+  - 原Key/C
+org_artist:
+yt_link: https://music.youtube.com/watch?v=Voo86mlxZvA&si=1h8qU796v5nEGvm3
 ---
 
 Singer/KEY: Steph [B] , 竹 [C] 

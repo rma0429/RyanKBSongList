@@ -1,9 +1,12 @@
 ---
-title: Best Part -
+title: Best Part (feat. H.E.R.) - Daniel Caesar
 tags:
   - Singer/StephanieH/Db
   - Singer/虹竹/D
   - Style/Piano
+  - 原Key/D
+org_artist: Daniel Caesar
+yt_link: https://music.youtube.com/watch?v=zNhtz0Lygik&si=66q3MZVzuZq1kteI
 ---
 
 Singer/KEY: Steph [C#] , 竹 [D] 

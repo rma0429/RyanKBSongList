@@ -1,10 +1,13 @@
 ---
-title: Merry you -
+title: Bruno Mars - Marry You
 tags:
   - Singer/StephanieH/F
   - Singer/小丰/F
   - Singer/虹竹/Gb
   - Style/43/130
+  - 原Key/F
+org_artist: Bruno Mars
+yt_link: https://music.youtube.com/watch?v=dElRVQFqj-k&si=DF5GuTl1CpmP3uV9
 ---
 
 Singer/KEY: Steph [F] , 丰 [F] , 竹 [F#] 

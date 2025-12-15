@@ -1,8 +1,11 @@
 ---
-title: Sky Full Of Stars -
+title: A Sky Full of Stars - Coldplay
 tags:
   - Singer/StephanieH/Gb
   - Style/141/128
+  - 原Key/Gb
+org_artist: Coldplay
+yt_link: https://music.youtube.com/watch?v=KWuyx6yZ21U&si=-xl4fQsNzA-zoetw
 ---
 ㄈ
 Singer/KEY: Steph [F#] 

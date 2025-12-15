@@ -3,6 +3,9 @@ title: Nothing - Bruno Major
 tags:
   - Singer/StephanieH/D
   - Style/Piano
+  - 原Key/D
+org_artist: Bruno Major
+yt_link: https://music.youtube.com/watch?v=Nv3bQao8l3I&si=ONQ88vUNA6n5Os2S
 ---
 
 Singer/KEY: Steph [D] 

@@ -1,7 +1,11 @@
 ---
-title: You Are My Sunshine -
+title: You Are My Sunshine - Jimmie Davis
 tags:
   - Style/255/130
+  - 原Key/F
+  - Style/32/130
+org_artist: Jimmie Davis
+yt_link: https://music.youtube.com/watch?v=z1NfVi6SM3Q&si=b8gOs06Emrau3PpH
 ---
 
 Singer/KEY: Carlos [D] 

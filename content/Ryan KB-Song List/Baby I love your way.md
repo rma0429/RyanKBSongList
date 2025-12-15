@@ -1,7 +1,10 @@
 ---
-title: Baby I love your way
+title: Baby I love your way - Big Mountain
 tags:
   - Style/229/75
+  - 原Key/E
+org_artist:
+yt_link: https://music.youtube.com/watch?v=OIgq9spZnhk&si=-Hbqfsi5ZdQ-IwEr
 ---
 
 Singer/KEY: Carlos [A] 

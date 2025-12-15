@@ -1,9 +1,12 @@
 ---
-title: Espresso -
+title: Espresso - Sabrina Carpenter
 tags:
   - Singer/StephanieH/Eb
   - Singer/小丰/C
   - Style/159/103
+  - 原Key/C
+org_artist: Sabrina Carpenter
+yt_link: https://music.youtube.com/watch?v=kIft-LUHHVA&si=rBESdZ9H06lzf9Ns
 ---
 
 Singer/KEY: Steph [Eb] , 丰[C] 

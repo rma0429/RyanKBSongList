@@ -1,10 +1,13 @@
 ---
-title: LOVE
+title: L-O-V-E - Nat King Cole
 tags:
   - Singer/StephanieH/F
   - Singer/小丰/F
   - Singer/虹竹/G
   - Style/80/115
+  - 原Key/G
+org_artist: Nat King Cole
+yt_link: https://music.youtube.com/watch?v=gZYtes1RO_w&si=75Cc3kIB2SKGD7_U
 ---
 
 Singer/KEY: Steph [F] , 丰 [F] , Carlos [G] , 湘 [F] , 竹 [G] 

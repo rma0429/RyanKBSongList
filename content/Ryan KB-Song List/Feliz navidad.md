@@ -1,8 +1,11 @@
 ---
-title: Feliz navidad -
+title: Feliz Navidad - JoseFeliciano
 tags:
   - Singer/小丰/F
   - Style/110/120
+  - 原Key/D
+org_artist: JoseFeliciano
+yt_link: https://music.youtube.com/watch?v=N8NcQzMQN_U&si=VEG3qMBUzFb3a5UT
 ---
 
 Singer/KEY: 丰 [F] 

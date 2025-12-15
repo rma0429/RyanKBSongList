@@ -1,9 +1,12 @@
 ---
-title: The Way You Look Tonight -
+title: The Way You Look Tonight - Frank Sinatra
 tags:
   - Singer/StephanieH/Bb
   - Singer/虹竹/B
   - Style/109/110
+  - 原Key/Eb
+org_artist: Frank Sinatra
+yt_link: https://music.youtube.com/watch?v=YFham2Xu6nA&si=im4V-LMl4gJ-aj1i
 ---
 
 Singer/KEY: Steph [Bb] , 竹 [B] 

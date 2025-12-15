@@ -1,9 +1,12 @@
 ---
-title: New York New York -
+title: New York, New York - Frank Sinatra
 tags:
   - Singer/StephanieH/B
   - Singer/虹竹/B
   - Style/Piano
+  - 原Key/D
+org_artist: Frank Sinatra
+yt_link: https://music.youtube.com/watch?v=NogjmRMj_co&si=ceAKS9-AIRLuYoyk
 ---
 
 Singer/KEY: Steph [B] , 竹 [B] 

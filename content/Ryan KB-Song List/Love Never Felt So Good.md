@@ -1,9 +1,12 @@
 ---
-title: Love Never Felt So Good -
+title: Love Never Felt So Good - Michael Jackson
 tags:
   - Singer/StephanieH/F
   - Singer/小丰/G
   - Style/159/118
+  - 原Key/F
+org_artist: Michael Jackson
+yt_link: https://music.youtube.com/watch?v=FkxEE7wZ83c&si=bAktUE1ktsendbuL
 ---
 
 Singer/KEY: Steph [F] , 湘 [G] , Carlos [C] , 丰 [G] 

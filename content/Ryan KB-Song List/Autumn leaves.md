@@ -1,9 +1,12 @@
 ---
-title: Autumn leaves -
+title: Autumn leaves - Nat King Cole
 tags:
   - Singer/StephanieH/Eb
   - Singer/小丰/D
   - Style/68/81
+  - 原Key/F
+org_artist:
+yt_link: https://music.youtube.com/watch?v=YVedK1VUfLM&si=_O9cDDv-PLJ6gA47
 ---
 
 Singer/KEY: Steph [Eb] , 丰 [D] , Carlos [F] 

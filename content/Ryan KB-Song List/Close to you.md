@@ -1,10 +1,13 @@
 ---
-title: Close to you -
+title: Close To You - The Carpenters
 tags:
   - Singer/StephanieH/A
   - Singer/小丰/A
   - Singer/虹竹/B
   - Style/58/90
+  - 原Key/G
+org_artist: The Carpenters
+yt_link: https://music.youtube.com/watch?v=HYnV_pkO-Rw&si=Nfp2WsTGfNW-mtAZ
 ---
 
 Singer/KEY: Steph [A] , 丰 [A] , 湘 [A] , 竹 [B] 

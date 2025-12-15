@@ -1,8 +1,11 @@
 ---
-title: Creep -
+title: Creep - Radiohead
 tags:
   - Singer/StephanieH/F
   - Style/Piano
+  - 原Key/G
+org_artist: Radiohead
+yt_link: https://music.youtube.com/watch?v=9RfVp-GhKfs&si=2TksUalCbFSbaXhu
 ---
 
 Singer/KEY: Steph [F] 

@@ -1,7 +1,10 @@
 ---
-title: Piel canela -
+title: Piel Canela - Cuco
 tags:
   - Style/202/116
+  - 原Key/G
+org_artist: Cuco
+yt_link: https://music.youtube.com/watch?v=oMj0RQen1U0&si=krzwrFOIr-L5Q_uy
 ---
 
 Singer/KEY: 湘 [Eb] 

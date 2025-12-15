@@ -1,3 +1,14 @@
+---
+title: La Vie En Rose - Édith Piaf
+tags:
+  - Style/68/75
+  - Singer/StephanieH/Ab
+  - Singer/小丰/F
+  - Singer/虹竹/G
+  - 原Key/Ab
+org_artist: Édith Piaf
+yt_link: https://music.youtube.com/watch?v=qPU8mENUBXk&si=zS30Fh_ebNEIftIe
+---
 
 Singer/KEY: Steph [Ab] , 竹 [G] , 丰 [F] 
 Style: [0068 75]

@@ -1,9 +1,12 @@
 ---
-title: Just say you won’t let go -
+title: Say You Won't Let Go - James Arthur
 tags:
   - Singer/StephanieH/C
   - Style/Piano
   - Style/53/90
+  - 原Key/Bb
+org_artist: James Arthur
+yt_link: https://music.youtube.com/watch?v=TUnEJM6W-Fw&si=mx-GlZQ2fwOrVuwr
 ---
 
 Singer/KEY: Steph [C] 

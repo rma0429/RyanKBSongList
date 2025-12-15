@@ -1,9 +1,12 @@
 ---
-title: Put your records on -
+title: Put Your Records On - Corinne Bailey Rae
 tags:
   - Singer/StephanieH/A
   - Singer/虹竹/B
   - Style/48/98
+  - 原Key/A
+org_artist: Corinne Bailey Rae
+yt_link: https://music.youtube.com/watch?v=cDrU3weV3_Y&si=pnsTbju8aXCst8dk
 ---
 
 Singer/KEY: Steph [A] , 竹 [B] 

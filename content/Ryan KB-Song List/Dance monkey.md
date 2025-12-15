@@ -1,10 +1,13 @@
 ---
-title: Dance monkey -
+title: Dance Monkey - Tones and I
 tags:
   - Singer/StephanieH/A
   - Singer/小丰/A
   - Singer/虹竹/A
   - Style/48/100
+  - 原Key/A
+org_artist: Tones and I
+yt_link: https://music.youtube.com/watch?v=Hx4nWW9z0ig&si=vJb1ex9UOrYIcP3W
 ---
 
 Singer/KEY: Steph [A] , 丰 [A] , 竹 [A] 

@@ -1,11 +1,14 @@
 ---
-title: Loving you -
+title: Lovin' You - Minnie Riperton
 tags:
   - Singer/StephanieH/G
   - Singer/小丰/G
   - Singer/虹竹/G
   - Style/Piano
   - Style/109/100
+  - 原Key/A
+org_artist: Minnie Riperton
+yt_link: https://music.youtube.com/watch?v=KhaUnHJjS8A&si=TMb0cKE6B2EI5DAx
 ---
 
 Singer/KEY: Steph [G] , 丰 [G] , 湘 [F] , 竹 [A] , 竹 [G] 

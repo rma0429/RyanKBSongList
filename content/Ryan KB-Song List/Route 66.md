@@ -1,8 +1,11 @@
 ---
-title: Route 66 -
+title: Route 66 - The Rolling Stones
 tags:
   - Singer/小丰/E
   - Style/70/150
+  - 原Key/A
+org_artist: The Rolling Stones
+yt_link: https://music.youtube.com/watch?v=Q131ZJ6YkG0&si=H7S36TrbUR_-CCX_
 ---
 
 Singer/KEY: 丰 [E] 

@@ -1,3 +1,13 @@
+---
+title: Lost Stars - Adam Levine
+tags:
+  - 原Key/F
+  - Singer/StephanieH/C
+  - Singer/虹竹/Eb
+  - Style/27/80
+org_artist: Adam Levine
+yt_link: https://music.youtube.com/watch?v=UOf6uHwB3Tk&si=uyBjdRSSSgTR3_mp
+---
 
 Singer/KEY: Steph [C] , 竹 [Eb] 
 Style: [0027 80]

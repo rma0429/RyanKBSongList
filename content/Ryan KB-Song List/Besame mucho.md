@@ -1,9 +1,12 @@
 ---
-title: Besame mucho
+title: Besame Mucho  - Cesaria Evora
 tags:
   - Singer/StephanieH/C
   - Singer/小丰/C
   - Style/104/95
+  - 原Key/G
+org_artist: Cesaria Evora
+yt_link: https://music.youtube.com/watch?v=LLsg_Lk819s&si=haIlw_2Epkq0owiw
 ---
 
 Singer/KEY: Steph [C] , 丰[C] , 湘 [C] , Carlos [F] 
