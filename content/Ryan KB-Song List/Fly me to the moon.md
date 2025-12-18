@@ -1,0 +1,52 @@
+---
+title: Fly Me To The Moon - Frank Sinatra
+tags:
+  - Singer/StephanieH/F
+  - Singer/小丰
+  - Singer/虹竹/A
+  - Style/74/125
+  - 原Key/C
+org_artist: Frank Sinatra
+yt_link: https://music.youtube.com/watch?v=ZEcqHA7dbwM&si=gJIAmdKP-AX_uNGO
+---
+
+Singer/KEY: 丰 [G] , 竹 [A] , Carlos [C] , Steph [F] 
+Style: [0074 125]
+Singer: Carlos, Steph, 丰, 竹
+
+---
+
+> [Lyrics]
+> 
+> 
+> [in1-1]
+> Fly me to the moon
+> Let me play among the stars
+> Let me see what spring is like
+> On a-Jupiter and Mars
+> 
+> In other words: hold my hand
+> In other words: baby, kiss me
+> 
+> [2]
+> Fill my heart with song
+> And let me sing for ever more
+> You are all I long for
+> All I worship and adore
+> 
+> In other words: please, be true
+> In other words: I love you
+> 
+> [3]
+> SOLO
+> 
+> [4]
+> Fill my heart with song
+> Let me sing for ever more
+> You are all I long for
+> All I worship and adore
+> 
+> In other words: please, be true
+> In other words, in other words: I love you
+> [End][1]
+>

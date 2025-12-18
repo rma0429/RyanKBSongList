@@ -1,0 +1,51 @@
+---
+title: Lovin' You - Minnie Riperton
+tags:
+  - Singer/StephanieH/G
+  - Singer/小丰/G
+  - Singer/虹竹/G
+  - Style/Piano
+  - Style/109/100
+  - 原Key/A
+org_artist: Minnie Riperton
+yt_link: https://music.youtube.com/watch?v=KhaUnHJjS8A&si=TMb0cKE6B2EI5DAx
+---
+
+Singer/KEY: Steph [G] , 丰 [G] , 湘 [F] , 竹 [A] , 竹 [G] 
+Style: [Piano]
+Bossa[0109 100]
+Singer: Steph, 丰, 湘, 竹
+
+---
+
+> [Lyrics]
+> 
+> 
+> Lovin' you is easy cause you're beautiful
+> Makin' love with you is all i wanna do
+> Lovin' you is more than just a dream come true
+> And everything that I do is out of lovin' you
+> La la la la la la la... do do do do do
+> 
+> No one else can make me feel
+> The colors that you bring
+> Stay with me while we grow old
+> And we will live each day in springtime
+> Cause lovin' you has made my life so beautiful
+> And every day my life is filled with lovin' you
+> Lovin' you I see your soul come shinin' through
+> And every time that we oooooh
+> I'm more in love with you
+> La la la la la la la... do do do do do
+> 
+> No one else can make me feel
+> The colors that you bring
+> Stay with me while we grow old
+> And we will live each day in springtime
+> Cause lovin' you has made my life so beautiful
+> And every day my life is filled with lovin' you
+> Lovin' you I see your soul come shinin' through
+> And every time that we oooooh
+> I'm more in love with you
+> La la la la la la la... do do do do do
+>

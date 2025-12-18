@@ -1,0 +1,17 @@
+@use "./base.scss";
+// 備註：請不要在 custom.scss 裡面再次 import custom.scss，避免循環引用。
+// @import styles from "../styles/custom.scss"; <-- 這行是錯誤的，已移除。
+
+// 雙欄排版
+.two-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+@media (max-width: 750px) {
+  .two-columns {
+    grid-template-columns: 1fr;
+  }
+}

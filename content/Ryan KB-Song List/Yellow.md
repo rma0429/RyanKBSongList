@@ -1,0 +1,79 @@
+---
+title: Yellow - Coldplay
+tags:
+  - Singer/StephanieH/D
+  - Singer/小丰/C
+  - Singer/虹竹/E
+  - Style/Piano
+  - Style/118/85
+  - 原Key/B
+org_artist: Coldplay
+yt_link: https://music.youtube.com/watch?v=9qnqYL0eNNI&si=qBhkgcWJFumImBTX
+---
+
+Singer/KEY: Steph [D] , 丰[C] , Carlos [G] , 竹 [E] 
+Style: [Piano]
+Stand[0118 85]
+Singer: Carlos, Steph, 丰, 竹
+
+---
+
+> [Lyrics]
+> 
+> 
+> [in 1-2]
+> 
+> [1]
+> Look at the stars
+> Look how they shine for you
+> And everything you do
+> Yeah, they were all yellow
+> 
+> [2]
+> I came along
+> I wrote a song for you
+> And all the things you do
+> And it was called Yellow
+> 
+> [2]
+> So then I took my turn
+> Oh, what a thing to have done
+> And it was all yellow
+> 
+> [3]
+> Your skin, oh yeah, your skin and bones
+> Turn into something beautiful
+> And you know, you know I love you so
+> You know I love you so
+> 
+> [2]
+> I swam across
+> I jumped across for you
+> Oh, what a thing to do
+> 'Cause you were all yellow
+> 
+> [2]
+> I drew a line
+> I drew a line for you
+> Oh, what a thing to do
+> And it was all yellow
+> 
+> [3]
+> And your skin, oh yeah, your skin and bones
+> Turn into something beautiful
+> And you know, for you, I'd bleed myself dry
+> For you, I'd bleed myself dry
+> 
+> It's true
+> Look how they shine for you
+> Look how they shine for you
+> Look how they shine for
+> Look how they shine for you
+> Look how they shine for you  [End [1]
+> Look how they shine
+> 
+> [Piano]
+> Look at the stars
+> Look how they shine for you
+> And all the things that you do
+>

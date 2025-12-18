@@ -1,0 +1,98 @@
+---
+title: Just the way you are -
+tags:
+  - Singer/StephanieH/F
+  - Singer/小丰/Gb
+  - Singer/虹竹/G
+  - Style/157/110
+  - Style/109/110
+  - 原Key/F
+org_artist: Bruno Mars
+yt_link: https://music.youtube.com/watch?v=E-UJTGXof6Q&si=28GuxEqt1pcOy5xH
+---
+> [!info] 
+> -  原唱： [[歌手/原唱/Bruno Mars|Bruno Mars]] (原 Key: F) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=E-UJTGXof6Q&si=28GuxEqt1pcOy5xH)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (F)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (Gb)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (G)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Slow Disco - 157 (BPM: 110)
+> - 🥁 Jazz Bossa - 109 (BPM: 110)
+
+
+
+Singer/KEY: Steph [F] , 丰 [F#] , 湘 [F] , 竹 [G] 
+Style: Stand[0157 110]
+Bossa[0109 110]
+Singer: Steph, 丰, 湘, 竹
+
+---
+
+> [Lyrics]
+> 
+> 
+> 
+> Oh, her eyes, her eyes
+> Make the stars look like they're not shinin'
+> Her hair, her hair
+> Falls perfectly without her tryin'
+> She's so beautiful and I tell her everyday
+> 
+> Yeah, I know, I know
+> When I compliment her, she won't believe me
+> And it's so, it's so
+> Sad to think that she don't see what I see
+> But every time she asks me, "Do I look okay?"
+> I say
+> 
+> When I see your face
+> There's not a thing that I would change
+> 'Cause you're amazing
+> Just the way you are
+> And when you smile
+> The whole world stops and stares for a while
+> 'Cause girl, you're amazing
+> Just the way you are
+> 
+> Yeah
+> Her lips, her lips
+> I could kiss them all day if she'd let me
+> Her laugh, her laugh
+> She hates, but I think it's so sexy
+> She's so beautiful and I tell her everyday
+> 
+> Oh, you know, you know
+> You know I'd never ask you to change
+> If perfect's what you're searchin' for, then just stay the same
+> So don't even bother askin' if you look okay
+> You know I'll say
+> 
+> When I see your face
+> There's not a thing that I would change
+> 'Cause you're amazing
+> Just the way you are
+> And when you smile
+> The whole world stops and stares for a while
+> 'Cause girl, you're amazing
+> Just the way you are
+> 
+> The way you are
+> The way you are
+> Girl, you're amazing
+> Just the way you are
+> 
+> When I see your face
+> There's not a thing that I would change
+> 'Cause you're amazing
+> Just the way you are
+> And when you smile
+> The whole world stops and stares for a while
+> 'Cause girl, you're amazing
+> Just the way you are
+> Yeah
+>

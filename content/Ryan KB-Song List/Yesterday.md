@@ -1,0 +1,35 @@
+---
+title: Yesterday - The Beatles
+tags:
+  - Style/Piano
+  - 原Key/F
+org_artist: The Beatles
+yt_link: https://music.youtube.com/watch?v=fCV9oqtwyVA&si=-TcMld6CBhbP6c9l
+---
+
+Singer/KEY: 湘 [A] 
+Style: [Piano]
+Singer: 湘
+
+---
+
+> [Lyrics]
+> 
+> 
+> Yesterday, all my troubles seemed so far away
+> Now it looks as though they're here to stay
+> Oh, I believe in yesterday.
+> 
+> Suddenly, I'm not half the man I used to be,
+> There's a shadow hanging over me.
+> Oh, yesterday came suddenly.
+> 
+> Why she had to go I don't know she wouldn't say.
+> I said something wrong, now I long for yesterday.
+> 
+> Yesterday, love was such an easy game to play.
+> Now I need a place to hide away.
+> Oh, I believe in yesterday.
+> 
+> Mm mm mm mm mm.
+>
