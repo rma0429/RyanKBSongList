@@ -24,8 +24,7 @@
 - #原Key/E 
 - #原Key/F
 
-
-Original Singer
-- #原唱/周杰倫
-- #原唱/BrunoMars 
-
+#1️⃣
+#2️⃣
+#3️⃣
+#4️⃣ 
