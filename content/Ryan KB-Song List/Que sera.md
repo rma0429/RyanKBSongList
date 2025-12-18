@@ -8,57 +8,34 @@ tags:
 org_artist: Doris Day
 yt_link: https://music.youtube.com/watch?v=r1C69fzfGBM&si=XNYTfoKmUqDxAF-Q
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Doris Day|Doris Day]] (原 Key: A) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=r1C69fzfGBM&si=XNYTfoKmUqDxAF-Q)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Ab)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (A)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 It Valzer - 274 (BPM: 160)
 
-Singer/KEY: Steph [Ab] , 丰 [A] 
-Style: [0274 160]
-Singer: Steph, 丰
 
-- Half bar Fill
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
----
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Que sera.png]]
+</div>
 
-> [Lyrics]
-> 
-> 
-> [in 1-2]
-> When I was just a little girl
-> I asked my mother "What will I be"
-> Will I be pretty?
-> Will I be rich?
-> Here's what she said to me
-> 
-> [3]
-> Que sera sera whatever will be will be
-> The future's not ours to see
-> Que sera sera
-> What will be will be
-> 
-> [2]
-> When I grew up and fell in love
-> I asked my sweetheart "What lies ahead"
-> Will we have rainbows day after day?
-> Here's what my sweetheart said
-> 
-> [3]
-> Que sera sera whatever will be will be
-> The future's not ours to see
-> Que sera sera
-> What will be will be
-> 
-> [4]?
-> Solo?
-> 
-> [1]
-> Now I had children of my own
-> They asked their mother "What will I be"
-> Will I be handsome?
-> Will I be rich?
-> I tell them tenderly
-> 
-> [4]
-> Que sera sera whatever will be will be
-> The future's not ours to see
-> Que sera sera
-> What will be will be
-> Que sera sera
->
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

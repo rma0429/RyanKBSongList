@@ -9,63 +9,35 @@ tags:
 org_artist: Michael Bublé
 yt_link: https://music.youtube.com/watch?v=emW6SVV_hPE&si=WE8BZSU1ydPaSprF
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Michael Bublé|Michael Bublé]] (原 Key: F) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=emW6SVV_hPE&si=WE8BZSU1ydPaSprF)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (C)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (Eb)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (D)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Orch Cha Cha - 200 (BPM: 120)
 
-Singer/KEY: Steph [C] , 丰 [Eb] , 湘 [C] , Carlos [G] , 竹 [D] 
-Style: [0200 120]
-Singer: Carlos, Steph, 丰, 湘, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> When marimba rhythms start to play
-> Dance with me, make me sway
-> Like a lazy ocean hugs the shore
-> Hold me close, sway me more
-> 
-> Like a flower bending in the breeze
-> Bend with me, sway with ease
-> When we dance you have a way with me
-> Stay with me, sway with me
-> 
-> Other dancers may be on the floor
-> Dear, but my eyes will see only you
-> Only you have that magic technique
-> When we sway I go weak
-> 
-> I can hear the sounds of violins
-> Long before it begins
-> Make me thrill as only you know how
-> Sway me smooth, sway me now
-> 
-> Other dancers may be on the floor
-> Dear, but my eyes will see only you
-> Only you have that magic technique
-> When we sway I go weak
-> 
-> I can hear the sounds of violins
-> Long before it begins
-> Make me thrill as only you know how
-> Sway me smooth, sway me now
-> 
-> When marimba rhythms start to play
-> Dance with me, make me sway
-> Like a lazy ocean hugs the shore
-> Hold me close, sway me more
-> 
-> Like a flower bending in the breeze
-> Bend with me, sway with ease
-> When we dance you have a way with me
-> Stay with me, sway with me
-> 
-> When marimbas start to play
-> Hold me close, make me sway
-> Like an ocean hugs the shore
-> Hold me close, sway me more
-> 
-> Like a flower bending in the breeze
-> Bend with me, sway with ease
-> When we dance you have a way with me
-> Stay with me, sway with me
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Sway.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

@@ -7,45 +7,33 @@ tags:
 org_artist: Frank Sinatra
 yt_link: https://music.youtube.com/watch?v=xz5W5bKLj_4&si=0hpzJRc2KCHy2Oqo
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Frank Sinatra|Frank Sinatra]] (原 Key: Db) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=xz5W5bKLj_4&si=0hpzJRc2KCHy2Oqo)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Bb)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 OrchSlow.Jazz - 58 (BPM: 130)
 
-Singer/KEY: Steph [Bb] , 湘 [Bb] , Carlos [C] 
-Style: [0058 130]
-Singer: Carlos, Steph, 湘
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> I've got you under my skin.
-> I've got you deep in the heart of me.
-> So deep in my heart that you're really a part of me.
-> I've got you under my skin.
-> I'd tried so not to give in.
-> I said to myself: this affair never will go so well.
-> But why should I try to resist when, baby, I know so well
-> I've got you under my skin?
-> 
-> I'd sacrifice anything come what might
-> For the sake of havin' you near
-> In spite of a warnin' voice that comes in the night
-> And repeats, repeats in my ear:
-> Don't you know, little fool, you never can win?
-> Use your mentality, wake up to reality.
-> But each time that I do just the thought of you
-> Makes me stop before I begin
-> 'Cause I've got you under my skin.
-> 
-> [Musical interlude]
-> 
-> I would sacrifice anything come what might
-> For the sake of havin' you near
-> In spite of the warning voice that comes in the night
-> And repeats - how it yells in my ear:
-> Don't you know, little fool, you never can win?
-> Why not use your mentality - step up, wake up to reality?
-> But each time I do just the thought of you
-> Makes me stop just before I begin
-> 'Cause I've got you under my skin.
-> Yes, I've got you under my skin.
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[I got you under my skin-1.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

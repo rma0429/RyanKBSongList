@@ -9,67 +9,35 @@ tags:
 org_artist: Ed Sheeran
 yt_link: https://music.youtube.com/watch?v=ORrFJ63nlcA&si=GRvnRyR_jRdlBfYu
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Ed Sheeran|Ed Sheeran]] (原 Key: Ab) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=ORrFJ63nlcA&si=GRvnRyR_jRdlBfYu)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (A)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (C)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: Steph [A] , 丰[C] , Carlos [G] , 竹 [C] 
-Style: [Piano]
-Singer: Carlos, Steph, 丰, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> I found a love for me
-> Darling, just dive right in and follow my lead
-> Well, I found a girl, beautiful and sweet
-> Oh, I never knew you were the someone waiting for me
-> 
-> 'Cause we were just kids when we fell in love
-> Not knowing what it was
-> I will not give you up this time
-> But darling, just kiss me slow
-> Your heart is all I own
-> And in your eyes you're holding mine
-> 
-> Baby, I'm dancing in the dark
-> With you between my arms
-> Barefoot on the grass
-> Listening to our favourite song
-> When you said you looked a mess
-> I whispered underneath my breath
-> But you heard it,
-> Darling, you look perfect tonight
-> 
-> Well, I found a woman, stronger than anyone I know
-> She shares my dreams, I hope that someday I'll share her home
-> I found a love to carry more than just my secrets
-> To carry love, to carry children of our own
-> 
-> We are still kids but we're so in love
-> Fighting against all odds
-> I know we'll be alright this time
-> Darling, just hold my hand
-> Be my girl, I'll be your man
-> I see my future in your eyes
-> 
-> Baby, I'm dancing in the dark
-> With you between my arms
-> Barefoot on the grass
-> Listening to our favourite song
-> When I saw you in that dress
-> Looking so beautiful
-> I don't deserve this
-> Darling, you look perfect tonight
-> 
-> No, no, no
-> 
-> Baby, I'm dancing in the dark
-> With you between my arms
-> Barefoot on the grass
-> Listening to our favourite song
-> I have faith in what I see
-> Now I know I have met an angel in person
-> And she looks perfect
-> I don't deserve this
-> You look perfect tonight
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Perfect.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

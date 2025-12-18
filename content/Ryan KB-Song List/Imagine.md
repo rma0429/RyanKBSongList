@@ -7,44 +7,33 @@ tags:
 org_artist: John Lennon
 yt_link: https://music.youtube.com/watch?v=rAn-AWXtHv0&si=3lB55P4Q_qgyiGuN
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/John Lennon|John Lennon]] (原 Key: C) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=rAn-AWXtHv0&si=3lB55P4Q_qgyiGuN)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (E)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: Carlos [Bb] , 竹 [E] 
-Style: [Piano]
-Singer: Carlos, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Imagine there's no heaven
-> It's easy if you try
-> No hell below us
-> Above us only sky
-> Imagine all the people
-> Living for today... Aha-ah...
-> 
-> Imagine there's no countries
-> It isn't hard to do
-> Nothing to kill or die for
-> And no religion, too
-> Imagine all the people
-> Living life in peace... You...
-> 
-> You may say I'm a dreamer
-> But I'm not the only one
-> I hope someday you'll join us
-> And the world will be as one
-> 
-> Imagine no possessions
-> I wonder if you can
-> No need for greed or hunger
-> A brotherhood of man
-> Imagine all the people
-> Sharing all the world... You...
-> 
-> You may say I'm a dreamer
-> But I'm not the only one
-> I hope someday you'll join us
-> And the world will live as one
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Imagine.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

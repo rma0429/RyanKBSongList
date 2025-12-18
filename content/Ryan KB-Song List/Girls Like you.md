@@ -1,89 +1,41 @@
 ---
-title: Girls Like You (Cardi B Version) - Maroon 5
+title: Girls Like You - Maroon 5
 tags:
   - Singer/StephanieH/C
   - Style/Piano
   - Style/42/118
   - 原Key/C
 org_artist: Maroon 5
-yt_link: https://music.youtube.com/watch?v=XDbW5bXrm7I&si=QA3NvMol7HGLy4OA
+yt_link: https://music.youtube.com/watch?v=D2mlCmROm2M&si=mcuSKsC5Esm1kYs6
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Maroon 5|Maroon 5]] (原 Key: C) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=D2mlCmROm2M&si=mcuSKsC5Esm1kYs6)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
+> - 🥁 UK Shuffle - 42 (BPM: 118)
 
-Singer/KEY: Steph [C] 
-Style: [Piano]
-[0042 118]
-Singer: Steph
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Spent 24 hours, I need more hours with you
-> You spent the weekend getting even, ooh
-> We spent the late nights 
-> 
-> making things right between us
-> But now it's all good, babe
-> Roll that Backwood, babe
-> And play me close
-> 
-> 'Cause girls like you run 'round with guys like me
-> 'Til sundown when I come through
-> I need a girl like you, yeah yeah
-> Girls like you love fun, and yeah, me too
-> What I want when I come through
-> I need a girl like you, yeah yeah
-> 
-> Yeah yeah yeah, yeah yeah yeah
-> I need a girl like you, yeah yeah
-> Yeah yeah yeah, yeah yeah yeah
-> I need a girl like you
-> 
-> I spent last night on the last flight to you
-> Took a whole day up tryna get way up, ooh
-> We spent the daylight 
-> 
-> tryna make things right between us
-> But now it's all good, babe
-> Roll that Backwood, babe
-> And play me close
-> 
-> 'Cause girls like you run 'round with guys like me
-> 'Til sundown when I come through
-> I need a girl like you, yeah yeah
-> Girls like you love fun, and yeah, me too
-> What I want when I come through
-> I need a girl like you, yeah yeah
-> 
-> Yeah yeah yeah, yeah yeah yeah
-> I need a girl like you, yeah yeah
-> Yeah yeah yeah, yeah yeah yeah
-> I need a girl like you, yeah yeah
-> I need a girl like you, yeah yeah
-> I need a girl like you
-> 
-> Maybe it's 6:45
-> Maybe I'm barely alive
-> Maybe you've taken my shit for the last time, yeah
-> Maybe I know that I'm drunk
-> Maybe I know you're the one
-> Maybe you're thinking it's better if you drive
-> 
-> Oh,'Cause girls like you run 'round with guys like me
-> 'Til sundown when I come through
-> I need a girl like you, yeah yeah
-> 
-> 'Cause girls like you run 'round with guys like me
-> 'Til sundown when I come through
-> I need a girl like you, yeah yeah
-> 
-> Girls like you love fun, and yeah, me too
-> What I want when I come through
-> I need a girl like you, yeah yeah
-> 
-> Yeah yeah yeah, yeah yeah yeah
-> I need a girl like you, yeah yeah
-> Yeah yeah yeah, yeah yeah yeah
-> I need a girl like you
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Girls Like you.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

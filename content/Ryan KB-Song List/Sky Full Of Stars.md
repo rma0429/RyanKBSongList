@@ -7,44 +7,31 @@ tags:
 org_artist: Coldplay
 yt_link: https://music.youtube.com/watch?v=KWuyx6yZ21U&si=-xl4fQsNzA-zoetw
 ---
-ㄈ
-Singer/KEY: Steph [F#] 
-Style: [0141 128]
-Singer: Steph
+> [!info] 
+> -  原唱： [[歌手/原唱/Coldplay|Coldplay]] (原 Key: Gb) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=KWuyx6yZ21U&si=-xl4fQsNzA-zoetw)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Gb)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 CrosovrDance - 141 (BPM: 128)
 
-- 6…4…1…5…
+
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
+
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Sky Full Of Stars.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+6…4…1…5…
 After last drop
 4…5…6…3…
 
----
+</div>
 
-> [Lyrics]
-> 
-> 
-> 
-> Cause you're a sky, 'cause you're a sky full of stars
-> I'm gonna give you my heart
-> 'Cause you're a sky, 'cause you're a sky full of stars
-> 'Cause you light up the path
-> 
-> I don't care, go on and tear me apart
-> I don't care if you do, ooh-ooh, ooh
-> 'Cause in a sky, 'cause in a sky full of stars
-> I think I saw you
-> 
-> 'Cause you're a sky, 'cause you're a sky full of stars
-> I wanna die in your arms, oh, oh-oh
-> 'Cause you get lighter the more it gets dark
-> I'm gonna give you my heart, oh
-> 
-> I don't care, go on and tear me apart
-> I don't care if you do, ooh-ooh, ooh
-> 'Cause in a sky, 'cause in a sky full of stars
-> I think I see you
-> I think I see you
-> 
-> 'Cause you're a sky, you're a sky full of stars
-> Such a heavenly view
-> You're such a heavenly view
-> Yeah, yeah, yeah, ooh
->
+</div>
+

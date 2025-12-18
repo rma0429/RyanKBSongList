@@ -8,113 +8,34 @@ tags:
 org_artist: Maroon 5
 yt_link: https://music.youtube.com/watch?v=wSOc5jmvF-k&si=9lo6p3eF8mwzcwFb
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Maroon 5|Maroon 5]] (原 Key: Db) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=wSOc5jmvF-k&si=9lo6p3eF8mwzcwFb)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Spring Rock - 130 (BPM: 120)
+> - 🥁 Night's Dance - 152 (BPM: 110)
 
-Singer/KEY: Steph [C] 
-Style: [0130 120]
-[0152 110}
-Singer: Steph
 
-- 4…6…2…1…
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
----
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Sugar.png]]
+</div>
 
-> [Lyrics]
-> 
-> 
-> 
-> I'm hurting, baby, I'm broken down
-> I need your loving, loving
-> I need it now
-> When I'm without you
-> I'm something weak
-> You got me begging, begging
-> I'm on my knees
-> 
-> I don't wanna be needing your love
-> I just wanna be deep in your love
-> And it's killing me when you're away, ooh, baby
-> 'Cause I really don't care where you are
-> I just wanna be there where you are
-> And I gotta get one little taste
-> 
-> Your sugar
-> Yes, please
-> Won't you come and put it down on me?
-> I'm right here, 'cause I need
-> Little love, a little sympathy
-> Yeah, you show me good loving
-> Make it alright
-> Need a little sweetness in my life
-> Your sugar
-> Yes, please
-> Won't you come and put it down on me?
-> 
-> My broken pieces
-> You pick them up
-> Don't leave me hanging, hanging
-> Come give me some
-> When I'm without ya
-> I'm so insecure
-> You are the one thing, one thing
-> I'm living for
-> 
-> I don't wanna be needing your love
-> I just wanna be deep in your love
-> And it's killing me when you're away, ooh, baby
-> 'Cause I really don't care where you are
-> I just wanna be there where you are
-> And I gotta get one little taste
-> 
-> Your sugar
-> Yes, please
-> Won't you come and put it down on me?
-> I'm right here
-> 'Cause I need
-> Little love, a little sympathy
-> Yeah, you show me good loving
-> Make it alright
-> Need a little sweetness in my life
-> Your sugar! (sugar!)
-> Yes, please (yes, please)
-> Won't you come and put it down on me?
-> 
-> Yeah
-> I want that red velvet
-> I want that sugar sweet
-> Don't let nobody touch it
-> Unless that somebody's me
-> I gotta be your man
-> There ain't no other way
-> 'Cause girl you're hotter than a southern California day
-> 
-> I don't wanna play no games
-> You don't gotta be afraid
-> Don't give me all that shy shit
-> No make-up on
-> That's my
-> 
-> Sugar
-> Yes, please (please)
-> Won't you come and put it down on me (down on me)?
-> I'm right here (right here), 'cause I need ('cause I need)
-> Little love, a little sympathy
-> So, baby, (yeah) you show me good loving
-> Make it alright
-> Need a little sweetness in my life
-> Your sugar! (sugar!)
-> Yes, please (yes, please)
-> Won't you come and put it down on me? (Down on me)
-> 
-> Sugar
-> Yes, please
-> Won't you come and put it down on me? (Down on me!)
-> I'm right here, 'cause I need (I'm right here, 'cause I need)
-> Little love, a little sympathy
-> Yeah, you show me good loving
-> Make it alright
-> Need a little sweetness in my life
-> 
-> Your sugar! (sugar!)
-> Yes, please (yes, please)
-> Won't you come and put it down on me? (down on me, down on me)
->
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+4…6…2…1…
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

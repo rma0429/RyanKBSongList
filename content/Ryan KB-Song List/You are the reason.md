@@ -8,64 +8,34 @@ tags:
 org_artist: Calum Scott
 yt_link: https://music.youtube.com/watch?v=2Kiob5f9A1g&si=4WPNPcbCXEx9Yu4Z
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Calum Scott|Calum Scott]] (原 Key: Bb) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=2Kiob5f9A1g&si=4WPNPcbCXEx9Yu4Z)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Db)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (D)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: Steph [C#] , 竹 [D] 
-Style: [Piano]
-Singer: Steph, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> There goes my heart beating
-> Cause you are the reason
-> I'm losing my sleep
-> Please come back now
-> 
-> There goes my mind racing
-> And you are the reason
-> That I'm still breathing
-> I'm hopeless now
-> 
-> I'd climb every mountain
-> And swim every ocean
-> Just to be with you
-> And fix what I've broken
-> Oh, cause I need you to see
-> That you are the reason
-> 
-> There goes my hands shaking
-> And you are the reason
-> My heart keeps bleeding
-> I need you now
-> 
-> If I could turn back the clock
-> I'd make sure the light defeated the dark
-> I'd spend every hour, of every day
-> Keeping you safe
-> 
-> And I'd climb every mountain
-> And swim every ocean
-> Just to be with you
-> And fix what I've broken
-> Oh, cause I need you to see
-> That you are the reason
-> 
-> I don't wanna fight no more
-> I don't wanna hide no more
-> I don't wanna cry no more
-> Come back I need you to hold me
-> (You are the reason)
-> Come a little closer now
-> Just a little closer now
-> Come a little closer
-> I need you to hold me tonight
-> 
-> I'd climb every mountain
-> And swim every ocean
-> Just to be with you
-> And fix what I've broken
-> Cause I need you to see
-> That you are the reason
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[You are the reason.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

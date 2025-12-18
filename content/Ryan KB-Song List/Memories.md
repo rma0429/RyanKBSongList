@@ -6,78 +6,33 @@ tags:
 org_artist: Maroon 5
 yt_link: https://music.youtube.com/watch?v=lNilb-EaTOU&si=DFd31oh1wQUFTegI
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Maroon 5|Maroon 5]] (原 Key: B) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=lNilb-EaTOU&si=DFd31oh1wQUFTegI)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** 未設定
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: Carlos [C] 
-Style: [Piano]
-Singer: Carlos
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Here's to the ones that we got
-> Cheers to the wish you were here, but you're not
-> 'Cause the drinks bring back all the memories
-> Of everything we've been through
-> Toast to the ones here today
-> Toast to the ones that we lost on the way
-> 'Cause the drinks bring back all the memories
-> And the memories bring back, memories bring back you
-> 
-> There's a time that I remember, when I did not know no pain
-> When I believed in forever, and everything would stay the same
-> Now my heart feel like December when somebody say your name
-> 'Cause I can't reach out to call you, but I know I will one day, yeah
-> 
-> Everybody hurts sometimes
-> Everybody hurts someday, ayy-ayy
-> But everything gon' be alright
-> Go and raise a glass and say, ayy
-> 
-> Here's to the ones that we got
-> Cheers to the wish you were here, but you're not
-> 'Cause the drinks bring back all the memories
-> Of everything we've been through
-> Toast to the ones here today
-> Toast to the ones that we lost on the way
-> 'Cause the drinks bring back all the memories
-> And the memories bring back, memories bring back you
-> 
-> Doo-doo, doo-doo-doo-doo
-> Doo-doo-doo-doo, doo-doo-doo-doo
-> Doo-doo-doo-doo, doo-doo-doo
-> Memories bring back, memories bring back you
-> 
-> There's a time that I remember when I never felt so lost
-> When I felt all of the hatred was too powerful to stop (Ooh, yeah)
-> Now my heart feel like an ember and it's lighting up the dark
-> I'll carry these torches for ya that you know I'll never drop, yeah
-> 
-> Everybody hurts sometimes
-> Everybody hurts someday, ayy-ayy
-> But everything gon' be alright
-> Go and raise a glass and say, ayy
-> 
-> Here's to the ones that we got (Oh-oh)
-> Cheers to the wish you were here, but you're not
-> 'Cause the drinks bring back all the memories
-> Of everything we've been through (No, no)
-> Toast to the ones here today (Ayy)
-> Toast to the ones that we lost on the way
-> 'Cause the drinks bring back all the memories (Ayy)
-> And the memories bring back, memories bring back you
-> 
-> Doo-doo, doo-doo-doo-doo
-> Doo-doo-doo-doo, doo-doo-doo-doo
-> Doo-doo-doo-doo, doo-doo-doo
-> Memories bring back, memories bring back you
-> Doo-doo, doo-doo-doo-doo
-> Doo-doo-doo-doo, doo-doo-doo-doo
-> Doo-doo-doo-doo, doo-doo-doo (Ooh, yeah)
-> Memories bring back, memories bring back you
-> 
-> Yeah, yeah, yeah
-> Yeah, yeah, yeah, yeah, yeah, no, no
-> Memories bring back, memories bring back you
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Memories.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

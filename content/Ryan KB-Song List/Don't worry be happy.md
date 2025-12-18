@@ -23,7 +23,6 @@ yt_link: https://music.youtube.com/watch?v=qTuntvl6oLQ&si=U0hsis3TEwfGs00K
 
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
 ![[Don't worry be happy.png]]
-![[Don't worry be happy-1.png]]
 </div>
 
 <div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 

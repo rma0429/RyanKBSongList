@@ -8,56 +8,34 @@ tags:
 org_artist: Rod Stewart
 yt_link: https://music.youtube.com/watch?v=tN2XpeMnE5w&si=0sLKsBv875X3gzxv
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Rod Stewart|Rod Stewart]] (原 Key: Bb) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=tN2XpeMnE5w&si=0sLKsBv875X3gzxv)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Bb)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (Bb)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Gold MedBeat - 31 (BPM: 70)
 
-Singer/KEY: Steph [Bb] , 丰 [Bb] , Carlos [F] 
-Style: [0031 70]
-Singer: Carlos, Steph, 丰
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Have I told you lately that I love you
-> Have I told you there's no one else above you
-> You fill my heart with gladness
-> Take away all my sadness
-> Ease my troubles, that's what you do
-> 
-> For the morning sun and all it's glory
-> Greets the day with hope and comfort, too
-> You fill my heart with laughter
-> Somehow, you make it better
-> Ease my troubles, that's what you do
-> 
-> There's a love that's divine
-> And it's yours and it's mine
-> Like the sun
-> And at the end of the day
-> We should give thanks and pray
-> To the one, to the one
-> 
-> Have I told you lately that I love you
-> Have I told you there's no one else above you
-> You fill my heart with gladness
-> Take away all my sadness
-> Ease my troubles, that's what you do
-> 
-> There's a love that's divine
-> And it's yours and it's mine
-> Like the sun
-> And at the end of the day
-> We should give thanks and pray
-> To the one, to the one
-> 
-> Have I told you lately that I love you
-> Have I told you there's no one else above you
-> You fill my heart with gladness
-> Take away all my sadness
-> Ease my troubles, that's what you do
-> 
-> Take away my sadness, fill my life with gladness
-> Ease my troubles, that's what you do
-> Take away my sadness, fill my life with gladness
-> Ease my troubles, that's what you do
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Have I told you lately.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

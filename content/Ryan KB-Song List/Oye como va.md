@@ -6,12 +6,33 @@ tags:
 org_artist: Santana
 yt_link: https://music.youtube.com/watch?v=edDQFmK7HHg&si=rBKpeN8Njc-nyjwt
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Santana|Santana]] (原 Key: C) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=edDQFmK7HHg&si=rBKpeN8Njc-nyjwt)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** 未設定
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Gold Samba - 301 (BPM: 60)
 
-Singer/KEY: Carlos [Bb] 
-Style: [0301 60]
-Singer: Carlos
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Oye como va.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

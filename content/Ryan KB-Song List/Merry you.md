@@ -9,61 +9,35 @@ tags:
 org_artist: Bruno Mars
 yt_link: https://music.youtube.com/watch?v=dElRVQFqj-k&si=DF5GuTl1CpmP3uV9
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Bruno Mars|Bruno Mars]] (原 Key: F) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=dElRVQFqj-k&si=DF5GuTl1CpmP3uV9)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (F)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (F)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (Gb)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Eric Beat - 43 (BPM: 130)
 
-Singer/KEY: Steph [F] , 丰 [F] , 竹 [F#] 
-Style: [0043 130]
-Singer: Steph, 丰, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> It's a beautiful night, we're looking for something dumb to do
-> Hey baby, I think I wanna marry you
-> Is it the look in your eyes or is it this dancing juice?
-> Who cares, baby, I think I wanna marry you
-> 
-> Well, I know this little chapel on the boulevard we can go
-> No one will know, oh, come on girl
-> Who cares if we're trashed, got a pocket full of cash we can blow
-> Shots of patron and it's on, girl
-> 
-> Don't say no, no, no, no, no
-> Just say yeah, yeah, yeah, yeah, yeah
-> And we'll go, go, go, go, go
-> If you're ready, like I'm ready
-> 
-> 'Cause it's a beautiful night, we're looking for something dumb to do
-> Hey baby, I think I wanna marry you
-> Is it the look in your eyes or is it this dancing juice?
-> Who cares, baby, I think I wanna marry you, oh
-> 
-> I'll go get a ring, let the choir bells sing like, ooh
-> So what ya wanna do? Let's just run, girl
-> If we wake up and you wanna break up, that's cool
-> No, I won't blame you, it was fun, girl
-> 
-> Don't say no, no, no, no, no
-> Just say yeah, yeah, yeah, yeah, yeah
-> And we'll go, go, go, go, go
-> If you're ready, like I'm ready
-> 
-> 'Cause it's a beautiful night, we're looking for something dumb to do
-> Hey baby, I think I wanna marry you
-> Is it the look in your eyes or is it this dancing juice?
-> Who cares, baby, I think I wanna marry you
-> 
-> Just say I do
-> Tell me right now, baby
-> Tell me right now, baby, baby
-> 
-> Just say I do
-> Tell me right now, baby
-> Tell me right now, baby, baby, oh
-> 
-> It's a beautiful night, we're looking for something dumb to do
-> Hey baby, I think I wanna marry you
-> Is it the look in your eyes or is it this dancing juice?
-> Who cares, baby, I think I wanna marry you
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Merry you.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

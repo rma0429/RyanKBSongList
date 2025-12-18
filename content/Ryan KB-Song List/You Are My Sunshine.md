@@ -7,39 +7,34 @@ tags:
 org_artist: Jimmie Davis
 yt_link: https://music.youtube.com/watch?v=z1NfVi6SM3Q&si=b8gOs06Emrau3PpH
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Jimmie Davis|Jimmie Davis]] (原 Key: F) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=z1NfVi6SM3Q&si=b8gOs06Emrau3PpH)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** 未設定
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Country Fox - 255 (BPM: 130)
+> - 🥁 Sunshine Pop - 32 (BPM: 130)
 
-Singer/KEY: Carlos [D] 
-Style: [0255 130]
-Singer: Carlos
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> You are my sunshine
-> My only sunshine
-> You make me happy
-> When skies are gray
-> You'll never know, dear
-> How much I love you
-> Please don't take
-> My sunshine away
-> 
-> The other night, dear
-> As I lay sleeping
-> I dreamed I held you
-> In my arms
-> When I awoke, dear
-> I was mistaken
-> So I hung my head and cried
-> 
-> You are my sunshine
-> My only sunshine
-> You make me happy
-> When skies are gray
-> You'll never know, dear
-> How much I love you
-> Please don't take
-> My sunshine away
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[You Are My Sunshine.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

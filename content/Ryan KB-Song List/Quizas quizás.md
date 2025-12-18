@@ -6,32 +6,25 @@ tags:
 org_artist: Nat King Cole
 yt_link: https://music.youtube.com/watch?v=bZOnNIVZLY0&si=6alookY_u5zjPNdu
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Nat King Cole|Nat King Cole]] (原 Key: F) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=bZOnNIVZLY0&si=6alookY_u5zjPNdu)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** 未設定
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Bachata - 202 (BPM: 100)
 
-Singer/KEY: 湘 [Eb] , Carlos [Eb] 
-Style: [0202 100]
-Singer: Carlos, 湘
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Siempre que te preguntoQue cuándo, cómo y dóndeTu siempre me respondesQuizás, quizás, quizás
-> 
-> Y así pasan los díasY yo desesperandoY tu, tu contestandoQuizás, quizás, quizás
-> 
-> Estas perdiendo el tiempoPensando, pensandoPor lo que mas tu quierasHasta cuándo, hasta cuándo
-> 
-> Y así pasan los días (los días)Y yo desesperandoY tu, tu contestandoQuizás, quizás, quizás
-> 
-> Siempre que te pregunto (siempre que me preguntas)Que cuándo, cómo y dónde (que cuándo, cómo y dónde amor)Tu siempre me respondes (yo siempre te respondo)Quizás, quizás, quizás
-> 
-> Estas perdiendo el tiempoPensando, pensandoPor lo que mas tu quierasHasta cuándo, hasta cuándo
-> 
-> Estas perdiendo el tiempoPensando, pensandoPor lo que mas tu quierasHasta cuándo, hasta cuándo
-> 
-> Y así pasan los díasY yo desesperandoY tu, tu contestandoQuizás, quizás, quizásQuizás, quizás, quizásQuizás, quizás, quizás
-> 
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Quizas quizás-1.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
 
 6…2.3M.
 6…2.3M.
@@ -44,3 +37,6 @@ Singer: Carlos, 湘
 3M…3M…
 6M…6M…
 (0)
+</div>
+
+</div>

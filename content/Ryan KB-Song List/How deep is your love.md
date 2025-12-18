@@ -10,84 +10,36 @@ tags:
 org_artist: Bee Gees
 yt_link: https://music.youtube.com/watch?v=o51p5IRJ5Tc&si=1_U7SuJwXF94Jntg
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Bee Gees|Bee Gees]] (原 Key: Eb) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=o51p5IRJ5Tc&si=1_U7SuJwXF94Jntg)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Bb)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (C)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (B)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Sunshine Pop - 32 (BPM: 105)
+> - 🥁 Killing Beat - 30 (BPM: 93)
 
-Singer/KEY: Steph [Bb] , 竹 [C] , 湘 [C] , Carlos [E] , 丰 [B] 
-Style: [0032 105]
-[0030 93]
-Singer: Carlos, Steph, 湘, 竹
 
-- [1…17…4…4m…]
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
----
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[How deep is your love.png]]
+</div>
 
-> [Lyrics]
-> 
-> 
-> 
-> I know your eyes in the mornin' sun
-> I feel you touch me in the pourin' rain
-> And the moment that you wander far from me
-> I wanna feel you in my arms again
-> 
-> And you come to me on a summer breeze
-> Keep me warm in your love, then you softly leave
-> And it's me you need to show
-> How deep is your love?
-> 
-> How deep is your love? How deep is your love?
-> I really mean to learn
-> 'Cause we're livin' in a world of fools
-> Breakin' us down
-> When they all should let us be
-> We belong to you and me
-> 
-> I believe in you
-> You know the door to my very soul
-> You're the light in my deepest, darkest hour
-> You're my saviour when I fall
-> 
-> And you may not think I care for you
-> When you know down inside that I really do
-> And it's me you need to show
-> How deep is your love?
-> 
-> How deep is your love? How deep is your love?
-> I really mean to learn
-> 'Cause we're livin' in a world of fools
-> Breakin' us down
-> When they all should let us be
-> We belong to you and me
-> 
-> Na-na-na-na-na
-> Na-na-na-na, na-na-na-na-na
-> Na-na-na, na-na-na-na-na-na-na
-> Na-na-na, na-na-na-na
-> 
-> And you come to me on a summer breeze
-> Keep me warm in your love, then you softly leave
-> And it's me you need to show
-> How deep is your love?
-> 
-> How deep is your love? How deep is your love?
-> I really mean to learn (I really mean to learn)
-> 'Cause we're livin' in a world of fools
-> Breakin' us down
-> When they all should let us be
-> We belong to you and me
-> (Na-na-na-na-na)
-> 
-> How deep is your love? How deep is your love?
-> I really mean to learn
-> 'Cause we're livin' in a world of fools
-> Breakin' us down
-> When they all should let us be
-> We belong to you and me
-> (Na-na-na-na-na)
-> 
-> How deep is your love? How deep is your love?
-> I really mean to learn
-> 'Cause we're livin' in a world of fools
-> Breakin' us down
-> When they all should let us be
-> We belong to you and me
->
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

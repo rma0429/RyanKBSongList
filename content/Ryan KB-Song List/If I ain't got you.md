@@ -9,64 +9,35 @@ tags:
 org_artist: Alicia Keys
 yt_link: https://music.youtube.com/watch?v=-mAGQUsV6Nw&si=PTuk3uRyRKAiH8Hr
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Alicia Keys|Alicia Keys]] (原 Key: G) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=-mAGQUsV6Nw&si=PTuk3uRyRKAiH8Hr)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (F)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (G)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (G)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: Steph [F] , 丰 [G] , 竹 [G] 
-Style: [Piano]
-Singer: Steph, 丰, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Some people live for the fortune
-> Some people live just for the fame
-> Some people live for the power, yeah
-> Some people live just to play the game
-> 
-> Some people think that the physical things
-> Define what's within
-> And I've been there before but that life's a bore
-> So full of the superficial
-> 
-> Some people want it all
-> But I don't want nothing at all
-> If it ain't you, baby
-> If I ain't got you, baby
-> Some people want diamond rings
-> Some just want everything
-> But everything means nothing
-> If I ain't got you, yeah
-> 
-> Some people search for a fountain
-> That promises forever young (Ya know)
-> Some people need three dozen roses
-> And that's the only way to prove you love them
-> 
-> Hand me the world on a silver platter
-> And what good would it be?
-> With no one to share
-> With no one who truly cares for me
-> 
-> Some people want it all
-> But I don't want nothing at all
-> If it ain't you, baby
-> If I ain't got you, baby
-> Some people want diamond rings
-> Some just want everything
-> But everything means nothing
-> If I ain't got you, you, you
-> Some people want it all
-> But I don't want nothing at all
-> If it ain't you, baby
-> If I ain't got you, baby
-> Some people want diamond rings
-> Some just want everything
-> But everything means nothing
-> If I ain't got you, yeah
-> 
-> If I ain't got you with me, baby
-> Ooh, ooh
-> Said nothing in this whole wide world don't mean a thing
-> If I ain't got you with me, baby
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[If I ain't got you.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

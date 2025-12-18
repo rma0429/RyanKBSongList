@@ -9,57 +9,35 @@ tags:
 org_artist: Édith Piaf
 yt_link: https://music.youtube.com/watch?v=qPU8mENUBXk&si=zS30Fh_ebNEIftIe
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Édith Piaf|Édith Piaf]] (原 Key: Ab) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=qPU8mENUBXk&si=zS30Fh_ebNEIftIe)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Ab)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (F)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (G)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 MidniteSl5wg - 68 (BPM: 75)
 
-Singer/KEY: Steph [Ab] , 竹 [G] , 丰 [F] 
-Style: [0068 75]
-Singer: Steph, 丰, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Des yeux qui font baisser les miens
-> Un rire qui se perd sur sa bouche
-> Voilà le portrait sans retouches
-> De l'homme auquel j'appartiens
-> 
-> Quand il me prend dans ses bras
-> Qu'il me parle tout bas
-> Je vois la vie en rose
-> Il me dit des mots d'amour
-> Des mots de tous les jours
-> Mais moi, ça me fait quelque chose
-> Il est entré dans mon cœur
-> Une grande part de bonheur
-> Dont je connais la cause
-> C'est lui pour moi, moi pour lui dans la vie
-> Il me l'a dit, l'a juré pour la vie
-> Et dès que je l'aperçois
-> Alors je sens en moi
-> Mon cœur qui bat
-> 
-> Des nuits d'amour à plus finir
-> Un grand bonheur qui prend sa place
-> Des ennuis, des chagrins s'effacent
-> Heureux, heureux à en mourir
-> 
-> Quand il me prend dans ses bras
-> Qu'il me parle tout bas
-> Je vois la vie en rose
-> Il me dit des mots d'amour
-> Des mots de tous les jours
-> Et ça me fait quelque chose
-> Il est entré dans mon cœur
-> Une part de bonheur
-> Dont je connais la cause
-> C'est lui pour moi, moi pour lui dans la vie
-> Il me l'a dit, l'a juré pour la vie
-> Et dès que je l'aperçois
-> Alors je sens en moi
-> Mon cœur qui bat
-> 
-> Et dès que je l'aperçois
-> Alors je sens en moi
-> Mon cœur qui bat
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[La Vien Rose.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

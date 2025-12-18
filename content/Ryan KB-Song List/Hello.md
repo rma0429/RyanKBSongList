@@ -7,78 +7,33 @@ tags:
 org_artist: Adele
 yt_link: https://music.youtube.com/watch?v=Ei8UnOPJX7w&si=tC0SdVcELZaj2Q5m
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Adele|Adele]] (原 Key: Ab) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=Ei8UnOPJX7w&si=tC0SdVcELZaj2Q5m)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (F)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: Steph [F] 
-Style: [Piano]
-Singer: Steph
 
-- 6…1….5….4….
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
----
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Hello.png]]
+</div>
 
-> [Lyrics]
-> 
-> 
-> 
-> Hello, it's me
-> I was wondering if after all these years you'd like to meet
-> To go over everything
-> They say that time's supposed to heal ya
-> But I ain't done much healing
-> Hello, can you hear me?
-> I'm in California dreaming about who we used to be
-> When we were younger and free
-> I've forgotten how it felt
-> Before the world fell at our feet
-> 
-> There's such a difference between us
-> And a million miles
-> 
-> Hello from the other side
-> I must have called a thousand times
-> To tell you I'm sorry for everything that I've done
-> But when I call you never seem to be home
-> Hello from the outside
-> At least I can say that I've tried
-> To tell you I'm sorry for breaking your heart
-> But it don't matter, it clearly doesn't tear you apart
-> Anymore
-> 
-> Hello, how are you?
-> It's so typical of me to talk about myself, I'm sorry
-> I hope that you're well
-> Did you ever make it out of that town
-> Where nothing ever happened?
-> 
-> It's no secret that the both of us
-> Are running out of time
-> 
-> So hello from the other side (other side)
-> I must have called a thousand times (thousand times)
-> To tell you I'm sorry for everything that I've done
-> But when I call you never seem to be home
-> Hello from the outside (outside)
-> At least I can say that I've tried (I've tried)
-> To tell you I'm sorry for breaking your heart
-> But it don't matter, it clearly doesn't tear you apart
-> Anymore
-> 
-> (Highs, highs, highs, highs, lows, lows, lows, lows)
-> Anymore
-> (Highs, highs, highs, highs, lows, lows, lows, lows)
-> Anymore
-> (Highs, highs, highs, highs, lows, lows, lows, lows)
-> Anymore
-> (Highs, highs, highs, highs, lows, lows, lows, lows)
-> Anymore
-> 
-> Hello from the other side (other side)
-> I must have called a thousand times (thousand times)
-> To tell you I'm sorry for everything that I've done
-> But when I call you never seem to be home
-> Hello from the outside (outside)
-> At least I can say that I've tried (I've tried)
-> To tell you I'm sorry for breaking your heart
-> But it don't matter, it clearly doesn't tear you apart
-> Anymore
->
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+6…1….5….4….
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

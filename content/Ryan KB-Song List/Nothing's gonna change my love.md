@@ -10,78 +10,36 @@ tags:
 org_artist: George Benson
 yt_link: https://music.youtube.com/watch?v=f1De87ETXwo&si=YjW4rBH1L6Dp4oEk
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/George Benson|George Benson]] (原 Key: Db) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=f1De87ETXwo&si=YjW4rBH1L6Dp4oEk)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (F)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (Gb)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (Gb)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 RomanticBeat - 22 (BPM: 66)
+> - 🥁 Easy Ballad - 15 (BPM: 66)
 
-Singer/KEY: Steph [F] , 丰 [F#] , 湘 [F] , Carlos [C] , 竹 [F#] 
-Style: [0022 66]? 
-[0015 66]?
-Singer: Carlos, Steph, 丰, 湘, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> If I had to live my life without you near me
-> The days would all be empty
-> The nights would seem so long
-> With you I see forever, oh, so clearly
-> I might have been in love before
-> But it never felt this strong
-> 
-> Our dreams are young and we both know
-> They'll take us where we want to go
-> Hold me now, touch me now
-> I don't want to live without you
-> 
-> Nothing's gonna change my love for you
-> You oughta know by now how much I love you
-> One thing you can be sure of
-> I'll never ask for more than your love
-> Nothing's gonna change my love for you
-> You oughta know by now how much I love you
-> The world may change my whole life through
-> But nothing's gonna change my love for you
-> 
-> If the road ahead is not so easy
-> Our love will lead the way for us
-> Like a guiding star
-> I'll be there for you if you should need me
-> You don't have to change a thing
-> I love you just the way you are
-> 
-> So come with me and share the view
-> I'll help you see forever too
-> Hold me now, touch me now
-> I don't want to live without you
-> 
-> Nothing's gonna change my love for you
-> You oughta know by now how much I love you
-> One thing you can be sure of
-> I'll never ask for more than your love
-> Nothing's gonna change my love for you
-> You oughta know by now how much I love you
-> The world may change my whole life through
-> But nothing's gonna change my love for
-> 
-> Nothing's gonna change my love for you
-> You oughta know by now how much I love you
-> The world may change my whole life through
-> But nothing's gonna change my love for you
-> 
-> Nothing's gonna change my love for you
-> You oughta know by now how much I love you
-> One thing you can be sure of
-> I'll never ask for more than your love
-> Nothing's gonna change my love for you
-> You oughta know by now how much I love you
-> The world may change my whole life through
-> But nothing's gonna change my love for
-> 
-> Nothing's gonna change my love for you
-> You oughta know by now how much I love you
-> One thing you can be sure of
-> I'll never ask for more than your love
-> 
-> Nothing's gonna change my love for you
-> You oughta know by now how much I love you
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Nothing's gonna change my love.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

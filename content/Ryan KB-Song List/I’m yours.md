@@ -10,75 +10,36 @@ tags:
 org_artist: Jason Mraz
 yt_link: https://music.youtube.com/watch?v=A93OQy81TYs&si=sp6KD-IBfNk1-V5M
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Jason Mraz|Jason Mraz]] (原 Key: B) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=A93OQy81TYs&si=sp6KD-IBfNk1-V5M)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (C)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (D)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (E)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Lazy Reggae - 227 (BPM: 75)
+> - 🥁 That's Mambo - 201 (BPM: 75)
 
-Singer/KEY: Steph [C] , Carlos [G] , 丰 [D] , 湘 [D] , 竹 [E] 
-Style: Reggae[0227 75]
-Samba[0201 75]
 
-> [Lyrics]
-> 
-> 
-> Well, you done done me and you bet I felt it
-> I tried to be chill, but you're so hot that I melted
-> I fell right through the cracks
-> Now I'm trying to get back
-> 
-> Before the cool done run out
-> I'll be giving it my bestest
-> And nothing's gonna stop me but divine intervention
-> I reckon, it's again my turn
-> To win some or learn some
-> 
-> But I won't hesitate
-> No more, no more
-> It cannot wait
-> I'm yours
-> 
-> Well, open up your mind and see like me
-> Open up your plans and damn you're free
-> And look into your heart and you'll find love, love, love, love
-> Listen to the music of the moment, people dance and sing, we're just one big family
-> And it's our God-forsaken right to be loved, loved, loved, loved, loved
-> 
-> So I won't hesitate
-> No more, no more
-> It cannot wait
-> I'm sure
-> There's no need to complicate
-> Our time is short
-> This is our fate
-> I'm yours
-> 
-> But don't you want to come on and scooch on over closer, dear
-> And I will nibble your ear
-> 
-> I've been spending way too long checking my tongue in the mirror
-> And bending over backwards just to try to see it clearer
-> But my breath fogged up the glass
-> And so I drew a new face and I laughed
-> 
-> I guess what I'll be saying is there ain't no better reason
-> To rid yourself of vanities and just go with the seasons
-> It's what we aim to do
-> Our name is our virtue
-> 
-> But I won't hesitate
-> No more, no more
-> It cannot wait
-> I'm yours
-> 
-> Well, open up your mind and see like me
-> Open up your plans and damn you're free
-> Look into your heart and you'll find that the sky is yours
-> So please don't, please don't, please don't
-> There's no need to complicate
-> 'Cause our time is short
-> This oh, this oh, this is our fate
-> I'm yours
-> 
-> Oh, I'm yours
-> Oh, I'm yours
-> Oh, oh
-> Baby, do believe I'm yours?
-> You best believe, you best believe, I'm yours
->
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
+
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[I’m yours.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

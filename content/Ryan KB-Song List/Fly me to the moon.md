@@ -9,44 +9,35 @@ tags:
 org_artist: Frank Sinatra
 yt_link: https://music.youtube.com/watch?v=ZEcqHA7dbwM&si=gJIAmdKP-AX_uNGO
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Frank Sinatra|Frank Sinatra]] (原 Key: C) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=ZEcqHA7dbwM&si=gJIAmdKP-AX_uNGO)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (F)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (無)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (A)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Big Band Med - 74 (BPM: 125)
 
-Singer/KEY: 丰 [G] , 竹 [A] , Carlos [C] , Steph [F] 
-Style: [0074 125]
-Singer: Carlos, Steph, 丰, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> [in1-1]
-> Fly me to the moon
-> Let me play among the stars
-> Let me see what spring is like
-> On a-Jupiter and Mars
-> 
-> In other words: hold my hand
-> In other words: baby, kiss me
-> 
-> [2]
-> Fill my heart with song
-> And let me sing for ever more
-> You are all I long for
-> All I worship and adore
-> 
-> In other words: please, be true
-> In other words: I love you
-> 
-> [3]
-> SOLO
-> 
-> [4]
-> Fill my heart with song
-> Let me sing for ever more
-> You are all I long for
-> All I worship and adore
-> 
-> In other words: please, be true
-> In other words, in other words: I love you
-> [End][1]
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Fly me to the moon.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

@@ -7,48 +7,35 @@ tags:
 org_artist: Bob Marley
 yt_link: https://music.youtube.com/watch?v=MUNNRAdizz0&si=ey1p69xfa5t2ezuq
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Bob Marley|Bob Marley]] (原 Key: A) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=MUNNRAdizz0&si=ey1p69xfa5t2ezuq)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (A)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Reggae - 229 (BPM: 69)
 
-Singer/KEY: Carlos [B] , Steph [A] 
-Style: [0229 69]
-Singer: Carlos
 
-- .. 1 2 1 5 3 2 1 .. 1 2 1 5 3 2 1
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
+
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Three Little Birds.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+ .. 1 2 1 5 3 2 1 .. 1 2 1 5 3 2 1
 11                   11
 
----
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
 
-> [Lyrics]
-> 
-> 
-> 
-> "Don't worry about a thing
-> 'Cause every little thing is gonna be alright"
-> Singing, "Don't worry about a thing
-> 'Cause every little thing is gonna be alright!"
-> 
-> Rise up this morning, smiled with the rising sun
-> Three little birds pitch by my doorstep
-> Singing sweet songs of melodies pure and true
-> Saying, "This is my message to you-ou-ou"
-> 
-> Singing, "Don't worry about a thing
-> 'Cause every little thing is gonna be alright"
-> Singing, "Don't worry about a thing (Don't worry)
-> 'Cause every little thing is gonna be alright!"
-> 
-> Rise up this morning, smiled with the rising sun
-> Three little birds pitch by my doorstep
-> Singing sweet songs of melodies pure and true
-> Saying, "This is my message to you-ou-ou"
-> 
-> Singing, "Don't worry about a thing (Worry about a thing, oh)
-> 'Cause every little thing is gonna be alright (Don't worry)
-> Singing, "Don't worry about a thing (I won't worry)
-> 'Cause every little thing is gonna be alright!"
-> Singing, "Don't worry about a thing
-> 'Cause every little thing is gonna be alright (I won't worry)
-> Singing, "Don't worry about a thing
-> 'Cause every little thing is gonna be alright!"
-> Singing, "Don't worry about a thing (Don't worry about a thing)
-> 'Cause every little thing is gonna be alright
->
+</div>
+
+</div>

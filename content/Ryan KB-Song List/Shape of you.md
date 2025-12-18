@@ -9,109 +9,35 @@ tags:
 org_artist: Ed Sheeran
 yt_link: https://music.youtube.com/watch?v=xTvyyoF_LZY&si=Ei-L8IObYzUp9Nxu
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Ed Sheeran|Ed Sheeran]] (原 Key: E) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=xTvyyoF_LZY&si=Ei-L8IObYzUp9Nxu)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Eb)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (E)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (E)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 That's Mambo - 201 (BPM: 88)
 
-Singer/KEY: Steph [Eb] , 丰 [E] , Carlos [F] , 竹 [E] 
-Style: [0201 88]
-Singer: Carlos, Steph, 丰, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> The club isn't the best place to find a lover
-> So the bar is where I go
-> Me and my friends at the table doing shots
-> Drinking fast and then we talk slow
-> Come over and start up a conversation with just me
-> And trust me I'll give it a chance now
-> Take my hand, stop, put Van the Man on the jukebox
-> And then we start to dance, and now I'm singing like
-> 
-> Girl, you know I want your love
-> Your love was handmade for somebody like me
-> Come on now, follow my lead
-> I may be crazy, don't mind me
-> Say, boy, let's not talk too much
-> Grab on my waist and put that body on me
-> Come on now, follow my lead
-> Come, come on now, follow my lead
-> 
-> I'm in love with the shape of you
-> We push and pull like a magnet do
-> Although my heart is falling too
-> I'm in love with your body
-> And last night you were in my room
-> And now my bedsheets smell like you
-> Every day discovering something brand new
-> I'm in love with your body
-> (Oh-I-oh-I-oh-I-oh-I)
-> I'm in love with your body
-> (Oh-I-oh-I-oh-I-oh-I)
-> I'm in love with your body
-> (Oh-I-oh-I-oh-I-oh-I)
-> I'm in love with your body
-> Every day discovering something brand new
-> I'm in love with the shape of you
-> 
-> One week in we let the story begin
-> We're going out on our first date
-> You and me are thrifty, so go all you can eat
-> Fill up your bag and I fill up a plate
-> We talk for hours and hours about the sweet and the sour
-> And how your family is doing okay
-> And leave and get in a taxi, then kiss in the backseat
-> Tell the driver make the radio play, and I'm singing like
-> 
-> Girl, you know I want your love
-> Your love was handmade for somebody like me
-> Come on now, follow my lead
-> I may be crazy, don't mind me
-> Say, boy, let's not talk too much
-> Grab on my waist and put that body on me
-> Come on now, follow my lead
-> Come, come on now, follow my lead
-> 
-> I'm in love with the shape of you
-> We push and pull like a magnet do
-> Although my heart is falling too
-> I'm in love with your body
-> And last night you were in my room
-> And now my bedsheets smell like you
-> Every day discovering something brand new
-> I'm in love with your body
-> (Oh-I-oh-I-oh-I-oh-I)
-> I'm in love with your body
-> (Oh-I-oh-I-oh-I-oh-I)
-> I'm in love with your body
-> (Oh-I-oh-I-oh-I-oh-I)
-> I'm in love with your body
-> Every day discovering something brand new
-> I'm in love with the shape of you
-> 
-> Come on, be my baby, come on
-> Come on, be my baby, come on
-> Come on, be my baby, come on
-> Come on, be my baby, come on
-> Come on, be my baby, come on
-> Come on, be my baby, come on
-> Come on, be my baby, come on
-> Come on, be my baby, come on
-> 
-> I'm in love with the shape of you
-> We push and pull like a magnet do
-> Although my heart is falling too
-> I'm in love with your body
-> And last night you were in my room
-> And now my bedsheets smell like you
-> Every day discovering something brand new
-> I'm in love with your body
-> Come on, be my baby, come on
-> Come on (I'm in love with your body), be my baby, come on
-> Come on, be my baby, come on
-> Come on (I'm in love with your body), be my baby, come on
-> Come on, be my baby, come on
-> Come on (I'm in love with your body), be my baby, come on
-> Every day discovering something brand new
-> I'm in love with the shape of you
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Shape of you.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

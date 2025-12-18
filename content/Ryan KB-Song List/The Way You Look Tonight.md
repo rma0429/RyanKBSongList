@@ -8,43 +8,34 @@ tags:
 org_artist: Frank Sinatra
 yt_link: https://music.youtube.com/watch?v=YFham2Xu6nA&si=im4V-LMl4gJ-aj1i
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Frank Sinatra|Frank Sinatra]] (原 Key: Eb) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=YFham2Xu6nA&si=im4V-LMl4gJ-aj1i)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Bb)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (B)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Jazz Bossa - 109 (BPM: 110)
 
-Singer/KEY: Steph [Bb] , 竹 [B] 
-Style: [0109 110]
-Singer: Steph, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Some day, when I'm awfully low
-> When the world is cold
-> I will feel a glow just thinking of you
-> And the way you look tonight
-> 
-> Yes, you're lovely, with your smile so warm
-> And your cheeks so soft
-> There is nothing for me but to love you
-> And the way you look tonight
-> 
-> With each word your tenderness grows
-> Tearin' my fear apart
-> And that laugh wrinkles your nose
-> Touches my foolish heart
-> Lovely, never never change
-> Keep that breathless charm
-> Won't you please arrange it? 'Cause I love you
-> Just the way you look tonight
-> 
-> [Musical interlude]
-> 
-> Lovely, don't you ever change
-> Keep that breathless charm
-> Won't you please arrange it? 'Cause I love you
-> Ah-just the way you look tonight
-> 
-> Mm-mm, mm-mm
-> Just the way you look tonight
-> 
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[The Way You Look Tonight.png]]
+</div>
 
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

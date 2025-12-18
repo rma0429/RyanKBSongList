@@ -8,86 +8,34 @@ tags:
 org_artist: Ed Sheeran
 yt_link: https://music.youtube.com/watch?v=SlbfAYvA_gI&si=JLrTD0iNWhIEsCL4
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Ed Sheeran|Ed Sheeran]] (原 Key: E) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=SlbfAYvA_gI&si=JLrTD0iNWhIEsCL4)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (E)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (E)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: Steph [E] , Carlos [E] , 竹 [E] 
-Style: [Piano]
-Singer: Carlos, Steph, 竹
 
-- 1 1 7 1 5 4 3 1 1 7 1 5 4 3
-.                     .
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
----
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Photograph.png]]
+</div>
 
-> [Lyrics]
-> 
-> 
-> 
-> Loving can hurt
-> Loving can hurt sometimes
-> But it's the only thing that I know
-> When it gets hard
-> You know it can get hard sometimes
-> It is the only thing that makes us feel alive
-> 
-> We keep this love in a photograph
-> We made these memories for ourselves
-> Where our eyes are never closing
-> Hearts are never broken
-> Times forever frozen still
-> 
-> So you can keep me
-> Inside the pocket
-> Of your ripped jeans
-> Holding me closer
-> 'Til our eyes meet
-> You won't ever be alone
-> Wait for me to come home
-> 
-> Loving can heal
-> Loving can mend your soul
-> And it's the only thing that I know (know)
-> I swear it will get easier
-> Remember that with every piece of ya
-> And it's the only thing we take with us when we die
-> 
-> We keep this love in a photograph
-> We made these memories for ourselves
-> Where our eyes are never closing
-> Hearts were never broken
-> Times forever frozen still
-> 
-> So you can keep me
-> Inside the pocket
-> Of your ripped jeans
-> Holding me closer
-> 'Til our eyes meet
-> You won't ever be alone
-> 
-> And if you hurt me
-> That's OK, baby, only words bleed
-> Inside these pages you just hold me
-> And I won't ever let you go
-> 
-> Wait for me to come home
-> Wait for me to come home
-> Wait for me to come home
-> Wait for me to come home
-> 
-> Oh you can fit me
-> Inside the necklace you got when you were sixteen
-> Next to your heartbeat
-> Where I should be
-> Keep it deep within your soul
-> 
-> And if you hurt me
-> Well, that's OK, baby, only words bleed
-> Inside these pages you just hold me
-> And I won't ever let you go
-> 
-> When I'm away
-> I will remember how you kissed me
-> Under the lamppost
-> Back on 6th street
-> Hearing you whisper through the phone
-> "Wait for me to come home"
->
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+1 1 7 1 5 4 3 1 1 7 1 5 4 3
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

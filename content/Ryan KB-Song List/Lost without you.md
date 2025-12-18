@@ -7,91 +7,33 @@ tags:
 org_artist: Robin Thicke
 yt_link: https://music.youtube.com/watch?v=JvZiZEcsOJY&si=qji4v41kXZYIMI9H
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Robin Thicke|Robin Thicke]] (原 Key: C) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=JvZiZEcsOJY&si=qji4v41kXZYIMI9H)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 CoolMerengue - 205 (BPM: 80)
 
-Singer/KEY: Steph [C] 
-Style: Slow Salsa [0205 80]
-Singer: Steph
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> I'm lost without you
-> Can't help myself
-> How does it feel
-> To know that I love you, baby?
-> I'm lost without you
-> Can't help myself
-> How does it feel
-> To know that I love you, baby?
-> 
-> Tell me how you love me more
-> And how you think I'm sexy, babe
-> That you don't want nobody else
-> You don't want this guy, you don't want that guy
-> You wanna touch yourself when you see me
-> Tell me how you love my body
-> And how I make you feel, babe
-> You wanna roll with me, you want a home with me
-> You wanna stay warm and get out of the cold with me
-> I just love to hear you say it
-> It makes a man feel good, baby
-> Tell me you depend on me
-> I need to hear it
-> 
-> I'm lost without you
-> Can't help myself
-> How does it feel
-> To know that I love you, baby?
-> I'm lost without you
-> Can't help myself
-> How does it feel
-> To know that I love you, baby? (Uh)
-> 
-> Baby, you're the perfect shape
-> Baby, you're the perfect weight
-> Treat me like my birthday
-> I want it this way, I want it that way, I want it
-> Tell me you don't want me to stop (don't stop)
-> Tell me it would break your heart
-> That you love me and all my dirty
-> You wanna roll with me, you want a home with me
-> You wanna make fires and get Norwegian wood with me (uh)
-> I just love to hear you say it
-> It makes a man feel good, baby
-> 
-> I'm lost without you
-> Can't help myself
-> How does it feel
-> To know that I love you, baby?
-> I'm lost without you
-> Can't help myself
-> How does it feel
-> To know that I love you, baby?
-> 
-> 'Cause you may tell me every morning
-> Ooh, alright, babe
-> Oh, yeah
-> Oh, baby
-> Oh, darling
-> Alright-right
-> 
-> I'm lost without you
-> Can't help myself
-> How does it feel
-> To know that I love you, baby?
-> I'm lost without you
-> Can't help myself
-> How does it feel
-> To know that I love you, baby?
-> Ooh, yeah
-> Oh, baby
-> Oh, darling
-> Alright-right, baby
-> Oh, baby
-> Oh, darling
-> Ooh, ooh-ooh, baby
-> Alright-right
-> Yeah
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Lost without you.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

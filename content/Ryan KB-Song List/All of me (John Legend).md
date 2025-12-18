@@ -28,7 +28,7 @@ yt_link: https://music.youtube.com/watch?v=sQtnhwU2R9Y&si=z1dbQQeVbrKKjTys
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0;">
 
 📄 Lyric
-![[All of me (John Legend)-1.png]]
+![[All of me (John Legend).png]]
 
 </div>
 

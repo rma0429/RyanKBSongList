@@ -9,67 +9,35 @@ tags:
 org_artist: Ellie Goulding
 yt_link: https://music.youtube.com/watch?v=k3smYB3Nfqc&si=ghHywz6bedk2wXR-
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Ellie Goulding|Ellie Goulding]] (原 Key: Ab) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=k3smYB3Nfqc&si=ghHywz6bedk2wXR-)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Ab)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (Ab)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (Ab)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Pop EDM - 142 (BPM: 95)
 
-Singer/KEY: Steph [Ab] , 丰 [Ab] , 竹 [Ab] 
-Style: [0142 95]
-Singer: Steph, 丰, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> [1]
-> … You're the light, you're the night
-> You're the colour of my blood
-> You're the cure, you're the pain
-> You're the only thing I wanna touch
-> Never knew that it could mean so much, so much
-> [2]
-> … You're the fear, I don't care
-> 'Cause I've never been so high
-> Follow me through the dark
-> Let me take you past our satellites
-> You can see the world you brought to life, to life
-> [3]
-> … So love me like you do, la-la-love me like you do
-> Love me like you do, la-la-love me like you do
-> Touch me like you do, ta-ta-touch me like you do
-> What are you waiting for?
-> [2]
-> … Fading in, fading out
-> On the edge of paradise
-> Every inch of your skin is a Holy Grail I've got to find
-> Only you can set my heart on fire, on fire
-> [2]
-> … Yeah, I'll let you set the pace
-> 'Cause I'm not thinking straight
-> My head's spinning around, I can't see clear no more
-> What are you waiting for?
-> 
-> [4]
-> … Love me like you do, la-la-love me like you do (like you do)
-> Love me like you do, la-la-love me like you do
-> Touch me like you do, ta-ta-touch me like you do
-> What are you waiting for?
-> Love me like you do, la-la-love me like you do (like you do)
-> Love me like you do, la-la-love me like you do (ye-yeah)
-> Touch me like you do, ta-ta-touch me like you do
-> What are you waiting for?
-> 
-> [1]
-> … I'll let you set the pace
-> 'Cause I'm not thinking straight
-> My head's spinning around, I can't see clear no more
-> What are you waiting for?
-> 
-> [4]
-> … Love me like you do, la-la-love me like you do (like you do)
-> Love me like you do, la-la-love me like you do (ye-yeah)
-> Touch me like you do, ta-ta-touch me like you do
-> What are you waiting for?
-> Love me like you do, la-la-love me like you do (like you do)
-> Love me like you do, la-la-love me like you do (whoa)
-> Touch me like you do, ta-ta-touch me like you do (ah)
-> What are you waiting for?
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Love Me Like You Do.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

@@ -7,77 +7,33 @@ tags:
 org_artist: NE-YO
 yt_link: https://music.youtube.com/watch?v=CR4VBJWtVck&si=qCQoLQnP4g23j2nr
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/NE-YO|NE-YO]] (原 Key: Gb) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=CR4VBJWtVck&si=qCQoLQnP4g23j2nr)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: 丰[C] 
-Style: [Piano]
-Singer: 丰
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Mm, mm, yeah
-> Do, do, do, do, do, do, do-do
-> Ooh, yeah
-> 
-> Gotta change my answering machine
-> Now that I'm alone
-> 'Cause right now it says that we
-> Can't come to the phone
-> And I know it makes no sense
-> 'Cause you walked out the door
-> But it's the only way I hear your voice anymore
-> 
-> (It's ridiculous)
-> It's been months
-> And for some reason I just (Can't get over us)
-> And I'm stronger than this, yeah (Enough is enough)
-> No more walking 'round with my head down (Yeah)
-> I'm so over being blue
-> Cryin' over you
-> 
-> And I'm so sick of love songs, so tired of tears
-> So done with wishin' you were still here
-> Said I'm so sick of love songs, so sad and slow
-> So why can't I turn off the radio?
-> 
-> Gotta fix that calendar I have
-> That's marked July 15th
-> Because since there's no more you
-> There's no more anniversary
-> I'm so fed up with my thoughts of you
-> And your memory
-> And how every song reminds me of what used to be
-> That's the reason
-> 
-> I'm so sick of love songs, so tired of tears
-> So done with wishin' you were still here
-> Said I'm so sick of love songs, so sad and slow
-> So why can't I turn off the radio?
-> 
-> (Oh, leave me alone) Leave me alone
-> (Stupid love songs) Oh-oh, hey
-> Don't make me think about her smile
-> Or having my first child
-> I'm letting go
-> Turning off the radio
-> 
-> 'Cause I'm so sick of love songs (Hey), so tired of tears (So tired of tears)
-> So done with wishin' she were still here (Oh)
-> Said I'm so sick of love songs, so sad and slow (Ooh, oh)
-> So why can't I turn off the radio? (Why can't I turn off the radio?)
-> And I'm so sick of love songs, so tired of tears (So tired of tears)
-> So done with wishing she were still here
-> Said I'm so sick of love songs, so sad and slow (Hey)
-> Why can't I turn off the radio? (Why can't I turn off the radio?)
-> And I'm so sick of love songs (So sick of love songs)
-> So tired of tears (And I'm so sick, so sick of love song)
-> So done with wishing you were still here
-> (And I'm so sick, so sick of love songs)
-> Said I'm so sick of love songs, so sad and slow (Hey)
-> So why can't I turn off the radio?
-> 
-> Why can't I turn off the radio?
-> Why can't I turn off the radio?
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[So sick.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

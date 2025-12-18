@@ -1,5 +1,5 @@
 ---
-title: Just the way you are -
+title: Just the way you are - Bruno Mars
 tags:
   - Singer/StephanieH/F
   - Singer/小丰/Gb
@@ -7,7 +7,8 @@ tags:
   - Style/157/110
   - Style/109/110
   - 原Key/F
-org_artist: Bruno Mars
+org_artist:
+  - Bruno Mars
 yt_link: https://music.youtube.com/watch?v=E-UJTGXof6Q&si=28GuxEqt1pcOy5xH
 ---
 > [!info] 
@@ -23,76 +24,21 @@ yt_link: https://music.youtube.com/watch?v=E-UJTGXof6Q&si=28GuxEqt1pcOy5xH
 > 
 > - 🥁 Slow Disco - 157 (BPM: 110)
 > - 🥁 Jazz Bossa - 109 (BPM: 110)
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Just the way you are.png]]
+</div>
 
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
 
-Singer/KEY: Steph [F] , 丰 [F#] , 湘 [F] , 竹 [G] 
-Style: Stand[0157 110]
-Bossa[0109 110]
-Singer: Steph, 丰, 湘, 竹
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
 
----
+</div>
 
-> [Lyrics]
-> 
-> 
-> 
-> Oh, her eyes, her eyes
-> Make the stars look like they're not shinin'
-> Her hair, her hair
-> Falls perfectly without her tryin'
-> She's so beautiful and I tell her everyday
-> 
-> Yeah, I know, I know
-> When I compliment her, she won't believe me
-> And it's so, it's so
-> Sad to think that she don't see what I see
-> But every time she asks me, "Do I look okay?"
-> I say
-> 
-> When I see your face
-> There's not a thing that I would change
-> 'Cause you're amazing
-> Just the way you are
-> And when you smile
-> The whole world stops and stares for a while
-> 'Cause girl, you're amazing
-> Just the way you are
-> 
-> Yeah
-> Her lips, her lips
-> I could kiss them all day if she'd let me
-> Her laugh, her laugh
-> She hates, but I think it's so sexy
-> She's so beautiful and I tell her everyday
-> 
-> Oh, you know, you know
-> You know I'd never ask you to change
-> If perfect's what you're searchin' for, then just stay the same
-> So don't even bother askin' if you look okay
-> You know I'll say
-> 
-> When I see your face
-> There's not a thing that I would change
-> 'Cause you're amazing
-> Just the way you are
-> And when you smile
-> The whole world stops and stares for a while
-> 'Cause girl, you're amazing
-> Just the way you are
-> 
-> The way you are
-> The way you are
-> Girl, you're amazing
-> Just the way you are
-> 
-> When I see your face
-> There's not a thing that I would change
-> 'Cause you're amazing
-> Just the way you are
-> And when you smile
-> The whole world stops and stares for a while
-> 'Cause girl, you're amazing
-> Just the way you are
-> Yeah
->
+</div>

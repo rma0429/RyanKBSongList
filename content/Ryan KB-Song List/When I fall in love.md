@@ -7,30 +7,33 @@ tags:
 org_artist: Nat King Cole
 yt_link: https://music.youtube.com/watch?v=QhRaMwEmlCw&si=qIfSNnpHt8WnyLBl
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Nat King Cole|Nat King Cole]] (原 Key: Db) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=QhRaMwEmlCw&si=qIfSNnpHt8WnyLBl)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: 丰[C] 
-Style: [Piano]
-Singer: 丰
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> When I fall in love it will be forever
-> Or I'll never fall in love
-> In a restless world like this is
-> Love is ended before it's begun
-> And too many moonlight kisses
-> Seem to cool in the warmth of the sun
-> 
-> When I give my heart it will be completely
-> Or I'll never give my heart
-> And the moment I can feel that you feel that way too
-> Is when I fall in love with you.
-> 
-> [Instrumental]
-> 
-> And the moment I can feel that you feel that way too
-> Is when I'll fall in love with you
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[When I fall in love.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

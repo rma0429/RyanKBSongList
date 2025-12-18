@@ -7,72 +7,33 @@ tags:
 org_artist: Bob Marley
 yt_link: https://music.youtube.com/watch?v=co2FK0WbXX0&si=JL3qY-1PUgdbCMNr
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Bob Marley|Bob Marley]] (原 Key: A) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=co2FK0WbXX0&si=JL3qY-1PUgdbCMNr)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Love Reggae - 228 (BPM: 120)
 
-Singer/KEY: Steph [C] 
-Style: Reggae[0228 120]
-Singer: Steph
 
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
+
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Is this love.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
 6356.16356
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
 
----
+</div>
 
-> [Lyrics]
-> 
-> 
-> 
-> I wanna love you
-> And treat you right
-> I wanna love you
-> Every day and every night
-> We'll be together
-> With a roof right over our heads
-> We'll share the shelter
-> Of my single bed
-> We'll share the same room, yeah
-> For Jah provide the bread
-> 
-> Is this love? Is this love? Is this love?
-> Is this love that I'm feeling?
-> Is this love? Is this love? Is this love?
-> Is this love that I'm feeling?
-> I wanna know, wanna know, wanna know now
-> I got to know, got to know, got to know now
-> I-I-I-I-I-I-I-I-I, I'm willing and able
-> So I throw my cards on your table
-> 
-> I wanna love you, I wanna love and treat
-> Love and treat you right
-> I wanna love you
-> Every day and every night
-> We'll be together, yeah
-> With a roof right over our heads
-> We'll share the shelter, yeah, oh-yeah
-> Of my single bed
-> We'll share the same room, yeah
-> For Jah provides the bread
-> 
-> Is this love? Is this love? Is this love?
-> Is this love that I'm feeling?
-> Is this love? Is this love? Is this love?
-> Is this love that I'm feeling?
-> Wo-o-o-oah
-> Oh, yes, I know; yes, I know, yes, I know now
-> Oh, yes, I know; yes, I know, yes, I know now
-> I-I-I-I-I-I-I-I-I, I'm willing and able
-> So I throw my cards on your table
-> 
-> See, I wanna love you, I wanna love and treat you
-> Love and treat you right
-> I wanna love you
-> Every day and every night
-> We'll be together
-> With a roof right over our heads
-> We'll share the shelter
-> Of my single bed
-> We'll share the same room, yeah
-> Jah provides the bread
-> 
-> We'll share the shelter
-> Of my single bed
-> We'll share the same room
->
+</div>

@@ -8,80 +8,34 @@ tags:
 org_artist: The Carpenters
 yt_link: https://music.youtube.com/watch?v=wawbhXQX2TQ&si=f1-KgrplYYEsM0Jm
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/The Carpenters|The Carpenters]] (原 Key: E) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=wawbhXQX2TQ&si=f1-KgrplYYEsM0Jm)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (G)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (G)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Acoustic Bld - 50 (BPM: 85)
 
-Singer/KEY: 湘 [F#] , 丰 [G] , 竹 [G] 
-Style: [0050 85]
-Singer: 丰, 湘, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> 
-> When I was young
-> I'd listen to the radio
-> Waitin' for my favorite songs
-> Waiting they played I'd sing along
-> It made me smile
-> 
-> Those were such happy times
-> And not so long ago
-> How I wondered where they'd gone
-> But they're back again
-> Just like a long lost friend
-> All the songs I loved so well
-> 
-> every sha-la-la-la
-> Every wo-wo-wo
-> Still shines
-> Every shing-a-ling-a-ling
-> That they're starting to sing's
-> So fine
-> 
-> When they get to the part
-> Where he's breakin' her heart
-> It can really make me cry
-> Just like before
-> It's yesterday once more
-> 
-> Shu be du why why
-> Shu be du why why
-> 
-> Lookin' back on how it was
-> In years gone by
-> zAnd the good times that I had
-> Makes today seem rather sad
-> So much has changed
-> 
-> It was songs of love that
-> I would sing to then
-> And I'd memorize each word
-> Those old melodies
-> Still sound so good to me
-> As they melt the years away
-> 
-> Every sha-la-la-la
-> Every wo-wo-wo
-> Still shines
-> Every shing-a-ling-a-ling
-> That they're starting to sing's
-> So fine
-> 
-> All my best memories
-> Come back clearly to me
-> Some can even make me cry
-> Just like before
-> It's yesterday once more
-> 
-> Shu be du why why
-> 
-> RePT.
-> 
-> Every sha-la-la-la
-> Every wo-wo-wo
-> Still shines
-> Every shing-a-ling-a-ling
-> That they're starting to sing's
-> So fine
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Yesterday once more.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

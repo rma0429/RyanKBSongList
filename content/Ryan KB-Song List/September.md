@@ -4,75 +4,37 @@ tags:
   - Singer/虹竹/E
   - Style/89/128
   - 原Key/A
-org_artist: Earth, Wind & Fire
+org_artist:
+  - Earth, Wind & Fire
 yt_link: https://music.youtube.com/watch?v=B2mmDEv0OEk&si=2fMd8rKzbzzDwpwy
 ---
+> [!info] 
+> -  原唱： [[Earth, Wind & Fire]] (原 Key: A) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=B2mmDEv0OEk&si=2fMd8rKzbzzDwpwy)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (E)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Smooth Funk - 89 (BPM: 128)
 
-Singer/KEY: Carlos [G] , 竹 [E] 
-Style: [0089 128]
-Singer: Carlos, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> 
-> Do you remember
-> The 21st night of September?
-> Love was changin' the minds of pretenders
-> While chasin' the clouds away
-> 
-> Our hearts were ringin'
-> In the key that our souls were singin'
-> As we danced in the night, remember
-> How the stars stole the night away, oh, yeah
-> 
-> Hey, hey, hey
-> Ba-dee-ya, say, do you remember?
-> Ba-dee-ya, dancin' in September
-> Ba-dee-ya, never was a cloudy day
-> 
-> Ba-du-da, ba-du-da, ba-du-da, ba-du
-> Ba-du-da, ba-du, ba-du-da, ba-du
-> Ba-du-da, ba-du, ba-du-da
-> 
-> My thoughts are with you
-> Holdin' hands with your heart to see you
-> Only blue talk and love, remember
-> How we knew love was here to stay
-> 
-> Now December
-> Found the love that we shared in September
-> Only blue talk and love, remember
-> The true love we share today
-> 
-> Hey, hey, hey
-> Ba-dee-ya, say, do you remember?
-> Ba-dee-ya, dancin' in September
-> Ba-dee-ya, never was a cloudy day
-> There was a
-> Ba-dee-ya (dee-ya, dee-ya), say, do you remember?
-> Ba-dee-ya (dee-ya, dee-ya), dancin' in September
-> Ba-dee-ya (dee-ya, dee-ya), golden dreams were shiny days
-> 
-> The bell was ringin', oh, oh
-> Our souls were singin'
-> Do you remember never a cloudy day? Yow
-> 
-> There was a
-> Ba-dee-ya (dee-ya, dee-ya), say, do you remember?
-> Ba-dee-ya (dee-ya, dee-ya), dancin' in September
-> Ba-dee-ya (dee-ya, dee-ya), never was a cloudy day
-> And we'll say
-> Ba-dee-ya (dee-ya, dee-ya), say, do you remember?
-> Ba-dee-ya (dee-ya, dee-ya), dancin' in September
-> Ba-dee-ya (dee ya, dee-ya), golden dreams were shiny days
-> 
-> Ba-dee-ya, dee-ya, dee-ya
-> Ba-dee-ya, dee-ya, dee-ya
-> Ba-dee-ya, dee-ya, dee-ya, dee-ya!
-> Ba-dee-ya, dee-ya, dee-ya
-> Ba-dee-ya, dee-ya, dee-ya
-> Ba-dee-ya, dee-ya, dee-ya, dee-ya!
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[September.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

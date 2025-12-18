@@ -8,74 +8,34 @@ tags:
 org_artist: Michael Jackson
 yt_link: https://music.youtube.com/watch?v=FkxEE7wZ83c&si=bAktUE1ktsendbuL
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Michael Jackson|Michael Jackson]] (原 Key: F) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=FkxEE7wZ83c&si=bAktUE1ktsendbuL)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (F)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (G)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Ladies Dance - 159 (BPM: 118)
 
-Singer/KEY: Steph [F] , 湘 [G] , Carlos [C] , 丰 [G] 
-Style: [0159 118]
-Singer: Carlos, Steph, 丰, 湘
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> [1]x4
-> [in 1]
-> Baby, love never felt so good
-> And I'd doubt if it ever could
-> Not like you hold me, hold me
-> Oh baby, love never felt so fine
-> And I'd doubt if it's never mine
-> Not like you hold me, hold me
-> 
-> And the night is gonna be just fine
-> Gotta fly, gotta see
-> I can't wait, I can't take it
-> 
-> 'Cause baby, every time I love you
-> In and out of my life, in and out baby
-> Tell me, if you really love me
-> It's in and out of my life, in and out baby
-> So baby, yes, love never felt so good
-> 
-> Baby (mm-mm), love never felt so fine (so fine)
-> And I'd doubt if it's ever mine
-> Not like you hold me, hold me
-> Oh baby, love never felt so good
-> And I'd doubt if it ever could
-> Not like you hold me, hold me
-> 
-> And the night is gonna be just fine
-> Gotta fly, gotta see, can't believe
-> I can't take it
-> 
-> 'Cause baby, every time I love you
-> It's in and out of my life, in and out baby
-> Tell me, if you really love me
-> It's in and out of my life, driving me crazy
-> Baby, love never felt so good
-> 
-> Baby, love never felt so fine
-> And I'd doubt if it was mine, all mine
-> Not like you hold me, hold me
-> Oh baby, love never felt so good, so good
-> And I'd doubt if it ever could
-> Not like you hold me, hold me
-> 
-> And the night is gonna be just fine
-> Gotta fly, gotta see
-> Can't believe
-> I can't take it
-> 
-> 'Cause baby, every time I love you
-> It's in and out of my life, in and out, baby
-> Tell me if you really love me
-> It's in and out of my life, driving me crazy
-> 'Cause baby, love never felt so good (so good)
-> 
-> Oh, it never felt so good
-> Never felt so good
-> Don't you know, it never felt so good
-> Never felt so good (yeah, yeah)
-> Alright, that's fine
-> That's it
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Love Never Felt So Good.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

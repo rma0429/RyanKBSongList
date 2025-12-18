@@ -7,68 +7,33 @@ tags:
 org_artist: Wham!
 yt_link: https://music.youtube.com/watch?v=GJvGf_ifiKw&si=5fSmXxxOQR7TvRGm
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Wham!|Wham!]] (原 Key: D) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=GJvGf_ifiKw&si=5fSmXxxOQR7TvRGm)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (Eb)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 UK Rock'N - 93 (BPM: 108)
 
-Singer/KEY: 丰 [Eb] 
-Style: [0093 108]
-Singer: 丰
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> Last Christmas, I gave you my heart
-> But the very next day you gave it away
-> This year, to save me from tears
-> I'll give it to someone special
-> Last Christmas, I gave you my heart
-> But the very next day you gave it away (You gave it away)
-> This year, to save me from tears
-> I'll give it to someone special (Special)
-> 
-> Once bitten and twice shy
-> I keep my distance, but you still catch my eye
-> Tell me, baby, do you recognize me?
-> Well, it's been a year, it doesn't surprise me
-> 
-> (Happy Christmas) I wrapped it up and sent it
-> With a note saying, "I love you", I meant it
-> Now I know what a fool I've been
-> But if you kissed me now, I know you'd fool me again
-> 
-> Last Christmas, I gave you my heart
-> But the very next day you gave it away (You gave it away)
-> This year, to save me from tears
-> I'll give it to someone special (Special)
-> Last Christmas, I gave you my heart
-> But the very next day you gave it away
-> This year, to save me from tears
-> I'll give it to someone special (Special, oh)
-> Oh, oh, baby
-> 
-> A crowded room, friends with tired eyes
-> I'm hiding from you and your soul of ice
-> My God, I thought you were someone to rely on
-> Me? I guess I was a shoulder to cry on
-> 
-> A face on a lover with a fire in his heart
-> A man under cover but you tore me apart
-> Ooh-hoo
-> Now I've found a real love, you'll never fool me again
-> 
-> Last Christmas, I gave you my heart
-> But the very next day you gave it away (You gave it away)
-> This year, to save me from tears
-> I'll give it to someone special (Special)
-> Last Christmas, I gave you my heart (I gave you my heart)
-> But the very next day you gave it away (You gave me away)
-> This year, to save me from tears (Ohh)
-> I'll give it to someone special (Special)
-> 
-> A face on a lover with a fire in his heart (I gave you my heart)
-> A man under cover but you tore him apart
-> Maybe next year
-> I'll give it to someone, I'll give it to someone special
-> Special
-> Someone
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Last Christmas.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

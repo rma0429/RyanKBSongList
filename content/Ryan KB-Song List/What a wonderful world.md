@@ -10,52 +10,36 @@ tags:
 org_artist: Louis Armstrong
 yt_link: https://music.youtube.com/watch?v=fnyMzZiKfkY&si=QXuUFituhliSC9_f
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Louis Armstrong|Louis Armstrong]] (原 Key: F) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=fnyMzZiKfkY&si=QXuUFituhliSC9_f)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (C)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
+> - 🥁 RomanticBeat - 22 (BPM: 60)
+> - 🥁 Jazz Bossa - 109 (BPM: 110)
 
-Singer/KEY: Steph [C] , Carlos [F] , 湘 [C] , 丰[C] 
-Style: [Piano]
-Stand[0022 60]
-Bossa[0109 110]
-Singer: Carlos, Steph, 丰, 湘
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> [in 1-1]
-> I see trees of green
-> Red roses too
-> I see them bloom
-> For me and you
-> And I think to myself
-> What a wonderful world
-> 
-> [1]
-> I see skies of blue
-> And clouds of white
-> The bright blessed day
-> The dark sacred night
-> And I think to myself
-> What a wonderful world
-> 
-> The colors of the rainbow
-> So pretty in the sky
-> Are also on the faces
-> Of people going by
-> I see friends shaking hands
-> Saying, "How do you do?"
-> They're really saying
-> "I love you"
-> 
-> I hear babies cry
-> I watch them grow
-> They'll learn much more
-> Than I'll never know
-> And I think to myself
-> What a wonderful world
-> 
-> Yes, I think to myself
-> What a wonderful world
-> 
-> Oh yeah
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[What a wonderful world.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

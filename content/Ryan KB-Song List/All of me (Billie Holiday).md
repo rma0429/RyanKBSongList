@@ -26,7 +26,7 @@ yt_link: https://music.youtube.com/watch?v=e5oP75OKAdE&si=VceTaMduhYPItA9R
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0;">
 
 📄 Lyric
-![[All of me-1.png]]
+
 
 </div>
 

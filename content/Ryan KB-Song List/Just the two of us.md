@@ -9,101 +9,35 @@ tags:
 org_artist: Grover Washington, Jr.
 yt_link: https://music.youtube.com/watch?v=KYwA5k00p2I&si=BYyOOpHKtUXAECrT
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Grover Washington|Grover Washington]] & [[歌手/原唱/Jr.|Jr.]] #合唱 (原 Key: Ab) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=KYwA5k00p2I&si=BYyOOpHKtUXAECrT)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Ab)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (C)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Unplugged Pop - 56 (BPM: 96)
 
-Singer/KEY: Steph [Ab] , 丰[C] , Carlos [F] , 竹 [C] 
-Style: [0056 96]
-Singer: Carlos, Steph, 丰, 竹
 
----
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-> [Lyrics]
-> 
-> 
-> I see the crystal raindrops fall
-> And the beauty of it all
-> Is when the sun comes shining through
-> To make those rainbows in my mind
-> When I think of you sometime
-> And I want to spend some time with you
-> 
-> Just the two of us
-> We can make it if we try
-> Just the two of us
-> (Just the two of us)
-> Just the two of us
-> Building castles in the sky
-> Just the two of us
-> You and I
-> 
-> We look for love, no time for tears
-> Wasted water's all that is
-> And it don't make no flowers grow
-> Good things might come to those who wait
-> Not for those who wait too late
-> We gotta go for all we know
-> 
-> Just the two of us
-> We can make it if we try
-> Just the two of us
-> (Just the two of us)
-> Just the two of us
-> Building them castles in the sky
-> Just the two of us
-> You and I
-> 
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> 
-> I hear the crystal raindrops fall
-> On the window down the hall
-> And it becomes the morning dew
-> And, darling, when the morning comes
-> And I see the morning sun
-> I want to be the one with you
-> 
-> Just the two of us
-> We can make it if we try
-> Just the two of us
-> (Just the two of us)
-> Just the two of us
-> Building big castles way on high
-> Just the two of us
-> You and I
-> 
-> (Just the two of us)
-> Yes, the two of us
-> (We can make it just the two of us)
-> Let's get it together, babe
-> (Just the two of us)
-> Yes, the two of us
-> (We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us
-> We can make it just the two of us
-> Just the two of us)
->
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Just the two of us.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

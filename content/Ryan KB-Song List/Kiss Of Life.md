@@ -7,69 +7,35 @@ tags:
 org_artist: Sade
 yt_link: https://music.youtube.com/watch?v=4MOzk7-6j-I&si=TSF9L3Vc1dDpqtNv
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Sade|Sade]] (原 Key: A) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=4MOzk7-6j-I&si=TSF9L3Vc1dDpqtNv)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (B)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Sky Beat - 21 (BPM: 98)
 
-Singer/KEY: Steph [B] 
-Style: [0021 98] [In2]
-Singer: Steph
 
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
+
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Kiss Of Life.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
 1…1…6…6…4.3.2…6….
 
 2…6….2….6….
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
 
-There must have been an angel by my side
+</div>
 
-Something heavenly led me to you
-
-Look at the skyIt's the colour of love
-
-There must have been an angel by my side
-
-Something heavenly came down from above
-
-He led me to you
-
-He led me to you
-
-He built a bridge to your heart, all the way
-
-How many tons of love inside? I can't say
-
-When I was led to youI knew you were the one for meI swear whole world could feel my heartbeat
-
-When I lay eyes on youI-I-I-I-I
-
-You wrapped me up in the colour of love
-
-You gave me the kiss of life
-
-Kiss of lifeYou gave me the kiss that's like
-
-The kiss of life
-
-Wasn't it clear from the start?
-
-Look the sky is full of loveYeah, the sky is full of love
-
-You gave me the kiss of life
-
-Kiss of lifeYou gave me the kiss that's like
-
-Kiss of life
-
-You gave me the kiss of life
-
-Kiss of life
-
-You gave me the kiss that's like
-
-Kiss of life
-
-You wrapped me up in the colour of loveIn the moonlight baby
-
-It must have been an angel came down from above
-
-Giving me love, yeah
-
-Giving me love, yeah
-
-You gave me the kiss of lifeKiss of life
+</div>

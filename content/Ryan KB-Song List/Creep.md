@@ -22,7 +22,6 @@ yt_link: https://music.youtube.com/watch?v=9RfVp-GhKfs&si=2TksUalCbFSbaXhu
 <div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
-
 ![[Creep.png]]
 </div>
 

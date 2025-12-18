@@ -1,101 +1,40 @@
 ---
-title: Shake it Off - Jamie Cullum
+title: Shake It Off - Taylor Swift
 tags:
   - Singer/StephanieH/Eb
   - Style/74/111
   - 原Key/Ab
-org_artist: Jamie Cullum
-yt_link: https://music.youtube.com/watch?v=MpVSRObcadg&si=uuyxr_qo6fZumDdP
+org_artist: Taylor Swift
+yt_link: https://music.youtube.com/watch?v=sWMk8dwljFU&si=2xJ0noTBfLSoFgZ6
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Taylor Swift|Taylor Swift]] (原 Key: Ab) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=sWMk8dwljFU&si=2xJ0noTBfLSoFgZ6)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Eb)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Big Band Med - 74 (BPM: 111)
 
-Singer/KEY: Steph [Eb] 
-Style: [0074 111]
-Singer: Steph
 
----
 
-> [Lyrics]
-> 
-> 
-> I stay out too late
-> Got nothing in my brain
-> That's what people say, mm-mm
-> That's what people say, mm-mm
-> 
-> I go on too many dates
-> But I can't make 'em stay
-> At least that's what people say, mm-mm
-> That's what people say, mm-mm
-> 
-> But I keep cruisin'
-> Can't stop, won't stop movin'
-> It's like I got this music in my mind
-> Sayin' it's gonna be alright
-> 
-> 'Cause the players gonna play, play, play, play, play
-> And the haters gonna hate, hate, hate, hate, hate
-> Baby, I'm just gonna shake, shake, shake, shake, shake
-> I shake it off, I shake it off (hoo-hoo-hoo)
-> Heartbreakers gonna break, break, break, break, break
-> And the fakers gonna fake, fake, fake, fake, fake
-> Baby, I'm just gonna shake, shake, shake, shake, shake
-> I shake it off, I shake it off (hoo-hoo-hoo)
-> 
-> I never miss a beat
-> I'm lightnin' on my feet
-> And that's what they don't see, mm-mm
-> That's what they don't see, mm-mm
-> I'm dancin' on my own (dancin' on my own)
-> I make the moves up as I go (moves up as I go)
-> And that's what they don't know, mm-mm
-> That's what they don't know, mm-mm
-> 
-> But I keep cruisin'
-> Can't stop, won't stop groovin'
-> It's like I got this music in my mind
-> Sayin' it's gonna be alright
-> 
-> 'Cause the players gonna play, play, play, play, play
-> And the haters gonna hate, hate, hate, hate, hate
-> Baby, I'm just gonna shake, shake, shake, shake, shake
-> I shake it off, I shake it off (hoo-hoo-hoo)
-> Heartbreakers gonna break, break, break, break, break
-> And the fakers gonna fake, fake, fake, fake, fake
-> Baby, I'm just gonna shake, shake, shake, shake, shake
-> I shake it off, I shake it off (hoo-hoo-hoo)
-> 
-> Shake it off, I shake it off
-> I, I, I shake it off, I shake it off
-> I, I, I shake it off, I shake it off
-> I, I, I shake it off, I shake it off (hoo-hoo-hoo)
-> 
-> Hey, hey, hey
-> Just think, while you've been gettin' down and out about the liars
-> And the dirty, dirty cheats of the world
-> You could've been gettin' down to this sick beat
-> 
-> My ex-man brought his new girlfriend
-> She's like, "Oh my God!" but I'm just gonna shake
-> And to the fella over there with the hella good hair
-> Won't you come on over, baby? We can shake, shake, shake (yeah)
-> Yeah, oh, oh
-> 
-> 'Cause the players gonna play, play, play, play, play
-> And the haters gonna hate, hate, hate, hate, hate (haters gonna hate)
-> Baby, I'm just gonna shake, shake, shake, shake, shake
-> I shake it off, I shake it off (hoo-hoo-hoo)
-> Heartbreakers gonna break, break, break, break, break (mmm)
-> And the fakers gonna fake, fake, fake, fake, fake (and fake and fake and fake)
-> Baby, I'm just gonna shake, shake, shake, shake, shake
-> I shake it off, I shake it off (hoo-hoo-hoo)
-> 
-> Shake it off, I shake it off
-> I, I, I shake it off, I shake it off
-> I, I, I shake it off, I shake it off
-> I, I, I shake it off (yeah), I shake it off (hoo-hoo-hoo)
-> 
-> Shake it off, I shake it off
-> I, I, I shake it off, I shake it off (you got to)
-> I, I, I shake it off, I shake it off
-> I, I, I shake it off, I shake it off
->
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
+
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Shake it off.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

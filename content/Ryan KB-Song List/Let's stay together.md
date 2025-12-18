@@ -7,50 +7,33 @@ tags:
 org_artist: Al Green
 yt_link: https://music.youtube.com/watch?v=EKOcfZtKvYQ&si=3iMjtruJgK5Jf7oT
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Al Green|Al Green]] (原 Key: F) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=EKOcfZtKvYQ&si=3iMjtruJgK5Jf7oT)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (G)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Unplugged Pop - 56 (BPM: 100)
 
-Singer/KEY: Steph [G] , Carlos [D] 
-Style: [0056 100]
-Singer: Carlos, Steph
 
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Let's stay together.png]]
+</div>
 
----
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
 
-> [Lyrics]
-> 
-> 
-> [in 1-1]
-> 
-> I, I'm I'm so in love with you
-> Whatever you want to do
-> Is all right with me
-> 'Cause you make me feel so brand new
-> And I want to spend my life with you
-> 
-> Let me say that since, baby, since we've been together
-> Ooh, loving you forever
-> Is what I need
-> Let me, be the one you come running to
-> I'll never be untrue
-> 
-> Oh baby
-> Let's, let's stay together ('gether)
-> Lovin' you whether, whether
-> Times are good or bad, happy or sad
-> Oh, oh, oh, oh, yeah
-> Whether times are good or bad, happy or sad
-> 
-> Why, somebody, why people break up?
-> Oh, then turn around and make up
-> I just can't see
-> You'd never do that to me (would you, baby?)
-> Just being around you is all I see
-> Here's what I want us do
-> 
-> Let's, we oughta stay together ('gether)
-> Loving you whether, whether
-> Times are good or bad, happy or sad
-> Come on
-> Let's, woo (let's stay together) let's stay together
-> Loving you whether, whether times are good or bad
->
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

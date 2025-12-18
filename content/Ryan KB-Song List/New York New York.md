@@ -8,64 +8,34 @@ tags:
 org_artist: Frank Sinatra
 yt_link: https://music.youtube.com/watch?v=NogjmRMj_co&si=ceAKS9-AIRLuYoyk
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Frank Sinatra|Frank Sinatra]] (原 Key: D) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=NogjmRMj_co&si=ceAKS9-AIRLuYoyk)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (B)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (B)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🎹 Piano
 
-Singer/KEY: Steph [B] , 竹 [B] 
-Style: [Piano]
-Singer: Steph, 竹
 
-B→C
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
----
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[New York New York.png]]
+</div>
 
-> [Lyrics]
-> 
-> 
-> Start spreadin' the news
-> I'm leavin' today
-> I want to be a part of it
-> New York, New York
-> 
-> These vagabond shoes
-> Are longing to stray
-> Right through the very heart of it
-> New York, New York
-> 
-> I want to wake up
-> In a city that doesn't sleep
-> And find I'm king of the hill
-> Top of the heap
-> 
-> These little-town blues
-> Are melting away
-> I'll make a brand new start of it
-> In old New York
-> 
-> If I can make it there
-> I'll make it
-> Anywhere
-> It's up to you
-> New York, New York
-> 
-> [Musical interlude]
-> 
-> New York, New York
-> I want to wake up in a city
-> That never sleeps
-> 
-> And find I'm A number one
-> Top of the list
-> King of the hill
-> A number one
-> 
-> These little town blues
-> Are melting away
-> I'm gonna make a brand new start of it
-> In old New York
-> 
-> And if I can make it there
-> I'm gonna make it anywhere
-> It's up to you
-> New York, New York
-> 
-> New York
->
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>
