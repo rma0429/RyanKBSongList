@@ -8,44 +8,34 @@ tags:
 org_artist: Sabrina Carpenter
 yt_link: https://music.youtube.com/watch?v=kIft-LUHHVA&si=rBESdZ9H06lzf9Ns
 ---
-[Verse 1]
-Now he's thinkin' 'bout me every night, oh
-Is it that sweet? I guess so
-Say you can't sleep, baby, I know
-That's that me espresso
-Walked in and dream-came-trued it for ya
-Soft skin and I perfumed it for ya
+> [!info] 
+> -  原唱： [[歌手/原唱/Sabrina Carpenter|Sabrina Carpenter]] (原 Key: C) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=kIft-LUHHVA&si=rBESdZ9H06lzf9Ns)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Eb)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (C)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Ladies Dance - 159 (BPM: 103)
 
-[Pre-Chorus]
-I know I Mountain Dew it for ya
-That morning coffee, brewed it for ya
-One touch and I subdued it for ya
 
-[Chorus]
-Say you can't sleep, baby, I know
-That's that me espresso
-Move it up, down, left, right, oh
-Switch it up like Nintendo
-Say you can't sleep, baby, I know
-That's that me espresso
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-[Verse 2]
-I can't relate to desperation
-My 'give a fucks' are on vacation
-And I got this personality
-And I got this heart of gold
-And I'm on a first-name basis with your mom
-And you're on a first-name basis with my...
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Espresso-1.png]]
+</div>
 
-[Pre-Chorus]
-I know I Mountain Dew it for ya
-That morning coffee, brewed it for ya
-One touch and I subdued it for ya
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
 
-[Chorus]
-Say you can't sleep, baby, I know
-That's that me espresso
-Move it up, down, left, right, oh
-Switch it up like Nintendo
-Say you can't sleep, baby, I know
-That's that me espresso
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

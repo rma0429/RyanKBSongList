@@ -10,66 +10,34 @@ tags:
 org_artist: Roberta Flack
 yt_link: https://music.youtube.com/watch?v=S_JeuGdXl5o&si=zoNhfU51ZM5PI-1N
 ---
+> [!info] 
+> -  原唱： [[歌手/原唱/Roberta Flack|Roberta Flack]] (原 Key: Eb) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=S_JeuGdXl5o&si=zoNhfU51ZM5PI-1N)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (Eb)
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (Eb)
+> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (F)
+> 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 CibizBoogalo - 62 (BPM: 85)
+> - 🥁 Funky Jazz 1 - 67 (BPM: 85)
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
-Singer/KEY: Steph [Eb] , 丰 [Eb] , 竹 [F] 
-Style: [0062 85
-0067
-Singer: Steph, 丰, 竹
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Feel like making love-1.png]]
+</div>
 
----
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
 
-> [Lyrics]
-> 
-> 
-> Strollin' in the
-> park, watching winter turn to spring
-> 
-> Walkin' in the dark,
-> seein' lovers do their thing
-> 
-> That's the time I
-> feel like making love to you
-> 
-> That's the time I
-> feel like making dreams come true
-> 
-> Oh baby
-> 
-> When you talk to me,
-> when you're moanin' sweet and low
-> 
-> When you touch my
-> hand and my feelin's start to show
-> 
-> That's the time I
-> feel like making love to you
-> 
-> That's the time I
-> feel like making dreams come true
-> 
-> Oh baby
-> 
-> [Musical interlude]
-> 
-> In a restaurant,
-> holdin' hands by candlelight
-> 
-> When I'm touchin' you
-> 
-> wanting you with all
-> my might
-> 
-> That's the time I
-> feel like making love to you
-> 
-> That's the time I
-> feel like making dreams come true
-> 
-> That's the time I
-> feel like making love to you
-> 
-> That's the time I
-> feel like making dreams come true
-> 
-> Oh baby
->
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>

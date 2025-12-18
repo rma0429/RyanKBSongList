@@ -7,25 +7,33 @@ tags:
 org_artist: JoseFeliciano
 yt_link: https://music.youtube.com/watch?v=N8NcQzMQN_U&si=VEG3qMBUzFb3a5UT
 ---
-
-Singer/KEY: 丰 [F] 
-Style: [0110120]
-Singer: 丰
-
----
-
-[Feeling Good](Feliz%20navidad%/Feeling%20Good%.md)
-
-> [Lyrics]
+> [!info] 
+> -  原唱： [[歌手/原唱/JoseFeliciano|JoseFeliciano]] (原 Key: D) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=N8NcQzMQN_U&si=VEG3qMBUzFb3a5UT)
 > 
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
-> Feliz Navidad, Feliz Navidad
-> Feliz Navidad, próspero año y felicidad
-> Feliz Navidad, Feliz Navidad
-> Feliz Navidad, próspero año y felicidad
+> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (F)
 > 
-> I wanna wish you a Merry Christmas
-> I wanna wish you a Merry Christmas
-> I wanna wish you a Merry Christmas
-> From the bottom of my heart
->
+> <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
+> 
+> - 🥁 Club Bossa - 110 (BPM: 120)
+
+
+<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
+
+<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
+![[Feliz navidad.png]]
+</div>
+
+<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
+
+ＩＮＴ：
+Ｖ．： 
+ＰＣ： 
+Ｃ﹒： 
+Ｂ．： 
+ＯＵＴ：
+
+</div>
+
+</div>
