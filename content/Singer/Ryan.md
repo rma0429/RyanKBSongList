@@ -1,3 +1,4 @@
+<!-- QueryToSerialize: LIST FROM #foo  -->
 # 🎤 Ryan 的所有歌曲
 
 ```dataview
