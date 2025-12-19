@@ -15,3 +15,38 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* --- 修改 Explorer (檔案瀏覽器) 樣式 --- */
+
+.explorer {
+  /* 1. 啟用左右滾動 (Horizontal Scrolling) */
+  overflow-x: auto !important; 
+  
+  /* 為了美觀，可以讓滾動條變細一點 (選用) */
+  &::-webkit-scrollbar {
+    height: 4px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 2px;
+  }
+}
+
+/* 針對 Explorer 裡面的連結文字 */
+.explorer .folder-container a, 
+.explorer .folder-container button {
+  /* 2. 強制不換行 (Single Line) */
+  white-space: nowrap !important;
+  
+  /* 確保文字能撐開寬度，讓滾動條出現 */
+  display: inline-block; 
+  min-width: max-content;
+  
+  /* 稍微增加右側留白，避免文字貼在邊緣 */
+  padding-right: 10px;
+}
+
+/* 確保整個列表容器也會跟著變寬 */
+.explorer .folder-outer {
+    min-width: max-content;
+}
