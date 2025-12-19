@@ -1,13 +1,4 @@
-<!-- QueryToSerialize: LIST FROM #foo  -->
-# 🎤 Ryan 的所有歌曲
+# 🎤 Ryan 的所有歌曲 ( 0 )
 
-```dataview
-TABLE without id 
-	file.link as "歌名",
-	join(map(filter(file.etags, (t) => startswith(t, "#Singer/Ryan")), (t) => default(split(t, "/")[2], "-")), ", ") as "Key",
-	join(map(filter(file.etags, (t) => startswith(t, "#Style/")), (t) => split(t, "/")[1]), "<br>") as "節奏",
-	join(map(filter(file.etags, (t) => startswith(t, "#Style/")), (t) => split(t, "/")[2]), "<br>") as "BPM"
-FROM #Singer/Ryan
-WHERE contains(file.folder, "Ryan KB-Song List")
-SORT file.name ASC
-```
+| 歌名 | Key | 節奏 | BPM |
+| -- | --- | -- | --- |
