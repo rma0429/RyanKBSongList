@@ -23,7 +23,7 @@ yt_link: https://music.youtube.com/watch?v=m-3MNcF2COk&si=t-yl6ylD3m01zxJI
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0;">
 
 📄 Lyric
-![[Mojito.png]]
+<img src="assets/Mojito.png" style="width: 100%;" ...>
 
 </div>
 

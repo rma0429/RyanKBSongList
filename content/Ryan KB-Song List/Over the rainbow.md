@@ -8,4 +8,4 @@ tags:
 org_artist: Israel "IZ" Kamakawiwoʻole
 yt_link: https://music.youtube.com/watch?v=V1bFr2SWP1I&si=rHPqfovBxulvbmgA
 ---
-![[Over the rainbow.png]]
+<img src="assets/Over the rainbow.png" style="width: 100%;" ...>

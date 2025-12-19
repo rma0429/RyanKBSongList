@@ -26,7 +26,7 @@ yt_link: https://music.youtube.com/watch?v=fRyhqobl0sk&si=1viW19XCPovoa81p
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0;">
 
 📄 Lyric
-![[All I want for X’mas.png]]
+<img src="assets/All I want for X’mas.png" style="width: 100%;" ...>
 
 </div>
 

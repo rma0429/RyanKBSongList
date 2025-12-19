@@ -9,6 +9,6 @@ style:
 bpm: "150"
 ---
 
-![[All I want for X’mas.png]]
+<img src="assets/All I want for X’mas.png" style="width: 100%;" ...>
 
 

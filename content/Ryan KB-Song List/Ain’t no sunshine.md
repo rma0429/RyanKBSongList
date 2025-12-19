@@ -22,7 +22,7 @@ yt_link: https://music.youtube.com/watch?v=8jjbhrR15Y8&si=SEuiSDPjCKIl95Ao
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0;">
 
 📄 Lyric
-![[Ain’t no sunshine-1.png]]
+<img src="assets/Ain’t no sunshine-1.png" style="width: 100%;" ...>
 
 </div>
 

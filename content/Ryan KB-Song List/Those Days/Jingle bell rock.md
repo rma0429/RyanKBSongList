@@ -7,4 +7,4 @@ tags:
 style: "[0081]"
 bpm: "125"
 ---
-![[Jingle bell rock.png]]
+<img src="assets/Jingle bell rock.png" style="width: 100%;" ...>

@@ -19,7 +19,7 @@ yt_link: https://music.youtube.com/watch?v=gTwn_LoH7ig&si=3lGo3hLi_UWQjH7m
 <div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
-![[Careless Wisper.png]]
+<img src="assets/Careless Wisper.png" style="width: 100%;" ...>
 </div>
 
 <div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 

@@ -17,7 +17,7 @@ bpm: "100"
 
   <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d;">
     ### 📄 歌詞
-    ![[assets/歌詞截圖.png]]
+    <img src="assets/assets/歌詞截圖.png" style="width: 100%;" ...>
   </div>
 
   <div style="flex: 1; padding-left: 1em;">

@@ -24,7 +24,7 @@ yt_link: https://music.youtube.com/watch?v=Voo86mlxZvA&si=1h8qU796v5nEGvm3
 <div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
 
 <div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
-![[Always Remember Us This Way.png]]
+<img src="assets/Always Remember Us This Way.png" style="width: 100%;" ...>
 </div>
 
 <div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 

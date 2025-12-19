@@ -5,4 +5,4 @@ tags:
 style: "[0080]"
 bpm: "90"
 ---
-![[Santa baby.png]]
+<img src="assets/Santa baby.png" style="width: 100%;" ...>
