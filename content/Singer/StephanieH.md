@@ -1,6 +1,6 @@
-<!-- QueryToSerialize: LIST FROM #foo  -->
 # 🎤 StephanieH 的所有歌曲
 
+%% DATAVIEW_PUBLISHER: start
 ```dataview
 TABLE without id 
 	file.link as "歌名",
@@ -11,3 +11,5 @@ FROM #Singer/StephanieH
 WHERE contains(file.folder, "Ryan KB-Song List")
 SORT file.name ASC
 ```
+%%
+%% DATAVIEW_PUBLISHER: end %%
