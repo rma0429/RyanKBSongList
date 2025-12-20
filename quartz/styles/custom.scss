@@ -70,14 +70,3 @@
     padding-left: 0 !important;
 }
 
-/* 6. 手機版 RWD */
-@media (max-width: 750px) {
-    .callout[data-callout="lyrics"] .callout-content {
-        display: flex; /* 改回 Flexbox 以便垂直排列 */
-        flex-direction: column;
-        gap: 15px;
-    }
-    .callout[data-callout="lyrics"] .callout-content > p:first-child {
-        width: 100%;
-    }
-}
