@@ -6,38 +6,32 @@ tags:
   - Singer/虹竹/A
   - Style/48/100
   - 原Key/A
-org_artist: Tones and I
+  - Tones_and_I
+org_artist:
+  - Tones and I
 yt_link: https://music.youtube.com/watch?v=Hx4nWW9z0ig&si=vJb1ex9UOrYIcP3W
 ---
 > [!info] 
-> -  原唱： [[歌手/原唱/Tones and I|Tones and I]] (原 Key: A) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=Hx4nWW9z0ig&si=vJb1ex9UOrYIcP3W)
+> -  原唱： <a href="/tags/Tones_and_I.html">Tones and I</a> (原 Key: A) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=Hx4nWW9z0ig&si=vJb1ex9UOrYIcP3W)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
-> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (A)
-> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (A)
-> - **🎤 演唱：** [[歌手/演唱/虹竹|虹竹]] (A)
+> - **🎤 演唱：** [[StephanieH]] (A)
+> - **🎤 演唱：** [[小丰]] (A)
+> - **🎤 演唱：** [[虹竹]] (A)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
 > - 🥁 Due Beat - 48 (BPM: 100)
 
 
-<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
-
-<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
-<img src="assets/Dance monkey.png" style="width: 100%;" ...>
-</div>
-
-<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
-
-ＩＮＴ：
-Ｖ．： 
-ＰＣ： 
-Ｃ﹒： 
-Ｂ．： 
-ＯＵＴ：
-
-</div>
-
-</div>
+> [!lyrics]
+> ![[assets/Dance monkey.png]]
+>
+>
+> - Intr ：
+> - Ver. ：
+> - PrC.：
+> - C.    ：
+> - Brg ：
+> - Otr ：

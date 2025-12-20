@@ -10,7 +10,7 @@ org_artist:
 yt_link: https://music.youtube.com/watch?v=m-3MNcF2COk&si=t-yl6ylD3m01zxJI
 ---
 > [!info] 
-> -  原唱： #周杰倫 (原 Key: C) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=m-3MNcF2COk&si=t-yl6ylD3m01zxJI)
+> -  原唱： <a href="/tags/周杰倫.html">周杰倫</a> (原 Key: C) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=m-3MNcF2COk&si=t-yl6ylD3m01zxJI)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 

@@ -33,7 +33,7 @@ if (targetArtists.length === 0) {
 // --- 步驟 B: 執行寫入 (將名單同步到 Tags) ---
 if (targetArtists.length > 0) {
     await app.fileManager.processFrontMatter(file, (frontmatter) => {
-        // 1. 確保 org_artist 格式統一 (建議存回陣列，方便 Obsidian 管理)
+        // 1. org_artist 保持原樣 (保留空格，顯示比較漂亮)
         frontmatter["org_artist"] = targetArtists;
 
         // 2. 處理 Tags
@@ -41,12 +41,15 @@ if (targetArtists.length > 0) {
         if (typeof currentTags === 'string') currentTags = [currentTags]; 
         if (!Array.isArray(currentTags)) currentTags = []; 
 
-        // 3. 【關鍵修正】迴圈處理每一位歌手，避免塞入陣列物件
+        // 3. 【關鍵修正】迴圈處理每一位歌手，將空格轉為底線後再存入 Tag
         targetArtists.forEach(artist => {
             if (artist && artist !== "") {
-                // 防呆：避免重複加入
-                if (!currentTags.includes(artist)) {
-                    currentTags.push(artist);
+                // 重點：將名稱中的空格取代為底線 (僅針對 Tag)
+                let tagFormatArtist = artist.replace(/\s+/g, "_");
+
+                // 防呆：避免重複加入 (檢查是否已存在該 Tag)
+                if (!currentTags.includes(tagFormatArtist)) {
+                    currentTags.push(tagFormatArtist);
                 }
             }
         });

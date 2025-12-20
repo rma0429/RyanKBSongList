@@ -5,37 +5,31 @@ tags:
   - Singer/小丰/C
   - Style/104/95
   - 原Key/G
-org_artist: Cesaria Evora
+  - Cesaria_Evora
+org_artist:
+  - Cesaria Evora
 yt_link: https://music.youtube.com/watch?v=LLsg_Lk819s&si=haIlw_2Epkq0owiw
 ---
 > [!info] 
-> -  原唱： [[歌手/原唱/Cesaria Evora|Cesaria Evora]] (原 Key: G) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=LLsg_Lk819s&si=haIlw_2Epkq0owiw)
+> -  原唱： <a href="/tags/Cesaria_Evora.html">Cesaria Evora</a> (原 Key: G) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=LLsg_Lk819s&si=haIlw_2Epkq0owiw)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
-> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (C)
-> - **🎤 演唱：** [[歌手/演唱/小丰|小丰]] (C)
+> - **🎤 演唱：** [[StephanieH]] (C)
+> - **🎤 演唱：** [[小丰]] (C)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
 > - 🥁 New Bossa - 104 (BPM: 95)
 
 
-<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
-
-<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
-<img src="assets/Besame mucho.png" style="width: 100%;" ...>
-</div>
-
-<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
-
-ＩＮＴ：
-Ｖ．： 
-ＰＣ： 
-Ｃ﹒： 
-Ｂ．： 
-ＯＵＴ：
-
-</div>
-
-</div>
+> [!lyrics]
+> ![[assets/Besame mucho.png]]
+>
+>
+> - Intr ：
+> - Ver. ：
+> - PrC.：
+> - C.    ：
+> - Brg ：
+> - Otr ：

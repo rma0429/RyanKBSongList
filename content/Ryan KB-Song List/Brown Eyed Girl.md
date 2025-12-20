@@ -3,11 +3,13 @@ title: Brown Eyed Girl - Van Morrison
 tags:
   - Style/2/150
   - 原Key/G
-org_artist: Van Morrison
+  - Van_Morrison
+org_artist:
+  - Van Morrison
 yt_link: https://music.youtube.com/watch?v=nEQmbFWnQeE&si=n4uBVKxLMxknUEG-
 ---
 > [!info] 
-> -  原唱： [[歌手/原唱/Van Morrison|Van Morrison]] (原 Key: G) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=nEQmbFWnQeE&si=n4uBVKxLMxknUEG-)
+> -  原唱： <a href="/tags/Van_Morrison.html">Van Morrison</a> (原 Key: G) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=nEQmbFWnQeE&si=n4uBVKxLMxknUEG-)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
@@ -18,21 +20,13 @@ yt_link: https://music.youtube.com/watch?v=nEQmbFWnQeE&si=n4uBVKxLMxknUEG-
 > - 🥁 8Bt GtrBand - 2 (BPM: 150)
 
 
-<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
-
-<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
-<img src="assets/Brown Eyed Girl.png" style="width: 100%;" ...>
-</div>
-
-<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
-
-ＩＮＴ：
-Ｖ．： 
-ＰＣ： 
-Ｃ﹒： 
-Ｂ．： 
-ＯＵＴ：
-
-</div>
-
-</div>
+> [!lyrics]
+> ![[assets/Brown Eyed Girl.png]]
+>
+>
+> - Intr ：
+> - Ver. ：
+> - PrC.：
+> - C.    ：
+> - Brg ：
+> - Otr ：

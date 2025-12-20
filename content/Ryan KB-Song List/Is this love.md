@@ -4,36 +4,30 @@ tags:
   - Singer/StephanieH/C
   - Style/228/120
   - 原Key/A
-org_artist: Bob Marley
+  - Bob_Marley
+org_artist:
+  - Bob Marley
 yt_link: https://music.youtube.com/watch?v=co2FK0WbXX0&si=JL3qY-1PUgdbCMNr
 ---
 > [!info] 
-> -  原唱： [[歌手/原唱/Bob Marley|Bob Marley]] (原 Key: A) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=co2FK0WbXX0&si=JL3qY-1PUgdbCMNr)
+> -  原唱： <a href="/tags/Bob_Marley.html">Bob Marley</a> (原 Key: A) &nbsp; [🎧 原曲聆聽](https://music.youtube.com/watch?v=co2FK0WbXX0&si=JL3qY-1PUgdbCMNr)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
-> - **🎤 演唱：** [[歌手/演唱/StephanieH|StephanieH]] (C)
+> - **🎤 演唱：** [[StephanieH]] (C)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
 > - 🥁 Love Reggae - 228 (BPM: 120)
 
 
-<div style="display: flex; gap: 2em; align-items: flex-start; width: 100%;">
-
-<div style="flex: 1; padding-right: 1em; border-right: 1px solid #3d3d3d; min-width: 0; white-space: pre-wrap;">📄 Lyric
-<img src="assets/Is this love.png" style="width: 100%;" ...>
-</div>
-
-<div style="flex: 1; padding-left: 1em; min-width: 0; white-space: pre-wrap;">🎵 Note 
-6356.16356
-ＩＮＴ：
-Ｖ．： 
-ＰＣ： 
-Ｃ﹒： 
-Ｂ．： 
-ＯＵＴ：
-
-</div>
-
-</div>
+> [!lyrics]
+> ![[assets/Is this love.png]]
+>
+>6356.16356
+> - Intr ：
+> - Ver. ：
+> - PrC.：
+> - C.    ：
+> - Brg ：
+> - Otr ：
