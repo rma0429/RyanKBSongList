@@ -24,11 +24,11 @@ yt_link: https://music.youtube.com/watch?v=WKZO-CWeOVA&si=4CybVKUCbz53GafQ
 > [!lyrics]
 > ![[assets/BIRDS OF A FEATHER.png]]
 >
-151757171757
-1…….
-6…….
-2…….
-5…….
+>151757171757
+>1…….
+>6…….
+>2…….
+>5…….
 > - Intr ：
 > - Ver. ：
 > - PrC.：

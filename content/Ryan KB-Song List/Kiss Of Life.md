@@ -24,8 +24,8 @@ yt_link: https://music.youtube.com/watch?v=4MOzk7-6j-I&si=TSF9L3Vc1dDpqtNv
 > [!lyrics]
 > ![[assets/Kiss Of Life.png]]
 >
-1…1…6…6…4.3.2…6….
-2…6….2….6….
+>1…1…6…6…4.3.2…6….
+>2…6….2….6….
 > - Intr ：
 > - Ver. ：
 > - PrC.：

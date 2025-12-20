@@ -22,7 +22,10 @@ Check the graph on the right to see how songs and artists are connected.
 
 查看右側的關聯圖，探索歌曲與歌手之間的連結網絡。
 
-## 🎤 Artists (演唱歌手 ) >
+## 🎤 Artists (演唱歌手 ) 
+
+Exclusive playlists for collaborating artists
+合作歌手專屬歌單
 - [[Brandon]]
 - [[Ryan ]]
 - [[StephanieH]]
