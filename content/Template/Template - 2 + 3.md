@@ -95,7 +95,7 @@ if (artistList.length > 0) {
     orgArtistDisplay = artistList.map(function(name) {
         // 空白轉底線 (例如 Taylor Swift -> #Taylor_Swift)
         var safeTag = name.replace(/\s+/g, "_");
-        return "#" + safeTag;
+        return '<a href="/RyanKBSongList/tags/' + safeTag + '.html">' + name + '</a>';
     }).join(" & "); // 顯示時用 & 連接
     
     if (artistList.length > 1) { isDuet = true; }
