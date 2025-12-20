@@ -60,3 +60,45 @@
 .dataview.table-view-table td {
   vertical-align: middle;
 }
+
+/* 定義 [!lyrics] 這個 Callout 的行為 */
+.callout[data-callout="lyrics"] {
+    background-color: transparent !important; /* 背景透明 */
+    border: none !important; /* 去除邊框 */
+    padding: 0 !important;
+    box-shadow: none !important;
+}
+
+/* 隱藏標題列 (如果您不想要顯示 "Lyrics" 標題的話) */
+.callout[data-callout="lyrics"] .callout-title {
+    display: none;
+}
+
+/* 內容區域變成雙欄 */
+.callout[data-callout="lyrics"] .callout-content {
+    display: flex;
+    gap: 20px; /* 兩欄中間的間距 */
+    flex-wrap: wrap; /* 手機版允許換行 */
+}
+
+/* 左欄：圖片 */
+.callout[data-callout="lyrics"] .callout-content > p:first-child {
+    flex: 1; /* 佔用 1 等份寬度 */
+    min-width: 300px; /* 最小寬度，避免壓太扁 */
+    margin: 0;
+}
+
+/* 右欄：文字 */
+.callout[data-callout="lyrics"] .callout-content > div,
+.callout[data-callout="lyrics"] .callout-content > p:nth-child(2) {
+    flex: 1; /* 佔用 1 等份寬度 */
+    min-width: 250px;
+    margin-top: 0;
+    white-space: pre-wrap; /* 保留換行格式 */
+}
+
+/* 圖片自適應 */
+.callout[data-callout="lyrics"] img {
+    width: 100%;
+    border-radius: 4px;
+}
