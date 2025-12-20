@@ -95,7 +95,7 @@ if (artistList.length > 0) {
     orgArtistDisplay = artistList.map(function(name) {
         var safeTag = name.replace(/\s+/g, "_");
         // 強制指定完整路徑，繞過 Quartz 的自動計算
-        return "[" + name + "](/RyanKBSongList/tags/" + safeTag + ")"; 
+        return '<a href="/RyanKBSongList/tags/' + safeTag + '">' + name + '</a>';
     }).join(" & ");
     
     if (artistList.length > 1) { isDuet = true; }
