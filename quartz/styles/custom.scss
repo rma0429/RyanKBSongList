@@ -69,10 +69,7 @@
     box-shadow: none !important;
 }
 
-/* 隱藏標題列 (如果您不想要顯示 "Lyrics" 標題的話) */
-.callout[data-callout="lyrics"] .callout-title {
-    display: none;
-}
+
 
 /* 內容區域變成雙欄 */
 .callout[data-callout="lyrics"] .callout-content {
