@@ -1,101 +1,81 @@
 @use "./base.scss";
-// 備註：請不要在 custom.scss 裡面再次 import custom.scss，避免循環引用。
-// @import styles from "../styles/custom.scss"; <-- 這行是錯誤的，已移除。
 
-// 雙欄排版
-.two-columns {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px;
-  align-items: start;
-}
-
-@media (max-width: 750px) {
-  .two-columns {
-    grid-template-columns: 1fr;
-  }
-}
-
-/* --- 修改 Explorer (檔案瀏覽器) 樣式 --- */
-
+/* 保留您原本的 Explorer 與 Dataview 設定 */
 .explorer {
-  /* 1. 啟用左右滾動 (Horizontal Scrolling) */
-  overflow-x: auto !important; 
-  
-  /* 為了美觀，可以讓滾動條變細一點 (選用) */
-  &::-webkit-scrollbar {
-    height: 4px;
-  }
-  &::-webkit-scrollbar-thumb {
-    background: #888; 
-    border-radius: 2px;
-  }
+  overflow-x: auto !important;
+  &::-webkit-scrollbar { height: 4px; }
+  &::-webkit-scrollbar-thumb { background: #888; border-radius: 2px; }
 }
-
-/* 針對 Explorer 裡面的連結文字 */
 .explorer .folder-container a, 
 .explorer .folder-container button {
-  /* 2. 強制不換行 (Single Line) */
-  white-space: nowrap !important;
-  
-  /* 確保文字能撐開寬度，讓滾動條出現 */
-  display: inline-block; 
-  min-width: max-content;
-  
-  /* 稍微增加右側留白，避免文字貼在邊緣 */
-  padding-right: 10px;
+  white-space: nowrap !important; display: inline-block; min-width: max-content; padding-right: 10px;
 }
+.explorer .folder-outer { min-width: max-content; }
+.dataview.table-view-table tr { border-bottom: 1px solid rgba(255, 255, 255, 0.2); }
 
-/* 確保整個列表容器也會跟著變寬 */
-.explorer .folder-outer {
-    min-width: max-content;
-}
 
-/* 強制給 Dataview 表格的每一列底部加橫線 */
-.dataview.table-view-table tr {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2); /* 0.2 是線條透明度，可自行調整 */
-}
+/* ======================================================
+   [!lyrics] 最終極版 (支援自然換行 & 清單)
+   ====================================================== */
 
-/* 確保內容垂直置中 (選用) */
-.dataview.table-view-table td {
-  vertical-align: middle;
-}
-
-/* 定義 [!lyrics] 這個 Callout 的行為 */
+/* 1. 容器設定 */
 .callout[data-callout="lyrics"] {
-    background-color: transparent !important; /* 背景透明 */
-    border: none !important; /* 去除邊框 */
-    padding: 0 !important;
+    background-color: transparent !important;
+    border: none !important;
     box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
 }
+.callout[data-callout="lyrics"] .callout-title { display: none; }
 
-
-
-/* 內容區域變成雙欄 */
+/* 2. 核心佈局：Grid */
 .callout[data-callout="lyrics"] .callout-content {
-    display: flex;
-    gap: 20px; /* 兩欄中間的間距 */
-    flex-wrap: wrap; /* 手機版允許換行 */
+    display: grid;
+    /* 定義兩欄：[圖片寬度] [文字寬度] */
+    grid-template-columns: minmax(200px, 40%) 1fr;
+    gap: 30px;
+    align-items: start;
 }
 
-/* 左欄：圖片 */
+/* 3. 左側圖片 (永遠鎖定在左邊) */
+/* 選擇內容裡的第一個元素 (通常是包含圖片的段落) */
 .callout[data-callout="lyrics"] .callout-content > p:first-child {
-    flex: 1; /* 佔用 1 等份寬度 */
-    min-width: 300px; /* 最小寬度，避免壓太扁 */
-    margin: 0;
+    margin: 0 !important;
+    grid-column: 1;      /* 放在第 1 欄 */
+    grid-row: 1 / span 99; /* 【關鍵】讓圖片向下延伸佔用 99 行，強迫右邊文字只能待在右邊 */
 }
 
-/* 右欄：文字 */
-.callout[data-callout="lyrics"] .callout-content > div,
-.callout[data-callout="lyrics"] .callout-content > p:nth-child(2) {
-    flex: 1; /* 佔用 1 等份寬度 */
-    min-width: 250px;
-    margin-top: 0;
-    white-space: pre-wrap; /* 保留換行格式 */
-}
-
-/* 圖片自適應 */
-.callout[data-callout="lyrics"] img {
+.callout[data-callout="lyrics"] .callout-content > p:first-child img {
     width: 100%;
-    border-radius: 4px;
+    height: auto;
+    border-radius: 6px;
+    display: block;
+}
+
+/* 4. 右側文字 (自動抓取所有非圖片的內容) */
+/* 選擇除了第一個元素以外的所有東西 (包含 p, ul, h3 等) */
+.callout[data-callout="lyrics"] .callout-content > *:not(:first-child) {
+    grid-column: 2; /* 強制放在第 2 欄 */
+    text-align: left !important;
+    margin-top: 0 !important;
+    margin-bottom: 0.5em !important; /* 讓段落間有點距離，比較好讀 */
+}
+
+/* 5. 針對清單的特別優化 (如果您想用清單的話) */
+.callout[data-callout="lyrics"] .callout-content ul,
+.callout[data-callout="lyrics"] .callout-content ol {
+    margin-left: 1em !important;
+    padding-left: 0 !important;
+}
+
+/* 6. 手機版 RWD */
+@media (max-width: 750px) {
+    .callout[data-callout="lyrics"] .callout-content {
+        display: flex; /* 改回 Flexbox 以便垂直排列 */
+        flex-direction: column;
+        gap: 15px;
+    }
+    .callout[data-callout="lyrics"] .callout-content > p:first-child {
+        width: 100%;
+    }
 }
