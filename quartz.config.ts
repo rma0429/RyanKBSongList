@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "rma0429.github.io/RyanKBSongList/",
+    baseUrl: "rma0429.github.io/RyanKBSongList",
     ignorePatterns: ["private", "templates", ".obsidian", "Metadata", "Template"],
     defaultDateType: "modified",
     theme: {
