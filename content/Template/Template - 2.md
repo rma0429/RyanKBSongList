@@ -89,7 +89,7 @@ if (Array.isArray(tags)) {
             var parts = clean.split("/");
             var name = parts[0] || "未設定";
             var key = parts[1] || "無";
-            singerListMarkdown += "> - **🎤 演唱：** [[" + "歌手/演唱/" + name + "|" + name + "]] (" + key + ")\n";
+            singerListMarkdown += "> - **🎤 演唱：** [[" + name + "]] (" + key + ")\n";
         });
     } else {
         singerListMarkdown = "> - **🎤 演唱：** 未設定\n";
