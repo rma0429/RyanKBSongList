@@ -2,9 +2,9 @@
 > ![[assets/<% tp.file.title %>.png]]
 >
 >
-> - Intr：
-> - Ver.：
-> - PrC：
-> - C．：
-> - Brg：
-> - Otr：
+> - Intr ：
+> - Ver. ：
+> - PrC.：
+> - C.    ：
+> - Brg ：
+> - Otr ：

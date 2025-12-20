@@ -63,7 +63,7 @@ if (rawArtist) {
 // B. 產生顯示字串
 if (artistList.length > 0) {
     orgArtistDisplay = artistList.map(function(name) {
-        return "[[" + "歌手/原唱/" + name + "|" + name + "]]";
+        return "#" + name;
     }).join(" & ");
     
     // 判斷是否超過一人
