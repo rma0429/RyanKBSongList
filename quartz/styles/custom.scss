@@ -53,12 +53,14 @@
 }
 
 /* 4. 右側文字 (自動抓取所有非圖片的內容) */
-/* 選擇除了第一個元素以外的所有東西 (包含 p, ul, h3 等) */
 .callout[data-callout="lyrics"] .callout-content > *:not(:first-child) {
     grid-column: 2; /* 強制放在第 2 欄 */
     text-align: left !important;
     margin-top: 0 !important;
-    margin-bottom: 0.5em !important; /* 讓段落間有點距離，比較好讀 */
+    margin-bottom: 0.5em !important; 
+    
+    /* 【新增這行】這就是魔法！它會保留您在 Markdown 裡按下的所有 Enter 換行 */
+    white-space: pre-wrap !important; 
 }
 
 /* 5. 針對清單的特別優化 (如果您想用清單的話) */
