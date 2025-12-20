@@ -93,10 +93,10 @@ if (targetArtists.length > 0) {
 // 產生顯示內容
 if (artistList.length > 0) {
     orgArtistDisplay = artistList.map(function(name) {
-        // 空白轉底線 (例如 Taylor Swift -> #Taylor_Swift)
         var safeTag = name.replace(/\s+/g, "_");
-        return "#" + safeTag;
-    }).join(" & "); // 顯示時用 & 連接
+        // 強制指定完整路徑，繞過 Quartz 的自動計算
+        return "[" + name + "](/RyanKBSongList/tags/" + safeTag + ")"; 
+    }).join(" & ");
     
     if (artistList.length > 1) { isDuet = true; }
 }
