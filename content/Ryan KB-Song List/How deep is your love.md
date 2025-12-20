@@ -8,6 +8,7 @@ tags:
   - Style/30/93
   - 原Key/Eb
   - Bee_Gees
+  - Singer/Djavan/Ab
 org_artist:
   - Bee Gees
 yt_link: https://music.youtube.com/watch?v=o51p5IRJ5Tc&si=1_U7SuJwXF94Jntg
@@ -20,11 +21,14 @@ yt_link: https://music.youtube.com/watch?v=o51p5IRJ5Tc&si=1_U7SuJwXF94Jntg
 > - **🎤 演唱：** [[StephanieH]] (Bb)
 > - **🎤 演唱：** [[虹竹]] (C)
 > - **🎤 演唱：** [[小丰]] (B)
+> - **🎤 演唱：** [[Djavan]] (Ab)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
 > - 🥁 Sunshine Pop - 32 (BPM: 105)
 > - 🥁 Killing Beat - 30 (BPM: 93)
+
+
 
 
 > [!lyrics]

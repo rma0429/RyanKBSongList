@@ -27,6 +27,7 @@ Check the graph on the right to see how songs and artists are connected.
 Exclusive playlists for collaborating artists
 合作歌手專屬歌單
 - [[Brandon]]
+- [[Djavan]]
 - [[Ryan ]]
 - [[StephanieH]]
 - [[歐育齊]]

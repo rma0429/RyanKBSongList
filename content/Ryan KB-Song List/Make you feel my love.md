@@ -6,6 +6,7 @@ tags:
   - Style/Piano
   - 原Key/Bb
   - Adele
+  - Singer/Djavan/Bb
 org_artist:
   - Adele
 yt_link: https://music.youtube.com/watch?v=9IzKueQ2ZxY&si=kNmOeIdgqQKLdgds
@@ -17,10 +18,13 @@ yt_link: https://music.youtube.com/watch?v=9IzKueQ2ZxY&si=kNmOeIdgqQKLdgds
 > 
 > - **🎤 演唱：** [[StephanieH]] (Bb)
 > - **🎤 演唱：** [[虹竹]] (C)
+> - **🎤 演唱：** [[Djavan]] (Bb)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
 > - 🎹 Piano
+
+
 
 
 > [!lyrics]

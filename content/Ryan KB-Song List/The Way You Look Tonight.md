@@ -6,6 +6,7 @@ tags:
   - Style/109/110
   - 原Key/Eb
   - Frank_Sinatra
+  - Singer/Djavan/Ab
 org_artist:
   - Frank Sinatra
 yt_link: https://music.youtube.com/watch?v=YFham2Xu6nA&si=im4V-LMl4gJ-aj1i
@@ -17,6 +18,7 @@ yt_link: https://music.youtube.com/watch?v=YFham2Xu6nA&si=im4V-LMl4gJ-aj1i
 > 
 > - **🎤 演唱：** [[StephanieH]] (Bb)
 > - **🎤 演唱：** [[虹竹]] (B)
+> - **🎤 演唱：** [[Djavan]] (Ab)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 

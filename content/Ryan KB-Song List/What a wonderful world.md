@@ -8,6 +8,7 @@ tags:
   - Style/109/110
   - 原Key/F
   - Louis_Armstrong
+  - Singer/Djavan/A
 org_artist:
   - Louis Armstrong
 yt_link: https://music.youtube.com/watch?v=fnyMzZiKfkY&si=QXuUFituhliSC9_f
@@ -19,13 +20,13 @@ yt_link: https://music.youtube.com/watch?v=fnyMzZiKfkY&si=QXuUFituhliSC9_f
 > 
 > - **🎤 演唱：** [[StephanieH]] (C)
 > - **🎤 演唱：** [[小丰]] (C)
+> - **🎤 演唱：** [[Djavan]] (A)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
 > - 🎹 Piano
 > - 🥁 RomanticBeat - 22 (BPM: 60)
 > - 🥁 Jazz Bossa - 109 (BPM: 110)
-
 
 > [!lyrics]
 > ![[assets/What a wonderful world.png]]
