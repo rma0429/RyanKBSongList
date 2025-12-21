@@ -95,3 +95,17 @@
 #Singer/歐育齊/A
 #Singer/歐育齊/Bb
 #Singer/歐育齊/B
+
+#Singer/小天
+#Singer/小天/C
+#Singer/小天/Db
+#Singer/小天/D
+#Singer/小天/Eb
+#Singer/小天/E
+#Singer/小天/F
+#Singer/小天/Gb
+#Singer/小天/G
+#Singer/小天/Ab
+#Singer/小天/A
+#Singer/小天/Bb
+#Singer/小天/B
