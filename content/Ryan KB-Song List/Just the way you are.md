@@ -8,6 +8,7 @@ tags:
   - Style/109/110
   - 原Key/F
   - Bruno_Mars
+  - Singer/小天/F
 org_artist:
   - Bruno Mars
 yt_link: https://music.youtube.com/watch?v=E-UJTGXof6Q&si=28GuxEqt1pcOy5xH
@@ -20,20 +21,17 @@ yt_link: https://music.youtube.com/watch?v=E-UJTGXof6Q&si=28GuxEqt1pcOy5xH
 > - **🎤 演唱：** [[StephanieH]] (F)
 > - **🎤 演唱：** [[小丰]] (Gb)
 > - **🎤 演唱：** [[虹竹]] (G)
+> - **🎤 演唱：** [[小天]] (F)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
 > - 🥁 Slow Disco - 157 (BPM: 110)
 > - 🥁 Jazz Bossa - 109 (BPM: 110)
 
-
 > [!lyrics]
 > ![[assets/Just the way you are.png]]
 >
 >
-> - Intr ：
-> - Ver. ：
-> - PrC.：
-> - C.    ：
-> - Brg ：
-> - Otr ：
+
+
+

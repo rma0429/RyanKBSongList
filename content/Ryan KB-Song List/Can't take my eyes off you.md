@@ -8,6 +8,8 @@ tags:
   - 原Key/E
   - Morten_Harket
   - Singer/Djavan/G
+  - Style/152/120
+  - Singer/小天/G
 org_artist:
   - Morten Harket
 yt_link: https://music.youtube.com/watch?v=3pYqVj-FyBk&si=OzWwh0zb6mkiSh8V
@@ -21,21 +23,13 @@ yt_link: https://music.youtube.com/watch?v=3pYqVj-FyBk&si=OzWwh0zb6mkiSh8V
 > - **🎤 演唱：** [[虹竹]] (G)
 > - **🎤 演唱：** [[小丰]] (Ab)
 > - **🎤 演唱：** [[Djavan]] (G)
+> - **🎤 演唱：** [[小天]] (G)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
 > - 🥁 Gold MedBeat - 31 (BPM: 120)
-
-
-
-
+> - 🥁 Night's Dance - 152 (BPM: 120)
 > [!lyrics]
 > ![[assets/Can't take my eyes off you.png]]
 >
 >
-> - Intr ：
-> - Ver. ：
-> - PrC.：
-> - C.    ：
-> - Brg ：
-> - Otr ：
