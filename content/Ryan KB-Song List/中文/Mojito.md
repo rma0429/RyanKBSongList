@@ -25,9 +25,4 @@ yt_link: https://music.youtube.com/watch?v=m-3MNcF2COk&si=t-yl6ylD3m01zxJI
 > ![[assets/Mojito.png]]
 >
 >
-> - Intr ：
-> - Ver. ：
-> - PrC.：
-> - C.    ：
-> - Brg ：
-> - Otr ：
+> ![[Mojito-1.png|345x569]]
