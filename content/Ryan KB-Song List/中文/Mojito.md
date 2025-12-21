@@ -16,6 +16,7 @@ yt_link: https://music.youtube.com/watch?v=m-3MNcF2COk&si=t-yl6ylD3m01zxJI
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
 > - **🎤 演唱：** [[StephanieH]] (C)
+> - **🎤 演唱：** [[小天]] (D)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
