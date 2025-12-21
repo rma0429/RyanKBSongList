@@ -5,6 +5,7 @@ tags:
   - Style/294/115
   - 原Key/C
   - 周杰倫
+  - Singer/小天/D
 org_artist:
   - 周杰倫
 yt_link: https://music.youtube.com/watch?v=m-3MNcF2COk&si=t-yl6ylD3m01zxJI
