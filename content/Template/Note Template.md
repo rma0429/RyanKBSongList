@@ -1,8 +1,3 @@
-title: <% tp.file.title %>
-Key:
-Tempo: 
-Style: 
-
 
 In:
 
