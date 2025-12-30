@@ -12,9 +12,9 @@ search for any song or artist instantly.
 
 📂 Browse (瀏覽):
 
-Use the Explorer on the left sidebar to navigate through folders (e.g., Languages, Genres).
+Use the Explorer open on the left sidebar to navigate through folders 
 
-使用左側的 Explorer (檔案瀏覽器) 查看不同分類的資料夾（如：中文歌、英文歌）。
+使用左側點開的 Explorer (檔案瀏覽器) 查看不同分類的資料夾
 
 🔗 Graph View (關聯圖):
 
