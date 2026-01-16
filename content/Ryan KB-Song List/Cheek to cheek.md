@@ -32,10 +32,8 @@ yt_link: https://music.youtube.com/watch?v=lGfeCe0DHtI&si=u4HhuuRD18vCkaR_
 > [!lyrics]
 > ![[assets/Cheek to cheek.png]]
 >
->
-> - Intr ：
-> - Ver. ：
-> - PrC.：
-> - C.    ：
-> - Brg ：
-> - Otr ：
+>![[Cheek to cheek.jpg]]
+
+
+
+
