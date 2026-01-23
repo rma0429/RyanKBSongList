@@ -4,6 +4,7 @@ tags:
   - 原Key/Gb
   - Foreigner
   - Style/29/80
+  - Singer/歐育齊/Ab
 org_artist:
   - Foreigner
 yt_link: https://music.youtube.com/watch?v=4jA-_g_iSY0&si=N0X88rgK9fRMvuTx
@@ -13,7 +14,7 @@ yt_link: https://music.youtube.com/watch?v=4jA-_g_iSY0&si=N0X88rgK9fRMvuTx
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
-> - **🎤 演唱：** 未設定
+> - **🎤 演唱：** [[歐育齊]] (Ab)
 > 
 > <hr style="margin: 0.5em 0; border-color: rgba(255,255,255,0.2);">
 > 
